@@ -25,22 +25,27 @@
 {string} utenti  = ... ;
 {string} locazioni = ... ;
  
-float d[locazioni] = ... ;
-float c[utenti][locazioni] = ... ;
+float costi_attivazione[locazioni] = ... ;
+float costi_collegamento[utenti][locazioni] = ... ;
  
 dvar float+ x[utenti][locazioni];
 dvar float+ y[locazioni];
  
 
 
-minimize sum (j in locazioni) d[j]*y[j] + sum (i in utenti, j in locazioni) c[i][j]*x[i][j];
+minimize sum (j in locazioni) costi_attivazione[j]*y[j] + sum (i in utenti, j in locazioni) costi_collegamento[i][j]*x[i][j];
+
 subject to {
+
 	forall (i in utenti)
 	  sum (j in locazioni) x[i][j] == 1;
+	  
 	forall (i in utenti, j in locazioni)
 	  x[i][j] <= y[j];
+	  
 	// forall (i in users, j in plants)
 	//   x[i][j] >= 0;			// vincolo ridondante visto che x è float+
+	
 	forall (j in locazioni)
 	  y[j] <= 1;				// y[j] >= 0 omesso perché y è float+
 }
