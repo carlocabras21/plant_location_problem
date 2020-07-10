@@ -22,25 +22,16 @@
  	0 <= y_j <= 1
  */
  
- {string} utenti  = ... ;
- {string} locazioni = ... ;
+{string} utenti  = ... ;
+{string} locazioni = ... ;
  
- float d[locazioni] = ... ;
- float c[utenti][locazioni] = ... ;
+float d[locazioni] = ... ;
+float c[utenti][locazioni] = ... ;
  
- dvar float+ x[utenti][locazioni];
- dvar float+ y[locazioni];
+dvar float+ x[utenti][locazioni];
+dvar float+ y[locazioni];
  
- /*
-minimize sum(j in alimenti) alimento[j].costo * x[j];
-subject to {
-	forall(i in valori_nutrizionali)
-		vincolo_val_nutr_min:
-			sum(j in alimenti) alimento[j].val_nutr_unitari[i] * x[j] >= val_nutr_min[i];
-	forall(j in alimenti)
-		vincolo_quant_max:
-			x[j] <= alimento[j].quant_max;
-}*/
+
 
 minimize sum (j in locazioni) d[j]*y[j] + sum (i in utenti, j in locazioni) c[i][j]*x[i][j];
 subject to {
