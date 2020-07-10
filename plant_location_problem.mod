@@ -28,8 +28,8 @@
 float costi_attivazione[locazioni] = ... ;
 float costi_collegamento[utenti][locazioni] = ... ;
  
-dvar float+ x[utenti][locazioni];
-dvar float+ y[locazioni];
+dvar int+ x[utenti][locazioni];
+dvar int+ y[locazioni];
  
 
 
@@ -44,10 +44,10 @@ subject to {
 	  x[i][j] <= y[j];
 	  
 	// forall (i in users, j in plants)
-	//   x[i][j] >= 0;			// vincolo ridondante visto che x è float+
+	//   x[i][j] >= 0;			// vincolo ridondante visto che x è int+
 	
 	forall (j in locazioni)
-	  y[j] <= 1;				// y[j] >= 0 omesso perché y è float+
+	  y[j] <= 1;				// y[j] >= 0 omesso perché y è int+
 }
 
 
