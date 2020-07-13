@@ -1,9 +1,18 @@
+# ATTENZIONE: questo programma sovrascrive plant_location_problem.dat 
+
 import random
 
 # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 # modificare questi dati per cambiare le dimensioni del problema
 N_UTENTI = 5
 N_LOCAZIONI = 2
+
+COSTO_ATTIVAZIONE_MIN = 1
+COSTO_ATTIVAZIONE_MAX = 50
+
+COSTO_COLLEGAMENTO_MIN = 1
+COSTO_COLLEGAMENTO_MAX = 50
+
 # * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 
@@ -34,7 +43,7 @@ print (locazioni)
 costi_attivazione = "costi_attivazione = ["
 
 for i in range(0, N_LOCAZIONI):
-	costi_attivazione += str(random.randint(1,50)) + ', '
+	costi_attivazione += str(random.randint(COSTO_ATTIVAZIONE_MIN,COSTO_ATTIVAZIONE_MAX)) + ', '
 costi_attivazione = costi_attivazione[:-2]
 costi_attivazione += '];\n'
 
@@ -47,7 +56,7 @@ costi_collegamento = "costi_collegamento = ["
 for i in range(0, N_UTENTI):
 	costi_collegamento += '['
 	for i in range(0, N_LOCAZIONI):
-		costi_collegamento += str(random.randint(1,50)) + ', '
+		costi_collegamento += str(random.randint(COSTO_COLLEGAMENTO_MIN,COSTO_COLLEGAMENTO_MAX)) + ', '
 	costi_collegamento = costi_collegamento[:-2]
 	costi_collegamento += '], '
 costi_collegamento = costi_collegamento[:-2]

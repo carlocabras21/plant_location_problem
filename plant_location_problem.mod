@@ -22,35 +22,36 @@
  	0 <= y_j <= 1
  */
  
-{string} utenti  = ... ;
-{string} locazioni = ... ;
- 
-float costi_attivazione[locazioni] = ... ;
-float costi_collegamento[utenti][locazioni] = ... ;
- 
-dvar int+ x[utenti][locazioni];
-dvar int+ y[locazioni];
- 
+{string} datFiles=...;
 
+main {
+      var source = new IloOplModelSource("plant_location_problem_sub.mod");
+      var cplex = new IloCplex();
+      var def = new IloOplModelDefinition(source);
 
-minimize sum (j in locazioni) costi_attivazione[j]*y[j] + sum (i in utenti, j in locazioni) costi_collegamento[i][j]*x[i][j];
-
-subject to {
-
-	forall (i in utenti)
-	  sum (j in locazioni) x[i][j] == 1;
-	  
-	forall (i in utenti, j in locazioni)
-	  x[i][j] <= y[j];
-	  
-	// forall (i in users, j in plants)
-	//   x[i][j] >= 0;			// vincolo ridondante visto che x è int+
+      for(var datFile in thisOplModel.datFiles){
+	      var opl  = new IloOplModel(def,cplex);
 	
-	forall (j in locazioni)
-	  y[j] <= 1;				// y[j] >= 0 omesso perché y è int+
-}
+	      var data = new IloOplDataSource(datFile);
+	
+	      opl.addDataSource(data);
+	      opl.generate();
+	
+	      if (cplex.solve()) {  
+	         opl.postProcess();
+	         // stampa il risultato su file:
+	         // var o=new IloOplOutputFile("res"+datFile+".txt");
+	         // o.writeln("OBJ = " + cplex.getObjValue());
+	         // o.close();
+	         writeln("OBJ = " + cplex.getObjValue());
+	      } 
+	      else {
+	         writeln("No solution");
+	      }
+	     opl.end();
+    }  
 
-
+    }
 
 
 
