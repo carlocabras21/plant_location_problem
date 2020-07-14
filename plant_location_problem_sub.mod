@@ -11,10 +11,10 @@
 float costi_attivazione[locazioni] = ... ;
 float costi_collegamento[utenti][locazioni] = ... ;
  
-dvar float+ x[utenti][locazioni];
-dvar float+ y[locazioni];
+dvar int+ x[utenti][locazioni];
+dvar int+ y[locazioni];
  
-
+	
 
 minimize sum (j in locazioni) costi_attivazione[j]*y[j] + sum (i in utenti, j in locazioni) costi_collegamento[i][j]*x[i][j];
 
@@ -33,8 +33,8 @@ subject to {
 	  y[j] <= 1;				// y[j] >= 0 omesso perché y è int+
 }
 
-execute
-{
-  writeln("x= ",x);
-  writeln("y= ",y);
+
+execute {
+  //writeln("x= ",x);
+  //writeln("y= ",y);
 }
