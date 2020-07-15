@@ -1,20 +1,16 @@
 # su windows, quindi python 3
 
 import os
+from utils import *
 
-# lista delle cartelli contenenti i file di benchmark BildeKrarup
-cartelle = ["BildeKrarup/B","BildeKrarup/C","BildeKrarup/Dq/1","BildeKrarup/Dq/2", 
-			"BildeKrarup/Dq/3","BildeKrarup/Dq/4","BildeKrarup/Dq/5","BildeKrarup/Dq/6", 
-			"BildeKrarup/Dq/7","BildeKrarup/Dq/8","BildeKrarup/Dq/9","BildeKrarup/Dq/10", 
-			"BildeKrarup/Eq/1","BildeKrarup/Eq/2","BildeKrarup/Eq/3","BildeKrarup/Eq/4", 
-			"BildeKrarup/Eq/5","BildeKrarup/Eq/6","BildeKrarup/Eq/7","BildeKrarup/Eq/8", 
-			"BildeKrarup/Eq/9","BildeKrarup/Eq/10"]
+# lista delle cartelli contenenti i file di benchmark 
+cartelle = get_folders_list()
 
 
 # cartelle = ["BildeKrarup/B"] # per testing
 
 # file dove salvo i risultati
-f = open("confronto_risultati.txt", "w")
+f = open("risultati/confronto_risultati_" + get_tests_string() + ".txt", "w")
 
 # flag per capire se i miei risultati si possono ritenere corretti
 errore_grave = False
@@ -29,8 +25,8 @@ for cartella in cartelle:
 											and "new" not in item]
 	
 	# ordino i dati in modo da avere i file ordinati come B1.1, B1.2, B1.3 [...] anziché B1.1, B1.10, B1.2
-	sorted_files = sorted(filtered_files, key = lambda x: int(x.split(".")[1]))
-	for file in sorted_files:
+	# sorted_files = sorted(filtered_files, key = lambda x: int(x.split(".")[1]))
+	for file in filtered_files:
 				
 		# apro i file relativi alle soluzioni ottimali
 		f_orig = open(cartella + "/" + file + ".opt", 'r') 		# soluzioni fornite 
