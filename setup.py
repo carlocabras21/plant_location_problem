@@ -2,8 +2,8 @@
 
 bilde = False
 chess = False
-euclid = True
-fpp11 = False
+euclid = False
+fpp11 = True
 fpp17 = False
 koerkgosh_sym = False
 

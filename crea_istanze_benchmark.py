@@ -23,8 +23,6 @@ for cartella in cartelle:
 											and "dat" not in item \
 											and "new" not in item]
 	
-	# ordino i dati in modo da avere i file ordinati come B1.1, B1.2, B1.3 [...] anziché B1.1, B1.10, B1.2
-	#sorted_files = sorted(filtered_files, key = lambda x: int(x.split(".")[1]))
 	for file in filtered_files:
 		
 		if file + "_new" not in files:
@@ -96,7 +94,7 @@ for cartella in cartelle:
 		# aggiungi il file alla lista delle istanze da far analizzare a cplex
 		datFiles += '"' + cartella + "/" + file + "_new" + '",'
 
-# scrittura del vettore dei file dei dati 
+# scrittura file dei dati che serve a cplex
 datFiles = datFiles[:-1] + '};'			
 f = open("plant_location_problem.dat", "w")
 f.write(datFiles)
