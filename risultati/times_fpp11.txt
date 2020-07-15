@@ -1,0 +1,32 @@
+benchmark_data/Fpp11/10FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.234 s
+benchmark_data/Fpp11/11FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.609 s
+benchmark_data/Fpp11/12FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.312 s
+benchmark_data/Fpp11/13FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.656 s
+benchmark_data/Fpp11/14FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8 s
+benchmark_data/Fpp11/15FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.531 s
+benchmark_data/Fpp11/16FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.485 s
+benchmark_data/Fpp11/17FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.36 s
+benchmark_data/Fpp11/18FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.735 s
+benchmark_data/Fpp11/19FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.484 s
+benchmark_data/Fpp11/1FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 9.328 s
+benchmark_data/Fpp11/20FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 9.641 s
+benchmark_data/Fpp11/21FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.422 s
+benchmark_data/Fpp11/22FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.813 s
+benchmark_data/Fpp11/23FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.297 s
+benchmark_data/Fpp11/24FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.282 s
+benchmark_data/Fpp11/25FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 7.532 s
+benchmark_data/Fpp11/26FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.375 s
+benchmark_data/Fpp11/27FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 9.672 s
+benchmark_data/Fpp11/28FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.516 s
+benchmark_data/Fpp11/29FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.485 s
+benchmark_data/Fpp11/2FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.812 s
+benchmark_data/Fpp11/30FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.61 s
+benchmark_data/Fpp11/3FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 9.328 s
+benchmark_data/Fpp11/4FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.734 s
+benchmark_data/Fpp11/5FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 7.672 s
+benchmark_data/Fpp11/6FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 7.859 s
+benchmark_data/Fpp11/7FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 10.078 s
+benchmark_data/Fpp11/8FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.657 s
+benchmark_data/Fpp11/9FPP_11S.txt_new, 133 utenti e 133 locazioni. Tempo di risoluzione: 8.609 s
+
+Tempo complessivo: 258.128 s
