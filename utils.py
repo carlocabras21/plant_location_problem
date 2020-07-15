@@ -26,10 +26,24 @@ def get_folders_list():
 		cartelle += ["benchmark_data/Fpp17"]
 		
 	if koerkgosh_sym:
-		cartell += ["benchmark_data/KoerkelGosh-sym/250/a", "benchmark_data/KoerkelGosh-sym/250/b", "benchmark_data/KoerkelGosh-sym/250/c", 
+		cartelle += ["benchmark_data/KoerkelGosh-sym/250/a", "benchmark_data/KoerkelGosh-sym/250/b", "benchmark_data/KoerkelGosh-sym/250/c", 
 					"benchmark_data/KoerkelGosh-sym/500/a", "benchmark_data/KoerkelGosh-sym/500/b", "benchmark_data/KoerkelGosh-sym/500/c", 
 					"benchmark_data/KoerkelGosh-sym/750/a", "benchmark_data/KoerkelGosh-sym/750/b", "benchmark_data/KoerkelGosh-sym/750/c"]
+
+	if koerkgosh_assym:
+		cartelle += ["benchmark_data/KoerkelGosh-assym/250/a", "benchmark_data/KoerkelGosh-assym/250/b", "benchmark_data/KoerkelGosh-assym/250/c", 
+					"benchmark_data/KoerkelGosh-assym/500/a", "benchmark_data/KoerkelGosh-assym/500/b", "benchmark_data/KoerkelGosh-assym/500/c", 
+					"benchmark_data/KoerkelGosh-assym/750/a", "benchmark_data/KoerkelGosh-assym/750/b", "benchmark_data/KoerkelGosh-assym/750/c"]
+	if gapa:
+		cartelle += ["benchmark_data/GapA"]
+	
+	if gapb:
+		cartelle += ["benchmark_data/GapB"]
 		
+	if gapc:
+		cartelle += ["benchmark_data/GapC"]
+		
+	
 	return cartelle
 	
 def get_tests_string():
@@ -51,5 +65,17 @@ def get_tests_string():
 		
 	if koerkgosh_sym:
 		tests += "koerkgosh_sym"
+		
+	if koerkgosh_assym:
+		tests += "koerkgosh_assym"
+		
+	if gapa:
+		tests += gapa
+		
+	if gapb:
+		tests += gapb
+		
+	if gapc:
+		tests += gapc
 		
 	return tests

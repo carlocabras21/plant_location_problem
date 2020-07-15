@@ -1,0 +1,32 @@
+benchmark_data/Fpp17/10FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 617.531 s
+benchmark_data/Fpp17/11FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 655.016 s
+benchmark_data/Fpp17/12FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 673.375 s
+benchmark_data/Fpp17/13FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 596.984 s
+benchmark_data/Fpp17/14FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 539.36 s
+benchmark_data/Fpp17/15FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 541.485 s
+benchmark_data/Fpp17/16FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 595.969 s
+benchmark_data/Fpp17/17FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 670.547 s
+benchmark_data/Fpp17/18FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 589.578 s
+benchmark_data/Fpp17/19FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 540.421 s
+benchmark_data/Fpp17/1FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 532.219 s
+benchmark_data/Fpp17/20FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 541.546 s
+benchmark_data/Fpp17/21FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 530.578 s
+benchmark_data/Fpp17/22FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 536.688 s
+benchmark_data/Fpp17/23FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 537.797 s
+benchmark_data/Fpp17/24FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 568.703 s
+benchmark_data/Fpp17/25FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 614.969 s
+benchmark_data/Fpp17/26FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 659.219 s
+benchmark_data/Fpp17/27FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 587.328 s
+benchmark_data/Fpp17/28FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 548.562 s
+benchmark_data/Fpp17/29FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 537.39 s
+benchmark_data/Fpp17/2FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 557 s
+benchmark_data/Fpp17/30FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 538.657 s
+benchmark_data/Fpp17/3FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 526.25 s
+benchmark_data/Fpp17/4FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 539.219 s
+benchmark_data/Fpp17/5FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 538.078 s
+benchmark_data/Fpp17/6FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 555.985 s
+benchmark_data/Fpp17/7FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 536.704 s
+benchmark_data/Fpp17/8FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 536 s
+benchmark_data/Fpp17/9FPP_17S.txt_new, 307 utenti e 307 locazioni. Tempo di risoluzione: 541.516 s
+
+Tempo complessivo: 17084.674 s

@@ -1,0 +1,1191 @@
+10FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 149 collegato originariamente al 112, nel mio al 292
+11FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 250 collegato originariamente al 86, nel mio al 243
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 0 collegato originariamente al 89, nel mio al 205
+12FPP_17S.txt: ERRORE, l'utente 1 collegato originariamente al 33, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 2 collegato originariamente al 231, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 3 collegato originariamente al 227, nel mio al 126
+12FPP_17S.txt: ERRORE, l'utente 4 collegato originariamente al 5, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 5 collegato originariamente al 5, nel mio al 20
+12FPP_17S.txt: ERRORE, l'utente 6 collegato originariamente al 211, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 7 collegato originariamente al 231, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 8 collegato originariamente al 211, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 9 collegato originariamente al 10, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 10 collegato originariamente al 10, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 11 collegato originariamente al 240, nel mio al 100
+12FPP_17S.txt: ERRORE, l'utente 12 collegato originariamente al 5, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 13 collegato originariamente al 45, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 14 collegato originariamente al 103, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 15 collegato originariamente al 5, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 16 collegato originariamente al 240, nel mio al 219
+12FPP_17S.txt: ERRORE, l'utente 17 collegato originariamente al 10, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 18 collegato originariamente al 33, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 19 collegato originariamente al 51, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 20 collegato originariamente al 10, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 21 collegato originariamente al 291, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 22 collegato originariamente al 227, nel mio al 161
+12FPP_17S.txt: ERRORE, l'utente 24 collegato originariamente al 227, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 25 collegato originariamente al 177, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 26 collegato originariamente al 231, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 27 collegato originariamente al 291, nel mio al 20
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 28 collegato originariamente al 231, nel mio al 167
+12FPP_17S.txt: ERRORE, l'utente 30 collegato originariamente al 45, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 31 collegato originariamente al 120, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 32 collegato originariamente al 33, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 33 collegato originariamente al 33, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 34 collegato originariamente al 177, nel mio al 49
+12FPP_17S.txt: ERRORE, l'utente 35 collegato originariamente al 240, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 36 collegato originariamente al 51, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 37 collegato originariamente al 240, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 38 collegato originariamente al 177, nel mio al 161
+12FPP_17S.txt: ERRORE, l'utente 39 collegato originariamente al 291, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 40 collegato originariamente al 33, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 42 collegato originariamente al 5, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 43 collegato originariamente al 33, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 44 collegato originariamente al 45, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 45 collegato originariamente al 45, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 46 collegato originariamente al 78, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 47 collegato originariamente al 10, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 48 collegato originariamente al 5, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 49 collegato originariamente al 81, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 50 collegato originariamente al 51, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 51 collegato originariamente al 51, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 52 collegato originariamente al 45, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 53 collegato originariamente al 10, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 54 collegato originariamente al 177, nel mio al 197
+12FPP_17S.txt: ERRORE, l'utente 55 collegato originariamente al 45, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 56 collegato originariamente al 88, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 57 collegato originariamente al 89, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 58 collegato originariamente al 51, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 59 collegato originariamente al 211, nel mio al 49
+12FPP_17S.txt: ERRORE, l'utente 60 collegato originariamente al 5, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 61 collegato originariamente al 51, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 62 collegato originariamente al 291, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 63 collegato originariamente al 78, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 65 collegato originariamente al 10, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 66 collegato originariamente al 81, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 67 collegato originariamente al 291, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 68 collegato originariamente al 211, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 70 collegato originariamente al 33, nel mio al 102
+12FPP_17S.txt: ERRORE, l'utente 71 collegato originariamente al 103, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 72 collegato originariamente al 211, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 73 collegato originariamente al 88, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 74 collegato originariamente al 89, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 75 collegato originariamente al 227, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 76 collegato originariamente al 33, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 77 collegato originariamente al 78, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 78 collegato originariamente al 78, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 79 collegato originariamente al 231, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 80 collegato originariamente al 81, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 81 collegato originariamente al 81, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 82 collegato originariamente al 45, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 83 collegato originariamente al 5, nel mio al 40
+12FPP_17S.txt: ERRORE, l'utente 84 collegato originariamente al 227, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 85 collegato originariamente al 78, nel mio al 100
+12FPP_17S.txt: ERRORE, l'utente 86 collegato originariamente al 291, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 87 collegato originariamente al 88, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 88 collegato originariamente al 5, nel mio al 293
+12FPP_17S.txt: ERRORE, l'utente 89 collegato originariamente al 89, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 91 collegato originariamente al 81, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 92 collegato originariamente al 231, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 93 collegato originariamente al 10, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 94 collegato originariamente al 51, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 95 collegato originariamente al 88, nel mio al 40
+12FPP_17S.txt: ERRORE, l'utente 96 collegato originariamente al 89, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 97 collegato originariamente al 240, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 98 collegato originariamente al 88, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 99 collegato originariamente al 89, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 100 collegato originariamente al 45, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 101 collegato originariamente al 240, nel mio al 102
+12FPP_17S.txt: ERRORE, l'utente 102 collegato originariamente al 103, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 103 collegato originariamente al 103, nel mio al 20
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 104 collegato originariamente al 227, nel mio al 49
+12FPP_17S.txt: ERRORE, l'utente 105 collegato originariamente al 120, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 106 collegato originariamente al 51, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 107 collegato originariamente al 5, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 108 collegato originariamente al 231, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 109 collegato originariamente al 5, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 110 collegato originariamente al 103, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 111 collegato originariamente al 33, nel mio al 126
+12FPP_17S.txt: ERRORE, l'utente 112 collegato originariamente al 10, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 113 collegato originariamente al 103, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 114 collegato originariamente al 10, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 115 collegato originariamente al 78, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 116 collegato originariamente al 33, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 117 collegato originariamente al 240, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 118 collegato originariamente al 81, nel mio al 40
+12FPP_17S.txt: ERRORE, l'utente 119 collegato originariamente al 120, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 120 collegato originariamente al 120, nel mio al 121
+12FPP_17S.txt: ERRORE, l'utente 121 collegato originariamente al 78, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 122 collegato originariamente al 211, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 123 collegato originariamente al 45, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 124 collegato originariamente al 81, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 125 collegato originariamente al 88, nel mio al 126
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 126 collegato originariamente al 89, nel mio al 126
+12FPP_17S.txt: ERRORE, l'utente 127 collegato originariamente al 120, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 128 collegato originariamente al 45, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 129 collegato originariamente al 51, nel mio al 161
+12FPP_17S.txt: ERRORE, l'utente 130 collegato originariamente al 120, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 131 collegato originariamente al 88, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 132 collegato originariamente al 89, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 133 collegato originariamente al 78, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 134 collegato originariamente al 51, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 135 collegato originariamente al 33, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 136 collegato originariamente al 81, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 137 collegato originariamente al 33, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 138 collegato originariamente al 227, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 139 collegato originariamente al 291, nel mio al 102
+12FPP_17S.txt: ERRORE, l'utente 140 collegato originariamente al 103, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 142 collegato originariamente al 231, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 143 collegato originariamente al 88, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 144 collegato originariamente al 89, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 145 collegato originariamente al 177, nel mio al 102
+12FPP_17S.txt: ERRORE, l'utente 146 collegato originariamente al 103, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 147 collegato originariamente al 45, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 148 collegato originariamente al 291, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 149 collegato originariamente al 45, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 151 collegato originariamente al 240, nel mio al 49
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 152 collegato originariamente al 291, nel mio al 167
+12FPP_17S.txt: ERRORE, l'utente 153 collegato originariamente al 51, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 155 collegato originariamente al 51, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 156 collegato originariamente al 78, nel mio al 149
+12FPP_17S.txt: ERRORE, l'utente 157 collegato originariamente al 120, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 158 collegato originariamente al 103, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 159 collegato originariamente al 81, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 160 collegato originariamente al 5, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 161 collegato originariamente al 78, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 162 collegato originariamente al 177, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 163 collegato originariamente al 120, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 164 collegato originariamente al 81, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 165 collegato originariamente al 10, nel mio al 197
+12FPP_17S.txt: ERRORE, l'utente 166 collegato originariamente al 88, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 167 collegato originariamente al 89, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 168 collegato originariamente al 291, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 169 collegato originariamente al 5, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 171 collegato originariamente al 88, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 172 collegato originariamente al 89, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 173 collegato originariamente al 5, nel mio al 205
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 174 collegato originariamente al 10, nel mio al 167
+12FPP_17S.txt: ERRORE, l'utente 175 collegato originariamente al 120, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 176 collegato originariamente al 177, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 177 collegato originariamente al 177, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 178 collegato originariamente al 10, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 179 collegato originariamente al 211, nel mio al 194
+12FPP_17S.txt: ERRORE, l'utente 180 collegato originariamente al 78, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 181 collegato originariamente al 103, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 182 collegato originariamente al 78, nel mio al 197
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 183 collegato originariamente al 81, nel mio al 100
+12FPP_17S.txt: ERRORE, l'utente 184 collegato originariamente al 177, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 185 collegato originariamente al 81, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 186 collegato originariamente al 103, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 187 collegato originariamente al 177, nel mio al 219
+12FPP_17S.txt: ERRORE, l'utente 188 collegato originariamente al 33, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 189 collegato originariamente al 5, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 190 collegato originariamente al 88, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 191 collegato originariamente al 89, nel mio al 36
+12FPP_17S.txt: ERRORE, l'utente 192 collegato originariamente al 88, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 193 collegato originariamente al 89, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 194 collegato originariamente al 10, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 195 collegato originariamente al 227, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 196 collegato originariamente al 211, nel mio al 197
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 197 collegato originariamente al 33, nel mio al 197
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 198 collegato originariamente al 120, nel mio al 161
+12FPP_17S.txt: ERRORE, l'utente 199 collegato originariamente al 231, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 200 collegato originariamente al 45, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 201 collegato originariamente al 33, nel mio al 194
+12FPP_17S.txt: ERRORE, l'utente 202 collegato originariamente al 291, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 203 collegato originariamente al 120, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 204 collegato originariamente al 293, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 205 collegato originariamente al 103, nel mio al 205
+12FPP_17S.txt: ERRORE, l'utente 206 collegato originariamente al 51, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 207 collegato originariamente al 103, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 208 collegato originariamente al 240, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 209 collegato originariamente al 45, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 210 collegato originariamente al 211, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 211 collegato originariamente al 211, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 212 collegato originariamente al 227, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 213 collegato originariamente al 45, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 214 collegato originariamente al 177, nel mio al 204
+12FPP_17S.txt: ERRORE, l'utente 215 collegato originariamente al 51, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 216 collegato originariamente al 231, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 217 collegato originariamente al 33, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 218 collegato originariamente al 211, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 219 collegato originariamente al 51, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 220 collegato originariamente al 177, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 221 collegato originariamente al 211, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 222 collegato originariamente al 120, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 223 collegato originariamente al 5, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 224 collegato originariamente al 120, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 225 collegato originariamente al 240, nel mio al 121
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 226 collegato originariamente al 227, nel mio al 219
+12FPP_17S.txt: ERRORE, l'utente 227 collegato originariamente al 227, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 228 collegato originariamente al 10, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 229 collegato originariamente al 45, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 230 collegato originariamente al 231, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 231 collegato originariamente al 231, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 232 collegato originariamente al 177, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 233 collegato originariamente al 78, nel mio al 49
+12FPP_17S.txt: ERRORE, l'utente 234 collegato originariamente al 227, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 235 collegato originariamente al 51, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 236 collegato originariamente al 81, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 237 collegato originariamente al 227, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 238 collegato originariamente al 231, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 239 collegato originariamente al 240, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 240 collegato originariamente al 240, nel mio al 197
+12FPP_17S.txt: ERRORE, l'utente 241 collegato originariamente al 231, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 242 collegato originariamente al 78, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 243 collegato originariamente al 88, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 244 collegato originariamente al 89, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 245 collegato originariamente al 81, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 246 collegato originariamente al 78, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 247 collegato originariamente al 240, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 248 collegato originariamente al 211, nel mio al 205
+12FPP_17S.txt: ERRORE, l'utente 249 collegato originariamente al 81, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 250 collegato originariamente al 240, nel mio al 167
+12FPP_17S.txt: ERRORE, l'utente 251 collegato originariamente al 33, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 252 collegato originariamente al 88, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 253 collegato originariamente al 89, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 254 collegato originariamente al 211, nel mio al 36. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 255 collegato originariamente al 177, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 256 collegato originariamente al 88, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 257 collegato originariamente al 89, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 258 collegato originariamente al 103, nel mio al 40. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 259 collegato originariamente al 291, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 260 collegato originariamente al 177, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 262 collegato originariamente al 78, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 263 collegato originariamente al 45, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 264 collegato originariamente al 227, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 265 collegato originariamente al 81, nel mio al 161. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 266 collegato originariamente al 211, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 267 collegato originariamente al 103, nel mio al 49. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 268 collegato originariamente al 231, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 269 collegato originariamente al 51, nel mio al 167
+12FPP_17S.txt: ERRORE, l'utente 270 collegato originariamente al 227, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 271 collegato originariamente al 103, nel mio al 167. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+12FPP_17S.txt: ERRORE, l'utente 272 collegato originariamente al 88, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 273 collegato originariamente al 89, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 274 collegato originariamente al 231, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 275 collegato originariamente al 120, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 276 collegato originariamente al 291, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 277 collegato originariamente al 240, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 279 collegato originariamente al 177, nel mio al 236
+12FPP_17S.txt: ERRORE, l'utente 280 collegato originariamente al 5, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 281 collegato originariamente al 177, nel mio al 126
+12FPP_17S.txt: ERRORE, l'utente 282 collegato originariamente al 227, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 283 collegato originariamente al 240, nel mio al 205
+12FPP_17S.txt: ERRORE, l'utente 284 collegato originariamente al 120, nel mio al 100. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 285 collegato originariamente al 10, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 286 collegato originariamente al 231, nel mio al 102. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 287 collegato originariamente al 103, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 288 collegato originariamente al 120, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 289 collegato originariamente al 211, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 290 collegato originariamente al 291, nel mio al 126. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+12FPP_17S.txt: ERRORE, l'utente 291 collegato originariamente al 291, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 294 collegato originariamente al 211, nel mio al 126
+12FPP_17S.txt: ERRORE, l'utente 295 collegato originariamente al 240, nel mio al 20. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 296 collegato originariamente al 78, nel mio al 194
+12FPP_17S.txt: ERRORE, l'utente 297 collegato originariamente al 5, nel mio al 219. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: ERRORE, l'utente 298 collegato originariamente al 291, nel mio al 194. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+12FPP_17S.txt: ERRORE, l'utente 299 collegato originariamente al 81, nel mio al 197. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 301 collegato originariamente al 291, nel mio al 197
+12FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 302 collegato originariamente al 10, nel mio al 219
+12FPP_17S.txt: ERRORE, l'utente 304 collegato originariamente al 120, nel mio al 149. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 305 collegato originariamente al 227, nel mio al 121. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+12FPP_17S.txt: ERRORE, l'utente 306 collegato originariamente al 88, nel mio al 204. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+13FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 81 collegato originariamente al 220, nel mio al 224
+14FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 259 collegato originariamente al 252, nel mio al 274
+15FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 87 collegato originariamente al 4, nel mio al 292
+16FPP_17S.txt: ok, stessi risultati
+17FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 257 collegato originariamente al 93, nel mio al 289
+18FPP_17S.txt: ok, stessi risultati
+19FPP_17S.txt: ERRORE, l'utente 0 collegato originariamente al 203, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 1 collegato originariamente al 33, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 3 collegato originariamente al 4, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 4 collegato originariamente al 4, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 5 collegato originariamente al 20, nel mio al 128
+19FPP_17S.txt: ERRORE, l'utente 7 collegato originariamente al 277, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 8 collegato originariamente al 151, nel mio al 9
+19FPP_17S.txt: ERRORE, l'utente 9 collegato originariamente al 24, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 10 collegato originariamente al 133, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 11 collegato originariamente al 4, nel mio al 11
+19FPP_17S.txt: ERRORE, l'utente 12 collegato originariamente al 151, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 13 collegato originariamente al 277, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 14 collegato originariamente al 4, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 15 collegato originariamente al 220, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 16 collegato originariamente al 105, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 17 collegato originariamente al 220, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 18 collegato originariamente al 33, nel mio al 11
+19FPP_17S.txt: ERRORE, l'utente 19 collegato originariamente al 20, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 20 collegato originariamente al 20, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 21 collegato originariamente al 110, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 23 collegato originariamente al 24, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 24 collegato originariamente al 24, nel mio al 113
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 25 collegato originariamente al 277, nel mio al 114
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 26 collegato originariamente al 178, nel mio al 58
+19FPP_17S.txt: ERRORE, l'utente 27 collegato originariamente al 20, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 28 collegato originariamente al 151, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 29 collegato originariamente al 181, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 30 collegato originariamente al 20, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 31 collegato originariamente al 24, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 32 collegato originariamente al 33, nel mio al 256
+19FPP_17S.txt: ERRORE, l'utente 33 collegato originariamente al 33, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 34 collegato originariamente al 24, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 35 collegato originariamente al 178, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 36 collegato originariamente al 188, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 37 collegato originariamente al 189, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 38 collegato originariamente al 181, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 39 collegato originariamente al 178, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 40 collegato originariamente al 33, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 41 collegato originariamente al 4, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 42 collegato originariamente al 181, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 43 collegato originariamente al 33, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 44 collegato originariamente al 133, nel mio al 76
+19FPP_17S.txt: ERRORE, l'utente 45 collegato originariamente al 188, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 46 collegato originariamente al 189, nel mio al 9
+19FPP_17S.txt: ERRORE, l'utente 47 collegato originariamente al 4, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 48 collegato originariamente al 277, nel mio al 11
+19FPP_17S.txt: ERRORE, l'utente 49 collegato originariamente al 188, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 50 collegato originariamente al 189, nel mio al 202
+19FPP_17S.txt: ERRORE, l'utente 51 collegato originariamente al 203, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 52 collegato originariamente al 84, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 53 collegato originariamente al 277, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 54 collegato originariamente al 86, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 55 collegato originariamente al 178, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 57 collegato originariamente al 20, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 58 collegato originariamente al 181, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 59 collegato originariamente al 4, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 60 collegato originariamente al 203, nel mio al 265
+19FPP_17S.txt: ERRORE, l'utente 61 collegato originariamente al 24, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 62 collegato originariamente al 151, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 63 collegato originariamente al 20, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 64 collegato originariamente al 203, nel mio al 9
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 65 collegato originariamente al 188, nel mio al 58
+19FPP_17S.txt: ERRORE, l'utente 66 collegato originariamente al 189, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 67 collegato originariamente al 24, nel mio al 30
+19FPP_17S.txt: ERRORE, l'utente 68 collegato originariamente al 220, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 69 collegato originariamente al 84, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 70 collegato originariamente al 33, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 71 collegato originariamente al 86, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 72 collegato originariamente al 277, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 73 collegato originariamente al 105, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 74 collegato originariamente al 277, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 75 collegato originariamente al 20, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 76 collegato originariamente al 33, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 77 collegato originariamente al 220, nel mio al 70
+19FPP_17S.txt: ERRORE, l'utente 78 collegato originariamente al 110, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 79 collegato originariamente al 24, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 80 collegato originariamente al 203, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 81 collegato originariamente al 220, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 82 collegato originariamente al 4, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 83 collegato originariamente al 84, nel mio al 76
+19FPP_17S.txt: ERRORE, l'utente 84 collegato originariamente al 84, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 85 collegato originariamente al 86, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 86 collegato originariamente al 86, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 87 collegato originariamente al 4, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 88 collegato originariamente al 33, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 89 collegato originariamente al 178, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 90 collegato originariamente al 105, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 91 collegato originariamente al 84, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 92 collegato originariamente al 181, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 93 collegato originariamente al 86, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 94 collegato originariamente al 84, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 95 collegato originariamente al 110, nel mio al 58
+19FPP_17S.txt: ERRORE, l'utente 96 collegato originariamente al 86, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 97 collegato originariamente al 220, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 98 collegato originariamente al 20, nel mio al 113
+19FPP_17S.txt: ERRORE, l'utente 99 collegato originariamente al 188, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 100 collegato originariamente al 189, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 101 collegato originariamente al 133, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 102 collegato originariamente al 24, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 103 collegato originariamente al 20, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 104 collegato originariamente al 105, nel mio al 256
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 105 collegato originariamente al 105, nel mio al 106
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 106 collegato originariamente al 4, nel mio al 106
+19FPP_17S.txt: ERRORE, l'utente 107 collegato originariamente al 24, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 108 collegato originariamente al 4, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 109 collegato originariamente al 110, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 110 collegato originariamente al 110, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 111 collegato originariamente al 33, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 112 collegato originariamente al 105, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 113 collegato originariamente al 145, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 114 collegato originariamente al 203, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 115 collegato originariamente al 105, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 116 collegato originariamente al 33, nel mio al 106
+19FPP_17S.txt: ERRORE, l'utente 117 collegato originariamente al 110, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 118 collegato originariamente al 133, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 119 collegato originariamente al 151, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 120 collegato originariamente al 110, nel mio al 113
+19FPP_17S.txt: ERRORE, l'utente 121 collegato originariamente al 84, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 122 collegato originariamente al 20, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 123 collegato originariamente al 86, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 124 collegato originariamente al 20, nel mio al 114
+19FPP_17S.txt: ERRORE, l'utente 125 collegato originariamente al 277, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 126 collegato originariamente al 24, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 127 collegato originariamente al 84, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 128 collegato originariamente al 24, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 129 collegato originariamente al 86, nel mio al 252
+19FPP_17S.txt: ERRORE, l'utente 131 collegato originariamente al 220, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 132 collegato originariamente al 133, nel mio al 30
+19FPP_17S.txt: ERRORE, l'utente 133 collegato originariamente al 133, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 134 collegato originariamente al 277, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 135 collegato originariamente al 33, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 136 collegato originariamente al 151, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 137 collegato originariamente al 33, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 138 collegato originariamente al 277, nel mio al 128
+19FPP_17S.txt: ERRORE, l'utente 139 collegato originariamente al 84, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 140 collegato originariamente al 133, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 141 collegato originariamente al 86, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 142 collegato originariamente al 105, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 143 collegato originariamente al 133, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 146 collegato originariamente al 178, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 147 collegato originariamente al 110, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 148 collegato originariamente al 105, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 149 collegato originariamente al 181, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 150 collegato originariamente al 151, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 151 collegato originariamente al 151, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 153 collegato originariamente al 110, nel mio al 70
+19FPP_17S.txt: ERRORE, l'utente 154 collegato originariamente al 277, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 156 collegato originariamente al 188, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 157 collegato originariamente al 189, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 158 collegato originariamente al 151, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 159 collegato originariamente al 4, nel mio al 76
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 160 collegato originariamente al 105, nel mio al 58
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 161 collegato originariamente al 151, nel mio al 106
+19FPP_17S.txt: ERRORE, l'utente 162 collegato originariamente al 84, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 163 collegato originariamente al 178, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 164 collegato originariamente al 86, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 165 collegato originariamente al 110, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 166 collegato originariamente al 181, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 167 collegato originariamente al 84, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 168 collegato originariamente al 4, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 169 collegato originariamente al 86, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 170 collegato originariamente al 133, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 171 collegato originariamente al 203, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 172 collegato originariamente al 4, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 173 collegato originariamente al 188, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 174 collegato originariamente al 189, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 175 collegato originariamente al 20, nel mio al 11
+19FPP_17S.txt: ERRORE, l'utente 176 collegato originariamente al 133, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 177 collegato originariamente al 178, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 178 collegato originariamente al 178, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 179 collegato originariamente al 24, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 180 collegato originariamente al 181, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 181 collegato originariamente al 181, nel mio al 103
+19FPP_17S.txt: ERRORE, l'utente 183 collegato originariamente al 105, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 184 collegato originariamente al 20, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 185 collegato originariamente al 178, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 186 collegato originariamente al 84, nel mio al 103
+19FPP_17S.txt: ERRORE, l'utente 187 collegato originariamente al 188, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 188 collegato originariamente al 20, nel mio al 145
+19FPP_17S.txt: ERRORE, l'utente 189 collegato originariamente al 189, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 190 collegato originariamente al 86, nel mio al 35
+19FPP_17S.txt: ERRORE, l'utente 191 collegato originariamente al 181, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 192 collegato originariamente al 24, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 193 collegato originariamente al 110, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 194 collegato originariamente al 151, nel mio al 30
+19FPP_17S.txt: ERRORE, l'utente 195 collegato originariamente al 188, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 196 collegato originariamente al 189, nel mio al 113
+19FPP_17S.txt: ERRORE, l'utente 197 collegato originariamente al 33, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 198 collegato originariamente al 188, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 199 collegato originariamente al 189, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 201 collegato originariamente al 33, nel mio al 202
+19FPP_17S.txt: ERRORE, l'utente 202 collegato originariamente al 203, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 203 collegato originariamente al 203, nel mio al 35
+19FPP_17S.txt: ERRORE, l'utente 204 collegato originariamente al 20, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 205 collegato originariamente al 220, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 206 collegato originariamente al 151, nel mio al 128
+19FPP_17S.txt: ERRORE, l'utente 207 collegato originariamente al 105, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 208 collegato originariamente al 24, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 209 collegato originariamente al 105, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 210 collegato originariamente al 203, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 211 collegato originariamente al 133, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 212 collegato originariamente al 110, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 213 collegato originariamente al 203, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 214 collegato originariamente al 110, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 215 collegato originariamente al 178, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 216 collegato originariamente al 133, nel mio al 114
+19FPP_17S.txt: ERRORE, l'utente 217 collegato originariamente al 33, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 218 collegato originariamente al 181, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 219 collegato originariamente al 220, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 220 collegato originariamente al 220, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 221 collegato originariamente al 178, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 222 collegato originariamente al 4, nel mio al 58
+19FPP_17S.txt: ERRORE, l'utente 224 collegato originariamente al 181, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 225 collegato originariamente al 188, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 226 collegato originariamente al 189, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 227 collegato originariamente al 220, nel mio al 9
+19FPP_17S.txt: ERRORE, l'utente 229 collegato originariamente al 151, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 230 collegato originariamente al 220, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 231 collegato originariamente al 188, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 232 collegato originariamente al 189, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 233 collegato originariamente al 178, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 234 collegato originariamente al 151, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 235 collegato originariamente al 133, nel mio al 236
+19FPP_17S.txt: ERRORE, l'utente 236 collegato originariamente al 181, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 237 collegato originariamente al 133, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 238 collegato originariamente al 20, nel mio al 70
+19FPP_17S.txt: ERRORE, l'utente 239 collegato originariamente al 84, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 240 collegato originariamente al 203, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 241 collegato originariamente al 86, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 242 collegato originariamente al 24, nel mio al 58. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 243 collegato originariamente al 188, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 244 collegato originariamente al 189, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 245 collegato originariamente al 277, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 246 collegato originariamente al 203, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 248 collegato originariamente al 84, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 250 collegato originariamente al 86, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 251 collegato originariamente al 33, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 252 collegato originariamente al 84, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 253 collegato originariamente al 151, nel mio al 35. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 254 collegato originariamente al 86, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 255 collegato originariamente al 151, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 256 collegato originariamente al 178, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 257 collegato originariamente al 220, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 258 collegato originariamente al 203, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 259 collegato originariamente al 181, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 260 collegato originariamente al 105, nel mio al 76
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 261 collegato originariamente al 178, nel mio al 106
+19FPP_17S.txt: ERRORE, l'utente 262 collegato originariamente al 277, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 263 collegato originariamente al 220, nel mio al 256
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 264 collegato originariamente al 181, nel mio al 265
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 265 collegato originariamente al 110, nel mio al 265
+19FPP_17S.txt: ERRORE, l'utente 266 collegato originariamente al 188, nel mio al 256. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 267 collegato originariamente al 189, nel mio al 103
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 268 collegato originariamente al 84, nel mio al 113
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 269 collegato originariamente al 105, nel mio al 114
+19FPP_17S.txt: ERRORE, l'utente 270 collegato originariamente al 86, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 271 collegato originariamente al 188, nel mio al 103. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 272 collegato originariamente al 189, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 273 collegato originariamente al 105, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 274 collegato originariamente al 110, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 275 collegato originariamente al 220, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 276 collegato originariamente al 277, nel mio al 58
+19FPP_17S.txt: ERRORE, l'utente 277 collegato originariamente al 277, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 278 collegato originariamente al 110, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 279 collegato originariamente al 4, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 280 collegato originariamente al 178, nel mio al 202. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 281 collegato originariamente al 203, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 282 collegato originariamente al 178, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 283 collegato originariamente al 181, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+19FPP_17S.txt: ERRORE, l'utente 284 collegato originariamente al 277, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 285 collegato originariamente al 181, nel mio al 202
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 286 collegato originariamente al 203, nel mio al 11
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 287 collegato originariamente al 277, nel mio al 103
+19FPP_17S.txt: ERRORE, l'utente 288 collegato originariamente al 133, nel mio al 70. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 289 collegato originariamente al 105, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+19FPP_17S.txt: ERRORE, l'utente 290 collegato originariamente al 188, nel mio al 106. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 291 collegato originariamente al 189, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 292 collegato originariamente al 188, nel mio al 128. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 293 collegato originariamente al 189, nel mio al 256
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 294 collegato originariamente al 110, nel mio al 76
+19FPP_17S.txt: ERRORE, l'utente 295 collegato originariamente al 20, nel mio al 252. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 296 collegato originariamente al 4, nel mio al 128
+19FPP_17S.txt: ERRORE, l'utente 297 collegato originariamente al 133, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+19FPP_17S.txt: ERRORE, l'utente 298 collegato originariamente al 220, nel mio al 114. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 299 collegato originariamente al 24, nel mio al 256
+19FPP_17S.txt: ERRORE, l'utente 301 collegato originariamente al 133, nel mio al 9. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+19FPP_17S.txt: ERRORE, l'utente 302 collegato originariamente al 84, nel mio al 265. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+19FPP_17S.txt: ERRORE, l'utente 303 collegato originariamente al 220, nel mio al 11. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 304 collegato originariamente al 86, nel mio al 202
+19FPP_17S.txt: ERRORE, l'utente 305 collegato originariamente al 203, nel mio al 30. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+19FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 306 collegato originariamente al 151, nel mio al 202
+1FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 212 collegato originariamente al 48, nel mio al 213
+20FPP_17S.txt: ok, stessi risultati
+21FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 34 collegato originariamente al 34, nel mio al 49
+22FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 86 collegato originariamente al 43, nel mio al 291
+23FPP_17S.txt: ok, stessi risultati
+24FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 176 collegato originariamente al 139, nel mio al 191
+25FPP_17S.txt: ok, stessi risultati
+26FPP_17S.txt: ok, stessi risultati
+27FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 142 collegato originariamente al 59, nel mio al 281
+28FPP_17S.txt: ERRORE, l'utente 0 collegato originariamente al 224, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 1 collegato originariamente al 33, nel mio al 253
+28FPP_17S.txt: ERRORE, l'utente 2 collegato originariamente al 125, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 4 collegato originariamente al 274, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 5 collegato originariamente al 128, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 6 collegato originariamente al 258, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 7 collegato originariamente al 150, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 8 collegato originariamente al 278, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 9 collegato originariamente al 98, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 10 collegato originariamente al 274, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 11 collegato originariamente al 150, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 12 collegato originariamente al 135, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 13 collegato originariamente al 136, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 14 collegato originariamente al 278, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 15 collegato originariamente al 167, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 16 collegato originariamente al 31, nel mio al 105
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 17 collegato originariamente al 287, nel mio al 156
+28FPP_17S.txt: ERRORE, l'utente 18 collegato originariamente al 33, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 19 collegato originariamente al 224, nel mio al 158
+28FPP_17S.txt: ERRORE, l'utente 20 collegato originariamente al 52, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 21 collegato originariamente al 224, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 22 collegato originariamente al 274, nel mio al 292
+28FPP_17S.txt: ERRORE, l'utente 23 collegato originariamente al 287, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 24 collegato originariamente al 167, nel mio al 253
+28FPP_17S.txt: ERRORE, l'utente 25 collegato originariamente al 57, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 26 collegato originariamente al 278, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 27 collegato originariamente al 150, nel mio al 42
+28FPP_17S.txt: ERRORE, l'utente 28 collegato originariamente al 167, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 29 collegato originariamente al 258, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 30 collegato originariamente al 31, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 31 collegato originariamente al 31, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 32 collegato originariamente al 33, nel mio al 261
+28FPP_17S.txt: ERRORE, l'utente 33 collegato originariamente al 33, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 34 collegato originariamente al 258, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 35 collegato originariamente al 287, nel mio al 158
+28FPP_17S.txt: ERRORE, l'utente 36 collegato originariamente al 125, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 37 collegato originariamente al 52, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 38 collegato originariamente al 31, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 39 collegato originariamente al 128, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 40 collegato originariamente al 33, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 41 collegato originariamente al 31, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 42 collegato originariamente al 57, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 43 collegato originariamente al 33, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 44 collegato originariamente al 167, nel mio al 76
+28FPP_17S.txt: ERRORE, l'utente 45 collegato originariamente al 274, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 46 collegato originariamente al 135, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 47 collegato originariamente al 136, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 48 collegato originariamente al 80, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 49 collegato originariamente al 278, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 50 collegato originariamente al 274, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 51 collegato originariamente al 52, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 52 collegato originariamente al 52, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 53 collegato originariamente al 258, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 54 collegato originariamente al 278, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 55 collegato originariamente al 258, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 56 collegato originariamente al 57, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 57 collegato originariamente al 57, nel mio al 260
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 58 collegato originariamente al 287, nel mio al 261
+28FPP_17S.txt: ERRORE, l'utente 59 collegato originariamente al 52, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 61 collegato originariamente al 150, nel mio al 76
+28FPP_17S.txt: ERRORE, l'utente 62 collegato originariamente al 52, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 63 collegato originariamente al 287, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 64 collegato originariamente al 57, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 65 collegato originariamente al 80, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 66 collegato originariamente al 98, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 67 collegato originariamente al 57, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 68 collegato originariamente al 31, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 69 collegato originariamente al 274, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 70 collegato originariamente al 33, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 71 collegato originariamente al 274, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 72 collegato originariamente al 224, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 73 collegato originariamente al 278, nel mio al 105
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 74 collegato originariamente al 31, nel mio al 217
+28FPP_17S.txt: ERRORE, l'utente 75 collegato originariamente al 278, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 76 collegato originariamente al 33, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 78 collegato originariamente al 167, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 79 collegato originariamente al 80, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 80 collegato originariamente al 80, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 81 collegato originariamente al 224, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 82 collegato originariamente al 287, nel mio al 205
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 83 collegato originariamente al 98, nel mio al 76
+28FPP_17S.txt: ERRORE, l'utente 84 collegato originariamente al 287, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 85 collegato originariamente al 224, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 86 collegato originariamente al 31, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 87 collegato originariamente al 80, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 88 collegato originariamente al 33, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 89 collegato originariamente al 52, nel mio al 292
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 90 collegato originariamente al 80, nel mio al 105
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 93 collegato originariamente al 125, nel mio al 182
+28FPP_17S.txt: ERRORE, l'utente 94 collegato originariamente al 57, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 95 collegato originariamente al 52, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 96 collegato originariamente al 128, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 97 collegato originariamente al 98, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 98 collegato originariamente al 98, nel mio al 250
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 100 collegato originariamente al 57, nel mio al 223
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 101 collegato originariamente al 224, nel mio al 253
+28FPP_17S.txt: ERRORE, l'utente 103 collegato originariamente al 135, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 104 collegato originariamente al 136, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 105 collegato originariamente al 98, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 106 collegato originariamente al 258, nel mio al 96
+28FPP_17S.txt: ERRORE, l'utente 107 collegato originariamente al 52, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 108 collegato originariamente al 98, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 109 collegato originariamente al 31, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 110 collegato originariamente al 125, nel mio al 253
+28FPP_17S.txt: ERRORE, l'utente 111 collegato originariamente al 33, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 112 collegato originariamente al 57, nel mio al 105
+28FPP_17S.txt: ERRORE, l'utente 113 collegato originariamente al 128, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 114 collegato originariamente al 31, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 115 collegato originariamente al 258, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 116 collegato originariamente al 33, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 117 collegato originariamente al 80, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 118 collegato originariamente al 150, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 119 collegato originariamente al 258, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 120 collegato originariamente al 135, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 121 collegato originariamente al 136, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 122 collegato originariamente al 274, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 123 collegato originariamente al 80, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 124 collegato originariamente al 125, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 125 collegato originariamente al 125, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 126 collegato originariamente al 278, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 127 collegato originariamente al 128, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 128 collegato originariamente al 128, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 130 collegato originariamente al 52, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 131 collegato originariamente al 274, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 132 collegato originariamente al 125, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 133 collegato originariamente al 31, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 134 collegato originariamente al 135, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 135 collegato originariamente al 98, nel mio al 92. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 136 collegato originariamente al 136, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 137 collegato originariamente al 33, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 138 collegato originariamente al 128, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 139 collegato originariamente al 278, nel mio al 96
+28FPP_17S.txt: ERRORE, l'utente 140 collegato originariamente al 57, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 141 collegato originariamente al 98, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 142 collegato originariamente al 135, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 143 collegato originariamente al 136, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 144 collegato originariamente al 287, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 145 collegato originariamente al 135, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 146 collegato originariamente al 136, nel mio al 42
+28FPP_17S.txt: ERRORE, l'utente 148 collegato originariamente al 287, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 149 collegato originariamente al 150, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 150 collegato originariamente al 150, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 151 collegato originariamente al 274, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 152 collegato originariamente al 167, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 153 collegato originariamente al 98, nel mio al 292
+28FPP_17S.txt: ERRORE, l'utente 154 collegato originariamente al 52, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 155 collegato originariamente al 278, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 156 collegato originariamente al 52, nel mio al 156
+28FPP_17S.txt: ERRORE, l'utente 157 collegato originariamente al 150, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 158 collegato originariamente al 80, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 159 collegato originariamente al 57, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 160 collegato originariamente al 150, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 161 collegato originariamente al 57, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 162 collegato originariamente al 125, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 163 collegato originariamente al 80, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 164 collegato originariamente al 287, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 165 collegato originariamente al 128, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 166 collegato originariamente al 167, nel mio al 156
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 167 collegato originariamente al 167, nel mio al 182
+28FPP_17S.txt: ERRORE, l'utente 168 collegato originariamente al 125, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 169 collegato originariamente al 258, nel mio al 292
+28FPP_17S.txt: ERRORE, l'utente 171 collegato originariamente al 128, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 172 collegato originariamente al 135, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 173 collegato originariamente al 136, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 174 collegato originariamente al 167, nel mio al 96
+28FPP_17S.txt: ERRORE, l'utente 176 collegato originariamente al 98, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 177 collegato originariamente al 167, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 178 collegato originariamente al 135, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 179 collegato originariamente al 136, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 180 collegato originariamente al 125, nel mio al 76
+28FPP_17S.txt: ERRORE, l'utente 181 collegato originariamente al 98, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 182 collegato originariamente al 80, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 183 collegato originariamente al 128, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 184 collegato originariamente al 80, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 185 collegato originariamente al 274, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 186 collegato originariamente al 31, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 187 collegato originariamente al 150, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 188 collegato originariamente al 33, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 189 collegato originariamente al 278, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 190 collegato originariamente al 135, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 191 collegato originariamente al 136, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 192 collegato originariamente al 224, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 193 collegato originariamente al 150, nel mio al 156
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 195 collegato originariamente al 31, nel mio al 158
+28FPP_17S.txt: ERRORE, l'utente 197 collegato originariamente al 33, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 198 collegato originariamente al 287, nel mio al 96
+28FPP_17S.txt: ERRORE, l'utente 199 collegato originariamente al 31, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 200 collegato originariamente al 98, nel mio al 96
+28FPP_17S.txt: ERRORE, l'utente 201 collegato originariamente al 33, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 202 collegato originariamente al 98, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 203 collegato originariamente al 125, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 204 collegato originariamente al 167, nel mio al 205
+28FPP_17S.txt: ERRORE, l'utente 205 collegato originariamente al 150, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 206 collegato originariamente al 128, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 207 collegato originariamente al 52, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 208 collegato originariamente al 125, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 209 collegato originariamente al 224, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 210 collegato originariamente al 167, nel mio al 42
+28FPP_17S.txt: ERRORE, l'utente 211 collegato originariamente al 128, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 212 collegato originariamente al 57, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 213 collegato originariamente al 135, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 214 collegato originariamente al 136, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 215 collegato originariamente al 31, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 216 collegato originariamente al 52, nel mio al 217
+28FPP_17S.txt: ERRORE, l'utente 217 collegato originariamente al 33, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 218 collegato originariamente al 135, nel mio al 250
+28FPP_17S.txt: ERRORE, l'utente 219 collegato originariamente al 136, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 220 collegato originariamente al 52, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 221 collegato originariamente al 57, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 222 collegato originariamente al 167, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 223 collegato originariamente al 224, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 224 collegato originariamente al 224, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 225 collegato originariamente al 57, nel mio al 182
+28FPP_17S.txt: ERRORE, l'utente 226 collegato originariamente al 258, nel mio al 42. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 227 collegato originariamente al 125, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 228 collegato originariamente al 150, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 229 collegato originariamente al 125, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 230 collegato originariamente al 128, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 231 collegato originariamente al 224, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 232 collegato originariamente al 128, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 233 collegato originariamente al 150, nel mio al 223
+28FPP_17S.txt: ERRORE, l'utente 234 collegato originariamente al 224, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 235 collegato originariamente al 80, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 236 collegato originariamente al 52, nel mio al 158
+28FPP_17S.txt: ERRORE, l'utente 237 collegato originariamente al 135, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 238 collegato originariamente al 136, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 239 collegato originariamente al 135, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 240 collegato originariamente al 136, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 241 collegato originariamente al 57, nel mio al 158
+28FPP_17S.txt: ERRORE, l'utente 242 collegato originariamente al 274, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 243 collegato originariamente al 258, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 244 collegato originariamente al 80, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 245 collegato originariamente al 167, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 246 collegato originariamente al 278, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 248 collegato originariamente al 80, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 249 collegato originariamente al 31, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 250 collegato originariamente al 167, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 251 collegato originariamente al 33, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 252 collegato originariamente al 150, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 253 collegato originariamente al 98, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 254 collegato originariamente al 150, nel mio al 217
+28FPP_17S.txt: ERRORE, l'utente 255 collegato originariamente al 287, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 257 collegato originariamente al 258, nel mio al 250
+28FPP_17S.txt: ERRORE, l'utente 258 collegato originariamente al 258, nel mio al 156. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 259 collegato originariamente al 274, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 260 collegato originariamente al 92, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 261 collegato originariamente al 224, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 262 collegato originariamente al 98, nel mio al 158. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 263 collegato originariamente al 278, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 264 collegato originariamente al 80, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 265 collegato originariamente al 258, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 266 collegato originariamente al 98, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 267 collegato originariamente al 224, nel mio al 260. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 268 collegato originariamente al 258, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 269 collegato originariamente al 167, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 270 collegato originariamente al 52, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 271 collegato originariamente al 167, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 272 collegato originariamente al 287, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 273 collegato originariamente al 274, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 274 collegato originariamente al 274, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 275 collegato originariamente al 57, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 277 collegato originariamente al 278, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 278 collegato originariamente al 278, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 279 collegato originariamente al 224, nel mio al 177
+28FPP_17S.txt: ERRORE, l'utente 280 collegato originariamente al 125, nel mio al 96. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 281 collegato originariamente al 274, nel mio al 177. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 282 collegato originariamente al 98, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 283 collegato originariamente al 128, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 284 collegato originariamente al 274, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 285 collegato originariamente al 278, nel mio al 275. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 286 collegato originariamente al 287, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 287 collegato originariamente al 287, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 288 collegato originariamente al 278, nel mio al 205. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 289 collegato originariamente al 125, nel mio al 105. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+28FPP_17S.txt: ERRORE, l'utente 290 collegato originariamente al 135, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 291 collegato originariamente al 136, nel mio al 292
+28FPP_17S.txt: ERRORE, l'utente 292 collegato originariamente al 128, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 293 collegato originariamente al 125, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 294 collegato originariamente al 287, nel mio al 76. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 295 collegato originariamente al 258, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 296 collegato originariamente al 128, nel mio al 253. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 297 collegato originariamente al 287, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 298 collegato originariamente al 80, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 299 collegato originariamente al 135, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+28FPP_17S.txt: ERRORE, l'utente 300 collegato originariamente al 136, nel mio al 217. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+28FPP_17S.txt: ERRORE, l'utente 301 collegato originariamente al 258, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 302 collegato originariamente al 224, nel mio al 292. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+28FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 303 collegato originariamente al 135, nel mio al 260
+28FPP_17S.txt: ERRORE, l'utente 304 collegato originariamente al 136, nel mio al 261. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+28FPP_17S.txt: ERRORE, l'utente 305 collegato originariamente al 150, nel mio al 250. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+28FPP_17S.txt: ERRORE, l'utente 306 collegato originariamente al 31, nel mio al 223. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+29FPP_17S.txt: ok, stessi risultati
+2FPP_17S.txt: ok, stessi risultati
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 0 collegato originariamente al 89, nel mio al 15
+30FPP_17S.txt: ERRORE, l'utente 1 collegato originariamente al 253, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 2 collegato originariamente al 254, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 3 collegato originariamente al 35, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 4 collegato originariamente al 268, nel mio al 93
+30FPP_17S.txt: ERRORE, l'utente 5 collegato originariamente al 210, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 6 collegato originariamente al 149, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 7 collegato originariamente al 210, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 8 collegato originariamente al 151, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 9 collegato originariamente al 98, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 10 collegato originariamente al 149, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 12 collegato originariamente al 151, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 14 collegato originariamente al 243, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 15 collegato originariamente al 285, nel mio al 15
+30FPP_17S.txt: ERRORE, l'utente 16 collegato originariamente al 268, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 17 collegato originariamente al 246, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 18 collegato originariamente al 170, nel mio al 50
+30FPP_17S.txt: ERRORE, l'utente 19 collegato originariamente al 243, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 20 collegato originariamente al 35, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 21 collegato originariamente al 285, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 22 collegato originariamente al 246, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 23 collegato originariamente al 175, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 24 collegato originariamente al 253, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 25 collegato originariamente al 254, nel mio al 15
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 26 collegato originariamente al 149, nel mio al 296
+30FPP_17S.txt: ERRORE, l'utente 27 collegato originariamente al 170, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 28 collegato originariamente al 151, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 29 collegato originariamente al 253, nel mio al 232
+30FPP_17S.txt: ERRORE, l'utente 30 collegato originariamente al 254, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 31 collegato originariamente al 170, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 32 collegato originariamente al 175, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 33 collegato originariamente al 285, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 34 collegato originariamente al 35, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 35 collegato originariamente al 35, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 36 collegato originariamente al 175, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 37 collegato originariamente al 69, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 38 collegato originariamente al 243, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 39 collegato originariamente al 268, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 40 collegato originariamente al 243, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 41 collegato originariamente al 246, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 42 collegato originariamente al 35, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 43 collegato originariamente al 246, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 44 collegato originariamente al 268, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 45 collegato originariamente al 35, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 46 collegato originariamente al 198, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 47 collegato originariamente al 170, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 48 collegato originariamente al 253, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 49 collegato originariamente al 254, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 50 collegato originariamente al 253, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 51 collegato originariamente al 254, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 52 collegato originariamente al 175, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 53 collegato originariamente al 85, nel mio al 10
+30FPP_17S.txt: ERRORE, l'utente 54 collegato originariamente al 69, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 55 collegato originariamente al 198, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 56 collegato originariamente al 285, nel mio al 56
+30FPP_17S.txt: ERRORE, l'utente 57 collegato originariamente al 89, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 58 collegato originariamente al 210, nel mio al 15
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 59 collegato originariamente al 198, nel mio al 182
+30FPP_17S.txt: ERRORE, l'utente 60 collegato originariamente al 149, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 61 collegato originariamente al 285, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 62 collegato originariamente al 151, nel mio al 94
+30FPP_17S.txt: ERRORE, l'utente 63 collegato originariamente al 268, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 65 collegato originariamente al 268, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 66 collegato originariamente al 98, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 67 collegato originariamente al 210, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 68 collegato originariamente al 69, nel mio al 83
+30FPP_17S.txt: ERRORE, l'utente 69 collegato originariamente al 69, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 70 collegato originariamente al 85, nel mio al 15
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 71 collegato originariamente al 210, nel mio al 86
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 72 collegato originariamente al 35, nel mio al 296
+30FPP_17S.txt: ERRORE, l'utente 74 collegato originariamente al 89, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 75 collegato originariamente al 198, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 76 collegato originariamente al 69, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 78 collegato originariamente al 35, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 79 collegato originariamente al 69, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 80 collegato originariamente al 285, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 81 collegato originariamente al 170, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 82 collegato originariamente al 285, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 83 collegato originariamente al 98, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 84 collegato originariamente al 85, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 85 collegato originariamente al 85, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 86 collegato originariamente al 175, nel mio al 86
+30FPP_17S.txt: ERRORE, l'utente 87 collegato originariamente al 210, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 88 collegato originariamente al 89, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 89 collegato originariamente al 89, nel mio al 232
+30FPP_17S.txt: ERRORE, l'utente 90 collegato originariamente al 35, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 91 collegato originariamente al 243, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 92 collegato originariamente al 85, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 93 collegato originariamente al 216, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 94 collegato originariamente al 246, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 95 collegato originariamente al 85, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 96 collegato originariamente al 89, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 97 collegato originariamente al 98, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 98 collegato originariamente al 98, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 99 collegato originariamente al 89, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 100 collegato originariamente al 243, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 101 collegato originariamente al 253, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 102 collegato originariamente al 254, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 103 collegato originariamente al 246, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 104 collegato originariamente al 243, nel mio al 94
+30FPP_17S.txt: ERRORE, l'utente 105 collegato originariamente al 98, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 106 collegato originariamente al 69, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 107 collegato originariamente al 246, nel mio al 108
+30FPP_17S.txt: ERRORE, l'utente 108 collegato originariamente al 98, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 109 collegato originariamente al 198, nel mio al 232
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 110 collegato originariamente al 253, nel mio al 125
+30FPP_17S.txt: ERRORE, l'utente 111 collegato originariamente al 254, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 112 collegato originariamente al 69, nel mio al 10
+30FPP_17S.txt: ERRORE, l'utente 113 collegato originariamente al 35, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 114 collegato originariamente al 253, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 115 collegato originariamente al 254, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 116 collegato originariamente al 268, nel mio al 38
+30FPP_17S.txt: ERRORE, l'utente 117 collegato originariamente al 149, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 118 collegato originariamente al 35, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 119 collegato originariamente al 151, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 120 collegato originariamente al 243, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 121 collegato originariamente al 210, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 122 collegato originariamente al 85, nel mio al 245
+30FPP_17S.txt: ERRORE, l'utente 123 collegato originariamente al 246, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 124 collegato originariamente al 69, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 125 collegato originariamente al 268, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 126 collegato originariamente al 89, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 128 collegato originariamente al 85, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 129 collegato originariamente al 268, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 130 collegato originariamente al 253, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 131 collegato originariamente al 254, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 132 collegato originariamente al 89, nel mio al 125
+30FPP_17S.txt: ERRORE, l'utente 133 collegato originariamente al 285, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 134 collegato originariamente al 149, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 135 collegato originariamente al 98, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 136 collegato originariamente al 151, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 137 collegato originariamente al 35, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 138 collegato originariamente al 170, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 139 collegato originariamente al 35, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 140 collegato originariamente al 85, nel mio al 38
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 141 collegato originariamente al 98, nel mio al 86
+30FPP_17S.txt: ERRORE, l'utente 142 collegato originariamente al 285, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 143 collegato originariamente al 175, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 144 collegato originariamente al 89, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 145 collegato originariamente al 268, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 146 collegato originariamente al 285, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 147 collegato originariamente al 69, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 148 collegato originariamente al 149, nel mio al 93
+30FPP_17S.txt: ERRORE, l'utente 149 collegato originariamente al 149, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 150 collegato originariamente al 151, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 151 collegato originariamente al 151, nel mio al 108
+30FPP_17S.txt: ERRORE, l'utente 152 collegato originariamente al 69, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 153 collegato originariamente al 98, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 154 collegato originariamente al 243, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 155 collegato originariamente al 170, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 156 collegato originariamente al 149, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 157 collegato originariamente al 246, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 158 collegato originariamente al 151, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 159 collegato originariamente al 149, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 160 collegato originariamente al 175, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 161 collegato originariamente al 151, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 162 collegato originariamente al 285, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 163 collegato originariamente al 85, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 164 collegato originariamente al 253, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 165 collegato originariamente al 254, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 166 collegato originariamente al 198, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 167 collegato originariamente al 89, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 168 collegato originariamente al 85, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 169 collegato originariamente al 170, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 170 collegato originariamente al 170, nel mio al 15
+30FPP_17S.txt: ERRORE, l'utente 171 collegato originariamente al 69, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 172 collegato originariamente al 89, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 173 collegato originariamente al 69, nel mio al 296
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 174 collegato originariamente al 175, nel mio al 10
+30FPP_17S.txt: ERRORE, l'utente 175 collegato originariamente al 175, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 176 collegato originariamente al 98, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 177 collegato originariamente al 170, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 178 collegato originariamente al 210, nel mio al 10
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 179 collegato originariamente al 268, nel mio al 15
+30FPP_17S.txt: ERRORE, l'utente 180 collegato originariamente al 170, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 181 collegato originariamente al 98, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 182 collegato originariamente al 175, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 183 collegato originariamente al 198, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 185 collegato originariamente al 175, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 186 collegato originariamente al 149, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 187 collegato originariamente al 85, nel mio al 83
+30FPP_17S.txt: ERRORE, l'utente 188 collegato originariamente al 151, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 189 collegato originariamente al 85, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 190 collegato originariamente al 35, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 191 collegato originariamente al 89, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 192 collegato originariamente al 149, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 193 collegato originariamente al 89, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 194 collegato originariamente al 151, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 195 collegato originariamente al 210, nel mio al 93
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 196 collegato originariamente al 285, nel mio al 94
+30FPP_17S.txt: ERRORE, l'utente 197 collegato originariamente al 198, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 198 collegato originariamente al 198, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 199 collegato originariamente al 35, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 200 collegato originariamente al 98, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 202 collegato originariamente al 98, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 203 collegato originariamente al 35, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 204 collegato originariamente al 149, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 205 collegato originariamente al 198, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 206 collegato originariamente al 151, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 207 collegato originariamente al 170, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 208 collegato originariamente al 198, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 209 collegato originariamente al 210, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 210 collegato originariamente al 210, nel mio al 108
+30FPP_17S.txt: ERRORE, l'utente 211 collegato originariamente al 243, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 212 collegato originariamente al 175, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 213 collegato originariamente al 170, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 214 collegato originariamente al 246, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 217 collegato originariamente al 210, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 218 collegato originariamente al 175, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 219 collegato originariamente al 35, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 220 collegato originariamente al 210, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 221 collegato originariamente al 253, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 222 collegato originariamente al 254, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 224 collegato originariamente al 69, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 225 collegato originariamente al 170, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 227 collegato originariamente al 149, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 228 collegato originariamente al 243, nel mio al 10. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 229 collegato originariamente al 151, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 230 collegato originariamente al 175, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 231 collegato originariamente al 246, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 232 collegato originariamente al 149, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 233 collegato originariamente al 69, nel mio al 15
+30FPP_17S.txt: ERRORE, l'utente 234 collegato originariamente al 151, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 235 collegato originariamente al 198, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 236 collegato originariamente al 268, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 237 collegato originariamente al 69, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 238 collegato originariamente al 253, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 239 collegato originariamente al 254, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 240 collegato originariamente al 85, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 241 collegato originariamente al 198, nel mio al 86
+30FPP_17S.txt: ERRORE, l'utente 242 collegato originariamente al 243, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 243 collegato originariamente al 243, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 244 collegato originariamente al 89, nel mio al 245
+30FPP_17S.txt: ERRORE, l'utente 245 collegato originariamente al 246, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 246 collegato originariamente al 246, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 247 collegato originariamente al 210, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 248 collegato originariamente al 170, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 249 collegato originariamente al 85, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 250 collegato originariamente al 243, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 251 collegato originariamente al 149, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 252 collegato originariamente al 253, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 253 collegato originariamente al 35, nel mio al 216. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 254 collegato originariamente al 254, nel mio al 86
+30FPP_17S.txt: ERRORE, l'utente 255 collegato originariamente al 151, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 256 collegato originariamente al 246, nel mio al 38. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 257 collegato originariamente al 89, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 258 collegato originariamente al 175, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 260 collegato originariamente al 253, nel mio al 182
+30FPP_17S.txt: ERRORE, l'utente 261 collegato originariamente al 254, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 262 collegato originariamente al 98, nel mio al 94. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 263 collegato originariamente al 253, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 264 collegato originariamente al 254, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 265 collegato originariamente al 210, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 266 collegato originariamente al 98, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 267 collegato originariamente al 268, nel mio al 83. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 268 collegato originariamente al 268, nel mio al 50. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 269 collegato originariamente al 85, nel mio al 232
+30FPP_17S.txt: ERRORE, l'utente 270 collegato originariamente al 285, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 272 collegato originariamente al 170, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 273 collegato originariamente al 89, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 274 collegato originariamente al 170, nel mio al 56. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 275 collegato originariamente al 268, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 276 collegato originariamente al 198, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
+30FPP_17S.txt: ERRORE, l'utente 277 collegato originariamente al 175, nel mio al 93. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 278 collegato originariamente al 268, nel mio al 94
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 279 collegato originariamente al 175, nel mio al 236
+30FPP_17S.txt: ERRORE, l'utente 280 collegato originariamente al 243, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 281 collegato originariamente al 198, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 282 collegato originariamente al 98, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 283 collegato originariamente al 246, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: ERRORE, l'utente 284 collegato originariamente al 285, nel mio al 182. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 285 collegato originariamente al 285, nel mio al 10
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 286 collegato originariamente al 243, nel mio al 182
+30FPP_17S.txt: ERRORE, l'utente 287 collegato originariamente al 69, nel mio al 232. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 288 collegato originariamente al 210, nel mio al 245
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 289 collegato originariamente al 246, nel mio al 125
+30FPP_17S.txt: ERRORE, l'utente 290 collegato originariamente al 253, nel mio al 15. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 291 collegato originariamente al 254, nel mio al 236. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
+30FPP_17S.txt: ERRORE, l'utente 292 collegato originariamente al 285, nel mio al 108. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 293 collegato originariamente al 210, nel mio al 125. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 295 collegato originariamente al 285, nel mio al 296
+30FPP_17S.txt: ERRORE, l'utente 296 collegato originariamente al 253, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 297 collegato originariamente al 254, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 298 collegato originariamente al 243, nel mio al 298
+30FPP_17S.txt: ERRORE, l'utente 300 collegato originariamente al 198, nel mio al 245. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 301 collegato originariamente al 246, nel mio al 83
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 302 collegato originariamente al 198, nel mio al 10
+30FPP_17S.txt: ERRORE, l'utente 303 collegato originariamente al 85, nel mio al 296. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 4
+30FPP_17S.txt: ERRORE, l'utente 304 collegato originariamente al 149, nel mio al 86. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 2
+30FPP_17S.txt: ERRORE, l'utente 305 collegato originariamente al 268, nel mio al 298. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
+30FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 306 collegato originariamente al 151, nel mio al 296
+30FPP_17S.txt: ERRORE diversa f.o. ottimale. orig: 54541, nuov: 54542
+3FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 89 collegato originariamente al 34, nel mio al 292
+4FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 194 collegato originariamente al 30, nel mio al 283
+5FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 33 collegato originariamente al 23, nel mio al 303
+6FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 55 collegato originariamente al 18, nel mio al 284
+7FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 298 collegato originariamente al 194, nel mio al 288
+8FPP_17S.txt: ok, stessi risultati
+9FPP_17S.txt: collegamento DIVERSO ma costo UGUALE, l'utente 118 collegato originariamente al 40, nel mio al 261
