@@ -1,0 +1,6 @@
+benchmark_data/GapC/1033GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 1888.297 s
+benchmark_data/GapC/1133GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 2076.047 s
+benchmark_data/GapC/1233GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 1871.812 s
+benchmark_data/GapC/1333GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 2235.125 s
+benchmark_data/GapC/1433GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 3804.813 s
+benchmark_data/GapC/1533GapCS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 2110.422 s

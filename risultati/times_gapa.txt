@@ -1,0 +1,32 @@
+benchmark_data/GapA/1032GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 34.922 s
+benchmark_data/GapA/1132GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 50.157 s
+benchmark_data/GapA/1232GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 192.609 s
+benchmark_data/GapA/1332GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 30.218 s
+benchmark_data/GapA/1432GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 37.219 s
+benchmark_data/GapA/1532GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 47.922 s
+benchmark_data/GapA/1632GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 60.281 s
+benchmark_data/GapA/1732GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 30.672 s
+benchmark_data/GapA/1832GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 48.235 s
+benchmark_data/GapA/1932GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 28.453 s
+benchmark_data/GapA/2032GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 34.625 s
+benchmark_data/GapA/2132GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 28.313 s
+benchmark_data/GapA/2232GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 29.39 s
+benchmark_data/GapA/2332GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 31.969 s
+benchmark_data/GapA/2432GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 39.391 s
+benchmark_data/GapA/2532GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 34.234 s
+benchmark_data/GapA/2632GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 45.812 s
+benchmark_data/GapA/2732GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 189.032 s
+benchmark_data/GapA/2832GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 29.453 s
+benchmark_data/GapA/2932GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 29.641 s
+benchmark_data/GapA/3032GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 51.61 s
+benchmark_data/GapA/3132GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 166.172 s
+benchmark_data/GapA/3232GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 26.266 s
+benchmark_data/GapA/332GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 34.781 s
+benchmark_data/GapA/432GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 63.297 s
+benchmark_data/GapA/532GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 48.922 s
+benchmark_data/GapA/632GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 26.922 s
+benchmark_data/GapA/732GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 7.891 s
+benchmark_data/GapA/832GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 32.719 s
+benchmark_data/GapA/932GapAS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 34.719 s
+
+Tempo complessivo: 1545.847 s
