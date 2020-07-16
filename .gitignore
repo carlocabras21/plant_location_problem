@@ -1,2 +1,7 @@
 benchmark_data/*
 __pycache__/*
+*.pyc
+risultati/confronto_risultati_test1.txt
+risultati/confronto_risultati_test2.txt
+risultati/times_test1.txt
+risultati/times_test2.txt

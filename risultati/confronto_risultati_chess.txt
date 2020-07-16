@@ -1,65 +1,123 @@
-1034ChessS.txt: ERRORE, l'utente 96 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
-1034ChessS.txt: ERRORE, l'utente 97 collegato originariamente al 108, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 98 collegato originariamente al 111, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
-1034ChessS.txt: ERRORE, l'utente 99 collegato originariamente al 111, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
-1034ChessS.txt: ERRORE, l'utente 100 collegato originariamente al 111, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
-1034ChessS.txt: ERRORE, l'utente 101 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
-1034ChessS.txt: ERRORE, l'utente 102 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 1
-1034ChessS.txt: ERRORE, l'utente 103 collegato originariamente al 114, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 104 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 105 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 106 collegato originariamente al 117, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 1
-1034ChessS.txt: ERRORE, l'utente 107 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 1
-1034ChessS.txt: ERRORE, l'utente 108 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
-1034ChessS.txt: collegamento DIVERSO ma costo UGUALE, l'utente 109 collegato originariamente al 108, nel mio al 110
-1034ChessS.txt: ERRORE, l'utente 110 collegato originariamente al 111, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
-1034ChessS.txt: ERRORE, l'utente 111 collegato originariamente al 111, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
-1034ChessS.txt: collegamento DIVERSO ma costo UGUALE, l'utente 112 collegato originariamente al 111, nel mio al 113
-1034ChessS.txt: ERRORE, l'utente 113 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 3
-1034ChessS.txt: ERRORE, l'utente 114 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 115 collegato originariamente al 114, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
-1034ChessS.txt: ERRORE, l'utente 116 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 117 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 118 collegato originariamente al 117, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 3
-1034ChessS.txt: ERRORE, l'utente 119 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 120 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 4
-1034ChessS.txt: ERRORE, l'utente 121 collegato originariamente al 108, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 122 collegato originariamente al 111, nel mio al 110. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 3
-1034ChessS.txt: collegamento DIVERSO ma costo UGUALE, l'utente 123 collegato originariamente al 111, nel mio al 110
-1034ChessS.txt: ERRORE, l'utente 124 collegato originariamente al 111, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 2
-1034ChessS.txt: ERRORE, l'utente 125 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 1, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 126 collegato originariamente al 114, nel mio al 113. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 3
-1034ChessS.txt: ERRORE, l'utente 127 collegato originariamente al 114, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 3, nuov: 0
-1034ChessS.txt: ERRORE, l'utente 128 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 4
-1034ChessS.txt: ERRORE, l'utente 129 collegato originariamente al 117, nel mio al 116. COSTO COLLEGAMENTO DIVERSO: orig: 4, nuov: 2
-1034ChessS.txt: ERRORE, l'utente 130 collegato originariamente al 117, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 2, nuov: 4
-1034ChessS.txt: ERRORE, l'utente 131 collegato originariamente al 108, nel mio al 119. COSTO COLLEGAMENTO DIVERSO: orig: 0, nuov: 1
-1134ChessS.txt: ok, stessi risultati
-1234ChessS.txt: ok, stessi risultati
-1334ChessS.txt: ok, stessi risultati
-1434ChessS.txt: ok, stessi risultati
-1534ChessS.txt: ok, stessi risultati
-1634ChessS.txt: ok, stessi risultati
-1734ChessS.txt: ok, stessi risultati
-1834ChessS.txt: ok, stessi risultati
-1934ChessS.txt: ok, stessi risultati
-2034ChessS.txt: ok, stessi risultati
-2134ChessS.txt: ok, stessi risultati
-2234ChessS.txt: ok, stessi risultati
-2334ChessS.txt: ok, stessi risultati
-2434ChessS.txt: ok, stessi risultati
-2534ChessS.txt: ok, stessi risultati
-2634ChessS.txt: ok, stessi risultati
-2734ChessS.txt: ok, stessi risultati
-2834ChessS.txt: ok, stessi risultati
-2934ChessS.txt: ok, stessi risultati
-3034ChessS.txt: ok, stessi risultati
-3134ChessS.txt: ok, stessi risultati
-3234ChessS.txt: ok, stessi risultati
-334ChessS.txt: ok, stessi risultati
-434ChessS.txt: ok, stessi risultati
-534ChessS.txt: ok, stessi risultati
-634ChessS.txt: ok, stessi risultati
-734ChessS.txt: ok, stessi risultati
-834ChessS.txt: ok, stessi risultati
-934ChessS.txt: ok, stessi risultati
+1034ChessS.txt
+    WARNING: l'utente 96 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 97 collegato originariamente al 108, nel mio al 110. Costo collegamento DIVERSO: orig: 4, nuov: 0
+    WARNING: l'utente 98 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 99 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 100 collegato originariamente al 111, nel mio al 113. Costo collegamento DIVERSO: orig: 4, nuov: 2
+    WARNING: l'utente 101 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 102 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 3, nuov: 1
+    WARNING: l'utente 103 collegato originariamente al 114, nel mio al 116. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 104 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 105 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 106 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 107 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 108 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 110 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 111 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 113 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 4, nuov: 3
+    WARNING: l'utente 114 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 115 collegato originariamente al 114, nel mio al 116. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 116 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 117 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 118 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 3
+    WARNING: l'utente 119 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 120 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 1, nuov: 4
+    WARNING: l'utente 121 collegato originariamente al 108, nel mio al 110. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 122 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 124 collegato originariamente al 111, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 125 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 126 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 127 collegato originariamente al 114, nel mio al 116. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 128 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 129 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 4, nuov: 2
+    WARNING: l'utente 130 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 4
+    WARNING: l'utente 131 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    f.o. ottimale uguale
+
+1134ChessS.txt
+    f.o. ottimale uguale
+
+1234ChessS.txt
+    f.o. ottimale uguale
+
+1334ChessS.txt
+    f.o. ottimale uguale
+
+1434ChessS.txt
+    f.o. ottimale uguale
+
+1534ChessS.txt
+    f.o. ottimale uguale
+
+1634ChessS.txt
+    f.o. ottimale uguale
+
+1734ChessS.txt
+    f.o. ottimale uguale
+
+1834ChessS.txt
+    f.o. ottimale uguale
+
+1934ChessS.txt
+    f.o. ottimale uguale
+
+2034ChessS.txt
+    f.o. ottimale uguale
+
+2134ChessS.txt
+    f.o. ottimale uguale
+
+2234ChessS.txt
+    f.o. ottimale uguale
+
+2334ChessS.txt
+    f.o. ottimale uguale
+
+2434ChessS.txt
+    f.o. ottimale uguale
+
+2534ChessS.txt
+    f.o. ottimale uguale
+
+2634ChessS.txt
+    f.o. ottimale uguale
+
+2734ChessS.txt
+    f.o. ottimale uguale
+
+2834ChessS.txt
+    f.o. ottimale uguale
+
+2934ChessS.txt
+    f.o. ottimale uguale
+
+3034ChessS.txt
+    f.o. ottimale uguale
+
+3134ChessS.txt
+    f.o. ottimale uguale
+
+3234ChessS.txt
+    f.o. ottimale uguale
+
+334ChessS.txt
+    f.o. ottimale uguale
+
+434ChessS.txt
+    f.o. ottimale uguale
+
+534ChessS.txt
+    f.o. ottimale uguale
+
+634ChessS.txt
+    f.o. ottimale uguale
+
+734ChessS.txt
+    f.o. ottimale uguale
+
+834ChessS.txt
+    f.o. ottimale uguale
+
+934ChessS.txt
+    f.o. ottimale uguale
+

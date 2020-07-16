@@ -1,30 +1,90 @@
-1011EuclS.txt: ok, stessi risultati
-1111EuclS.txt: ok, stessi risultati
-111EuclS.txt: ok, stessi risultati
-1211EuclS.txt: ok, stessi risultati
-1311EuclS.txt: ok, stessi risultati
-1411EuclS.txt: ok, stessi risultati
-1511EuclS.txt: ok, stessi risultati
-1611EuclS.txt: ok, stessi risultati
-1711EuclS.txt: ok, stessi risultati
-1811EuclS.txt: ok, stessi risultati
-1911EuclS.txt: ok, stessi risultati
-2011EuclS.txt: ok, stessi risultati
-2111EuclS.txt: ok, stessi risultati
-211EuclS.txt: ok, stessi risultati
-2211EuclS.txt: ok, stessi risultati
-2311EuclS.txt: ok, stessi risultati
-2411EuclS.txt: ok, stessi risultati
-2511EuclS.txt: ok, stessi risultati
-2611EuclS.txt: ok, stessi risultati
-2711EuclS.txt: ok, stessi risultati
-2811EuclS.txt: ok, stessi risultati
-2911EuclS.txt: ok, stessi risultati
-3011EuclS.txt: ok, stessi risultati
-311EuclS.txt: ok, stessi risultati
-411EuclS.txt: ok, stessi risultati
-511EuclS.txt: ok, stessi risultati
-611EuclS.txt: ok, stessi risultati
-711EuclS.txt: ok, stessi risultati
-811EuclS.txt: ok, stessi risultati
-911EuclS.txt: ok, stessi risultati
+1011EuclS.txt
+    f.o. ottimale uguale
+
+1111EuclS.txt
+    f.o. ottimale uguale
+
+111EuclS.txt
+    f.o. ottimale uguale
+
+1211EuclS.txt
+    f.o. ottimale uguale
+
+1311EuclS.txt
+    f.o. ottimale uguale
+
+1411EuclS.txt
+    f.o. ottimale uguale
+
+1511EuclS.txt
+    f.o. ottimale uguale
+
+1611EuclS.txt
+    f.o. ottimale uguale
+
+1711EuclS.txt
+    f.o. ottimale uguale
+
+1811EuclS.txt
+    f.o. ottimale uguale
+
+1911EuclS.txt
+    f.o. ottimale uguale
+
+2011EuclS.txt
+    f.o. ottimale uguale
+
+2111EuclS.txt
+    f.o. ottimale uguale
+
+211EuclS.txt
+    f.o. ottimale uguale
+
+2211EuclS.txt
+    f.o. ottimale uguale
+
+2311EuclS.txt
+    f.o. ottimale uguale
+
+2411EuclS.txt
+    f.o. ottimale uguale
+
+2511EuclS.txt
+    f.o. ottimale uguale
+
+2611EuclS.txt
+    f.o. ottimale uguale
+
+2711EuclS.txt
+    f.o. ottimale uguale
+
+2811EuclS.txt
+    f.o. ottimale uguale
+
+2911EuclS.txt
+    f.o. ottimale uguale
+
+3011EuclS.txt
+    f.o. ottimale uguale
+
+311EuclS.txt
+    f.o. ottimale uguale
+
+411EuclS.txt
+    f.o. ottimale uguale
+
+511EuclS.txt
+    f.o. ottimale uguale
+
+611EuclS.txt
+    f.o. ottimale uguale
+
+711EuclS.txt
+    f.o. ottimale uguale
+
+811EuclS.txt
+    f.o. ottimale uguale
+
+911EuclS.txt
+    f.o. ottimale uguale
+

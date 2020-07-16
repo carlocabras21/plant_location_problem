@@ -26,75 +26,80 @@
  http://resources.mpi-inf.mpg.de/departments/d1/projects/benchmarks/UflLib/packages.html
  */
 
-{string} datFiles=...;
-string tests = ... ;
-	
+{string} tests = ... ;
+
+{string} datFiles[tests]=...;
+
 main {
 	var source = new IloOplModelSource("plant_location_problem_sub.mod");
 	var cplex = new IloCplex();
 	var def = new IloOplModelDefinition(source);
 	
-	var f_times = new IloOplOutputFile("risultati/times_" + thisOplModel.tests + ".txt");
-	var total_time = 0;
 	
-	for(var datFile in thisOplModel.datFiles){
-			
-		var opl  = new IloOplModel(def,cplex);
+	var count = 0;
+	for(var test in thisOplModel.tests){
+		var f_times = new IloOplOutputFile("risultati/times_" + test + ".txt");
+		var total_time = 0;
 		
-		var data = new IloOplDataSource(datFile);
+		for (var datFile in thisOplModel.datFiles[test]){
+			var opl  = new IloOplModel(def,cplex);
 			
-		opl.addDataSource(data);
-		opl.generate();
-		
-		if (cplex.solve()) {  
-			opl.postProcess();
-	     
-			var f = new IloOplOutputFile(datFile + ".opt");
+			var data = new IloOplDataSource(datFile);
+				
+			opl.addDataSource(data);
+			opl.generate();
 			
-			// metodo estremamente inefficiente per recuperare il numero di
-			// utenti e locazioni ma al momento è l'unica soluzione
-			for (var i in opl.utenti);
-			var n_utenti = parseInt(i) + 1;
-			for (var j in opl.utenti);
-			var n_locazioni = parseInt(j) + 1;
+			if (cplex.solve()) {  
+				opl.postProcess();
+		     
+				var f = new IloOplOutputFile(datFile + ".opt");
+				
+				// metodo estremamente inefficiente per recuperare il numero di
+				// utenti e locazioni ma al momento è l'unica soluzione
+				for (var i in opl.utenti);
+				var n_utenti = parseInt(i) + 1;
+				for (var j in opl.utenti);
+				var n_locazioni = parseInt(j) + 1;
+				
+				// stampa a video di nome file e sue dimensioni
+				writeln(datFile + ", " + n_utenti + " utenti e " + n_locazioni + " locazioni");
+				
+				// stampa a video dei risulati formattati come nei file originali:
+				for (var i in opl.utenti){
+					for (var j in opl.locazioni){
+						if (opl.x[i][j] == 1){
+							write(j + " ");		
+							f.write(j + " ");
+						}						
+					}	
+				}
+				
+				// stampa del valore obiettivo ottimale
+				writeln(cplex.getObjValue());
+				f.write(cplex.getObjValue());
+				
+				// stampa del tempo risolutivo
+				var solvedTime = cplex.getSolvedTime();
+				total_time += solvedTime;
+				writeln(solvedTime);
+				f_times.writeln(datFile + ", " + n_utenti + " utenti e " + n_locazioni + " locazioni" + 
+								". Tempo di risoluzione: " + solvedTime + " s");
+				
+				writeln("");
+				
+				} 
+			else 
+				writeln("No solution");
 			
-			// stampa a video di nome file e sue dimensioni
-			writeln(datFile + ", " + n_utenti + " utenti e " + n_locazioni + " locazioni");
-			
-			// stampa a video dei risulati formattati come nei file originali:
-			for (var i in opl.utenti){
-				for (var j in opl.locazioni){
-					if (opl.x[i][j] == 1){
-						write(j + " ");		
-						f.write(j + " ");
-					}						
-				}	
-			}
-			
-			// stampa del valore obiettivo ottimale
-			writeln(cplex.getObjValue());
-			f.write(cplex.getObjValue());
-			
-			// stampa del tempo risolutivo
-			var solvedTime = cplex.getSolvedTime();
-			total_time += solvedTime;
-			writeln(solvedTime);
-			f_times.writeln(datFile + ", " + n_utenti + " utenti e " + n_locazioni + " locazioni" + 
-							". Tempo di risoluzione: " + solvedTime + " s");
-			
-			writeln("");
-			
-			} 
-		else 
-			writeln("No solution");
-		
-		opl.end();
+			opl.end();
+ 		}			
+ 		f.close()
+	
+		f_times.writeln("\nTempo complessivo: " + total_time + " s");
+		f_times.close();
 	}  
 
-	f.close()
 	
-	f_times.writeln("\nTempo complessivo: " + total_time + " s");
-	f_times.close();
 }
 
 
