@@ -8,11 +8,7 @@ def get_folders_list():
 	
 	if test2:
 		cartelle.append(["benchmark_data/test/test2"])
-	
-	
-	
-	
-	
+
 	if bilde:
 		cartelle.append(['benchmark_data/BildeKrarup/B', 'benchmark_data/BildeKrarup/C', 'benchmark_data/BildeKrarup/Dq/1', 
 					'benchmark_data/BildeKrarup/Dq/2', 'benchmark_data/BildeKrarup/Dq/3', 'benchmark_data/BildeKrarup/Dq/4', 
@@ -35,15 +31,6 @@ def get_folders_list():
 	if fpp17:
 		cartelle.append(["benchmark_data/Fpp17"])
 		
-	if koerkgosh_sym:
-		cartelle.append(["benchmark_data/KoerkelGosh-sym/250/a", "benchmark_data/KoerkelGosh-sym/250/b", "benchmark_data/KoerkelGosh-sym/250/c", 
-					"benchmark_data/KoerkelGosh-sym/500/a", "benchmark_data/KoerkelGosh-sym/500/b", "benchmark_data/KoerkelGosh-sym/500/c", 
-					"benchmark_data/KoerkelGosh-sym/750/a", "benchmark_data/KoerkelGosh-sym/750/b", "benchmark_data/KoerkelGosh-sym/750/c"])
-
-	if koerkgosh_assym:
-		cartelle.append(["benchmark_data/KoerkelGosh-assym/250/a", "benchmark_data/KoerkelGosh-assym/250/b", "benchmark_data/KoerkelGosh-assym/250/c", 
-					"benchmark_data/KoerkelGosh-assym/500/a", "benchmark_data/KoerkelGosh-assym/500/b", "benchmark_data/KoerkelGosh-assym/500/c", 
-					"benchmark_data/KoerkelGosh-assym/750/a", "benchmark_data/KoerkelGosh-assym/750/b", "benchmark_data/KoerkelGosh-assym/750/c"])
 	if gapa:
 		cartelle.append(["benchmark_data/GapA"])
 	
@@ -79,12 +66,6 @@ def get_tests_list():
 		
 	if fpp17:
 		tests.append("fpp17")
-		
-	if koerkgosh_sym:
-		tests.append("koerkgosh_sym")
-		
-	if koerkgosh_assym:
-		tests.append("koerkgosh_assym")
 		
 	if gapa:
 		tests.append("gapa")
