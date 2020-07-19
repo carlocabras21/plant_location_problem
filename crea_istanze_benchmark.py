@@ -121,6 +121,8 @@ f.write("\n")
 f.write(datFiles)
 f.write("\n")
 
+f.write("cont = " + str(cont) + ";\n")
+
 f.close()
 
 

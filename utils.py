@@ -58,3 +58,17 @@ def get_tests_list():
 		tests.append("gapb")
 		
 	return tests
+
+def get_time_disc(test, i):
+	with open("risultati/times_" + test + ".txt", "r") as f:
+		return float(f.readlines()[i].split(" ")[-2])
+	
+
+def get_time_cont(test, i):
+	with open("risultati/times_" + test + "_cont.txt", "r") as f:
+		return float(f.readlines()[i].split(" ")[-2])
+
+def stampa_video_file(s, f, f_log, newlines):
+	print (s + "\n" * (newlines - 1))
+	f.write(s + "\n" * newlines)
+	f_log.write(s + "\n" * newlines)

@@ -30,15 +30,25 @@
 
 {string} datFiles[tests]=...;
 
+int cont = ... ;
+
 main {
-	var source = new IloOplModelSource("plant_location_problem_sub.mod");
+	if (thisOplModel.cont)
+		var source = new IloOplModelSource("plant_location_problem_sub_cont.mod");
+	else
+		var source = new IloOplModelSource("plant_location_problem_sub.mod");
+
 	var cplex = new IloCplex();
 	var def = new IloOplModelDefinition(source);
 	
 	
 	var count = 0;
 	for(var test in thisOplModel.tests){
-		var f_times = new IloOplOutputFile("risultati/times_" + test + ".txt");
+		if (thisOplModel.cont)	
+			var f_times = new IloOplOutputFile("risultati/times_" + test + "_cont.txt");
+		else
+			var f_times = new IloOplOutputFile("risultati/times_" + test + ".txt");
+		
 		var total_time = 0;
 		
 		for (var datFile in thisOplModel.datFiles[test]){
@@ -51,8 +61,11 @@ main {
 			
 			if (cplex.solve()) {  
 				opl.postProcess();
-		     
-				var f = new IloOplOutputFile(datFile + ".opt");
+		     	if (thisOplModel.cont)
+		     		var f = new IloOplOutputFile(datFile + "_cont.opt");
+				else 
+					var f = new IloOplOutputFile(datFile + ".opt");
+				
 				
 				// metodo estremamente inefficiente per recuperare il numero di
 				// utenti e locazioni ma al momento è l'unica soluzione
@@ -67,7 +80,7 @@ main {
 				// stampa a video dei risulati formattati come nei file originali:
 				for (var i in opl.utenti){
 					for (var j in opl.locazioni){
-						if (opl.x[i][j] == 1){
+						if (opl.x[i][j] > 0){
 							write(j + " ");		
 							f.write(j + " ");
 						}						
@@ -87,6 +100,13 @@ main {
 				
 				writeln("");
 				
+				if (thisOplModel.cont){
+					f.writeln("")				
+				
+					f.writeln(opl.x);
+					f.writeln(opl.y);
+				}
+				
 				} 
 			else 
 				writeln("No solution");
@@ -94,7 +114,9 @@ main {
 			opl.end();
  		}			
  		f.close()
-	
+		
+		writeln("\nTempo complessivo: " + total_time + " s");
+		
 		f_times.writeln("\nTempo complessivo: " + total_time + " s");
 		f_times.close();
 	}  
