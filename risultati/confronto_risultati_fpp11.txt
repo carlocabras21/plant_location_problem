@@ -1,40 +1,51 @@
 10FPP_11S.txt
+    WARNING: l'utente 50 collegato originariamente al 44, nel mio al 118. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 11FPP_11S.txt
     f.o. ottimale uguale
 
 12FPP_11S.txt
+    WARNING: l'utente 81 collegato originariamente al 16, nel mio al 102. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 13FPP_11S.txt
     WARNING: l'utente 0 collegato originariamente al 127, nel mio al 45. Costo collegamento DIVERSO: orig: 1, nuov: 4
+    WARNING: l'utente 1 collegato originariamente al 13, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 2 collegato originariamente al 101, nel mio al 14. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 3 collegato originariamente al 102, nel mio al 100. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 4 collegato originariamente al 101, nel mio al 30. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 5 collegato originariamente al 102, nel mio al 73. Costo collegamento UGUALE 
     WARNING: l'utente 7 collegato originariamente al 52, nel mio al 91. Costo collegamento DIVERSO: orig: 2, nuov: 4
+    WARNING: l'utente 9 collegato originariamente al 13, nel mio al 30. Costo collegamento UGUALE 
     WARNING: l'utente 10 collegato originariamente al 36, nel mio al 14. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 11 collegato originariamente al 95, nel mio al 79. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 12 collegato originariamente al 13, nel mio al 80. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 13 collegato originariamente al 13, nel mio al 14. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 14 collegato originariamente al 113, nel mio al 14. Costo collegamento DIVERSO: orig: 3, nuov: 2
+    WARNING: l'utente 15 collegato originariamente al 36, nel mio al 83. Costo collegamento UGUALE 
+    WARNING: l'utente 16 collegato originariamente al 113, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 17 collegato originariamente al 101, nel mio al 43. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 18 collegato originariamente al 102, nel mio al 30. Costo collegamento DIVERSO: orig: 2, nuov: 1
     WARNING: l'utente 19 collegato originariamente al 13, nel mio al 45. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 20 collegato originariamente al 65, nel mio al 14. Costo collegamento UGUALE 
     WARNING: l'utente 22 collegato originariamente al 67, nel mio al 43. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 23 collegato originariamente al 122, nel mio al 91. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 24 collegato originariamente al 36, nel mio al 45. Costo collegamento DIVERSO: orig: 1, nuov: 4
+    WARNING: l'utente 25 collegato originariamente al 122, nel mio al 124. Costo collegamento UGUALE 
     WARNING: l'utente 26 collegato originariamente al 52, nel mio al 30. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 27 collegato originariamente al 95, nel mio al 124. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 28 collegato originariamente al 127, nel mio al 73. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 29 collegato originariamente al 113, nel mio al 30. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 30 collegato originariamente al 127, nel mio al 30. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 31 collegato originariamente al 52, nel mio al 43. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 32 collegato originariamente al 36, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 33 collegato originariamente al 101, nel mio al 45. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 34 collegato originariamente al 102, nel mio al 79. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 35 collegato originariamente al 36, nel mio al 80. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 36 collegato originariamente al 36, nel mio al 30. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 38 collegato originariamente al 122, nel mio al 83. Costo collegamento DIVERSO: orig: 3, nuov: 4
+    WARNING: l'utente 39 collegato originariamente al 65, nel mio al 43. Costo collegamento UGUALE 
     WARNING: l'utente 40 collegato originariamente al 52, nel mio al 124. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 41 collegato originariamente al 67, nel mio al 45. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 42 collegato originariamente al 36, nel mio al 43. Costo collegamento DIVERSO: orig: 4, nuov: 0
@@ -48,33 +59,45 @@
     WARNING: l'utente 50 collegato originariamente al 95, nel mio al 14. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 51 collegato originariamente al 52, nel mio al 45. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 52 collegato originariamente al 52, nel mio al 73. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 53 collegato originariamente al 65, nel mio al 79. Costo collegamento UGUALE 
     WARNING: l'utente 54 collegato originariamente al 122, nel mio al 80. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 55 collegato originariamente al 67, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 4
+    WARNING: l'utente 56 collegato originariamente al 101, nel mio al 124. Costo collegamento UGUALE 
     WARNING: l'utente 57 collegato originariamente al 102, nel mio al 83. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 58 collegato originariamente al 52, nel mio al 79. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 59 collegato originariamente al 127, nel mio al 80. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 61 collegato originariamente al 65, nel mio al 73. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 62 collegato originariamente al 13, nel mio al 83. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 63 collegato originariamente al 67, nel mio al 14. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 64 collegato originariamente al 65, nel mio al 30. Costo collegamento UGUALE 
     WARNING: l'utente 65 collegato originariamente al 65, nel mio al 91. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 66 collegato originariamente al 67, nel mio al 30. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 67 collegato originariamente al 67, nel mio al 79. Costo collegamento DIVERSO: orig: 1, nuov: 2
+    WARNING: l'utente 68 collegato originariamente al 113, nel mio al 80. Costo collegamento UGUALE 
     WARNING: l'utente 69 collegato originariamente al 95, nel mio al 73. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 70 collegato originariamente al 36, nel mio al 91. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 71 collegato originariamente al 65, nel mio al 83. Costo collegamento UGUALE 
     WARNING: l'utente 72 collegato originariamente al 36, nel mio al 73. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 73 collegato originariamente al 67, nel mio al 73. Costo collegamento UGUALE 
     WARNING: l'utente 74 collegato originariamente al 95, nel mio al 100. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 75 collegato originariamente al 101, nel mio al 79. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 76 collegato originariamente al 102, nel mio al 80. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 77 collegato originariamente al 122, nel mio al 43. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 78 collegato originariamente al 13, nel mio al 79. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 79 collegato originariamente al 105, nel mio al 91. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 80 collegato originariamente al 101, nel mio al 80. Costo collegamento UGUALE 
     WARNING: l'utente 81 collegato originariamente al 102, nel mio al 45. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 82 collegato originariamente al 127, nel mio al 83. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 83 collegato originariamente al 95, nel mio al 83. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 85 collegato originariamente al 36, nel mio al 79. Costo collegamento UGUALE 
+    WARNING: l'utente 86 collegato originariamente al 52, nel mio al 80. Costo collegamento UGUALE 
     WARNING: l'utente 87 collegato originariamente al 113, nel mio al 91. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 88 collegato originariamente al 52, nel mio al 100. Costo collegamento UGUALE 
+    WARNING: l'utente 89 collegato originariamente al 101, nel mio al 83. Costo collegamento UGUALE 
     WARNING: l'utente 90 collegato originariamente al 102, nel mio al 91. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 91 collegato originariamente al 95, nel mio al 91. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 92 collegato originariamente al 113, nel mio al 43. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 94 collegato originariamente al 95, nel mio al 45. Costo collegamento UGUALE 
     WARNING: l'utente 95 collegato originariamente al 95, nel mio al 30. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 96 collegato originariamente al 122, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 97 collegato originariamente al 101, nel mio al 91. Costo collegamento DIVERSO: orig: 2, nuov: 0
@@ -82,10 +105,17 @@
     WARNING: l'utente 99 collegato originariamente al 65, nel mio al 100. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 100 collegato originariamente al 101, nel mio al 100. Costo collegamento DIVERSO: orig: 2, nuov: 3
     WARNING: l'utente 102 collegato originariamente al 102, nel mio al 14. Costo collegamento DIVERSO: orig: 3, nuov: 4
+    WARNING: l'utente 103 collegato originariamente al 67, nel mio al 124. Costo collegamento UGUALE 
+    WARNING: l'utente 106 collegato originariamente al 127, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 107 collegato originariamente al 101, nel mio al 73. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 108 collegato originariamente al 102, nel mio al 43. Costo collegamento UGUALE 
     WARNING: l'utente 109 collegato originariamente al 113, nel mio al 73. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 110 collegato originariamente al 122, nel mio al 45. Costo collegamento UGUALE 
     WARNING: l'utente 112 collegato originariamente al 113, nel mio al 124. Costo collegamento DIVERSO: orig: 3, nuov: 4
+    WARNING: l'utente 113 collegato originariamente al 113, nel mio al 79. Costo collegamento UGUALE 
+    WARNING: l'utente 114 collegato originariamente al 65, nel mio al 80. Costo collegamento UGUALE 
     WARNING: l'utente 115 collegato originariamente al 127, nel mio al 79. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 116 collegato originariamente al 67, nel mio al 80. Costo collegamento UGUALE 
     WARNING: l'utente 117 collegato originariamente al 52, nel mio al 83. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 118 collegato originariamente al 122, nel mio al 30. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 119 collegato originariamente al 113, nel mio al 83. Costo collegamento DIVERSO: orig: 4, nuov: 0
@@ -105,25 +135,34 @@
     f.o. ottimale uguale
 
 14FPP_11S.txt
+    WARNING: l'utente 73 collegato originariamente al 24, nel mio al 99. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 15FPP_11S.txt
+    WARNING: l'utente 9 collegato originariamente al 10, nel mio al 106. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 16FPP_11S.txt
     f.o. ottimale uguale
 
 17FPP_11S.txt
+    WARNING: l'utente 6 collegato originariamente al 6, nel mio al 103. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 18FPP_11S.txt
+    WARNING: l'utente 0 collegato originariamente al 1, nel mio al 84. Costo collegamento UGUALE 
+    WARNING: l'utente 1 collegato originariamente al 1, nel mio al 85. Costo collegamento UGUALE 
     WARNING: l'utente 2 collegato originariamente al 101, nel mio al 129. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 3 collegato originariamente al 24, nel mio al 48. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 4 collegato originariamente al 101, nel mio al 88. Costo collegamento DIVERSO: orig: 1, nuov: 2
+    WARNING: l'utente 5 collegato originariamente al 89, nel mio al 50. Costo collegamento UGUALE 
+    WARNING: l'utente 6 collegato originariamente al 90, nel mio al 105. Costo collegamento UGUALE 
+    WARNING: l'utente 7 collegato originariamente al 1, nel mio al 19. Costo collegamento UGUALE 
     WARNING: l'utente 8 collegato originariamente al 53, nel mio al 105. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 9 collegato originariamente al 93, nel mio al 35. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 10 collegato originariamente al 55, nel mio al 78. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 12 collegato originariamente al 24, nel mio al 96. Costo collegamento DIVERSO: orig: 2, nuov: 3
+    WARNING: l'utente 14 collegato originariamente al 40, nel mio al 35. Costo collegamento UGUALE 
     WARNING: l'utente 15 collegato originariamente al 83, nel mio al 19. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 16 collegato originariamente al 115, nel mio al 84. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 17 collegato originariamente al 101, nel mio al 85. Costo collegamento DIVERSO: orig: 4, nuov: 3
@@ -132,24 +171,30 @@
     WARNING: l'utente 20 collegato originariamente al 24, nel mio al 88. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 21 collegato originariamente al 89, nel mio al 105. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 22 collegato originariamente al 90, nel mio al 48. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 23 collegato originariamente al 24, nel mio al 35. Costo collegamento UGUALE 
     WARNING: l'utente 24 collegato originariamente al 24, nel mio al 50. Costo collegamento DIVERSO: orig: 4, nuov: 2
+    WARNING: l'utente 25 collegato originariamente al 93, nel mio al 19. Costo collegamento UGUALE 
     WARNING: l'utente 27 collegato originariamente al 53, nel mio al 48. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 28 collegato originariamente al 40, nel mio al 96. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 29 collegato originariamente al 55, nel mio al 50. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 30 collegato originariamente al 24, nel mio al 129. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    WARNING: l'utente 31 collegato originariamente al 115, nel mio al 35. Costo collegamento UGUALE 
     WARNING: l'utente 32 collegato originariamente al 53, nel mio al 129. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 33 collegato originariamente al 101, nel mio al 78. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 34 collegato originariamente al 55, nel mio al 35. Costo collegamento UGUALE 
     WARNING: l'utente 35 collegato originariamente al 1, nel mio al 35. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 36 collegato originariamente al 40, nel mio al 48. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 37 collegato originariamente al 1, nel mio al 105. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 38 collegato originariamente al 83, nel mio al 50. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 39 collegato originariamente al 40, nel mio al 84. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 40 collegato originariamente al 40, nel mio al 85. Costo collegamento UGUALE 
     WARNING: l'utente 41 collegato originariamente al 53, nel mio al 35. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 43 collegato originariamente al 55, nel mio al 88. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 44 collegato originariamente al 89, nel mio al 48. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 45 collegato originariamente al 90, nel mio al 129. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 46 collegato originariamente al 40, nel mio al 50. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 47 collegato originariamente al 115, nel mio al 48. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 48 collegato originariamente al 93, nel mio al 48. Costo collegamento UGUALE 
     WARNING: l'utente 49 collegato originariamente al 53, nel mio al 50. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 50 collegato originariamente al 1, nel mio al 50. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 51 collegato originariamente al 55, nel mio al 96. Costo collegamento DIVERSO: orig: 4, nuov: 1
@@ -157,11 +202,13 @@
     WARNING: l'utente 53 collegato originariamente al 53, nel mio al 19. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 54 collegato originariamente al 55, nel mio al 48. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 55 collegato originariamente al 55, nel mio al 19. Costo collegamento DIVERSO: orig: 3, nuov: 2
+    WARNING: l'utente 56 collegato originariamente al 101, nel mio al 50. Costo collegamento UGUALE 
     WARNING: l'utente 57 collegato originariamente al 83, nel mio al 78. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 58 collegato originariamente al 24, nel mio al 84. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 59 collegato originariamente al 53, nel mio al 85. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 60 collegato originariamente al 24, nel mio al 105. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 61 collegato originariamente al 55, nel mio al 129. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 62 collegato originariamente al 83, nel mio al 88. Costo collegamento UGUALE 
     WARNING: l'utente 63 collegato originariamente al 89, nel mio al 84. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 64 collegato originariamente al 90, nel mio al 85. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 66 collegato originariamente al 1, nel mio al 78. Costo collegamento DIVERSO: orig: 1, nuov: 3
@@ -176,18 +223,23 @@
     WARNING: l'utente 75 collegato originariamente al 101, nel mio al 96. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 76 collegato originariamente al 40, nel mio al 88. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 77 collegato originariamente al 89, nel mio al 78. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 78 collegato originariamente al 90, nel mio al 78. Costo collegamento UGUALE 
     WARNING: l'utente 79 collegato originariamente al 83, nel mio al 105. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 80 collegato originariamente al 101, nel mio al 84. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 81 collegato originariamente al 93, nel mio al 85. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    WARNING: l'utente 82 collegato originariamente al 83, nel mio al 48. Costo collegamento UGUALE 
     WARNING: l'utente 83 collegato originariamente al 83, nel mio al 84. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 84 collegato originariamente al 110, nel mio al 129. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 85 collegato originariamente al 89, nel mio al 85. Costo collegamento UGUALE 
     WARNING: l'utente 86 collegato originariamente al 90, nel mio al 50. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 87 collegato originariamente al 53, nel mio al 88. Costo collegamento UGUALE 
     WARNING: l'utente 88 collegato originariamente al 89, nel mio al 88. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 89 collegato originariamente al 93, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 90 collegato originariamente al 90, nel mio al 84. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 91 collegato originariamente al 55, nel mio al 85. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 92 collegato originariamente al 93, nel mio al 96. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 93 collegato originariamente al 93, nel mio al 105. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 94 collegato originariamente al 115, nel mio al 88. Costo collegamento UGUALE 
     WARNING: l'utente 95 collegato originariamente al 89, nel mio al 96. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 96 collegato originariamente al 90, nel mio al 96. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 97 collegato originariamente al 101, nel mio al 48. Costo collegamento DIVERSO: orig: 4, nuov: 3
@@ -197,6 +249,7 @@
     WARNING: l'utente 102 collegato originariamente al 53, nel mio al 96. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 103 collegato originariamente al 115, nel mio al 129. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 104 collegato originariamente al 55, nel mio al 105. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    WARNING: l'utente 105 collegato originariamente al 40, nel mio al 105. Costo collegamento UGUALE 
     WARNING: l'utente 107 collegato originariamente al 101, nel mio al 19. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 108 collegato originariamente al 1, nel mio al 129. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 111 collegato originariamente al 115, nel mio al 105. Costo collegamento DIVERSO: orig: 1, nuov: 0
@@ -204,18 +257,26 @@
     WARNING: l'utente 113 collegato originariamente al 1, nel mio al 48. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 114 collegato originariamente al 115, nel mio al 78. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 115 collegato originariamente al 115, nel mio al 50. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 117 collegato originariamente al 83, nel mio al 129. Costo collegamento UGUALE 
     WARNING: l'utente 118 collegato originariamente al 53, nel mio al 84. Costo collegamento DIVERSO: orig: 4, nuov: 0
+    WARNING: l'utente 119 collegato originariamente al 83, nel mio al 85. Costo collegamento UGUALE 
+    WARNING: l'utente 120 collegato originariamente al 55, nel mio al 84. Costo collegamento UGUALE 
+    WARNING: l'utente 121 collegato originariamente al 115, nel mio al 85. Costo collegamento UGUALE 
     WARNING: l'utente 122 collegato originariamente al 1, nel mio al 88. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 123 collegato originariamente al 89, nel mio al 35. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 124 collegato originariamente al 90, nel mio al 88. Costo collegamento UGUALE 
     WARNING: l'utente 125 collegato originariamente al 89, nel mio al 129. Costo collegamento DIVERSO: orig: 4, nuov: 0
+    WARNING: l'utente 126 collegato originariamente al 90, nel mio al 19. Costo collegamento UGUALE 
     WARNING: l'utente 127 collegato originariamente al 93, nel mio al 78. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 128 collegato originariamente al 40, nel mio al 129. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 129 collegato originariamente al 93, nel mio al 129. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 130 collegato originariamente al 1, nel mio al 96. Costo collegamento DIVERSO: orig: 4, nuov: 0
+    WARNING: l'utente 131 collegato originariamente al 24, nel mio al 19. Costo collegamento UGUALE 
     WARNING: l'utente 132 collegato originariamente al 83, nel mio al 96. Costo collegamento DIVERSO: orig: 3, nuov: 0
     f.o. ottimale uguale
 
 19FPP_11S.txt
+    WARNING: l'utente 37 collegato originariamente al 38, nel mio al 82. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1FPP_11S.txt
@@ -225,18 +286,22 @@
     f.o. ottimale uguale
 
 21FPP_11S.txt
+    WARNING: l'utente 73 collegato originariamente al 67, nel mio al 77. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 22FPP_11S.txt
+    WARNING: l'utente 74 collegato originariamente al 9, nel mio al 86. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 23FPP_11S.txt
     f.o. ottimale uguale
 
 24FPP_11S.txt
+    WARNING: l'utente 25 collegato originariamente al 19, nel mio al 122. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 25FPP_11S.txt
+    WARNING: l'utente 81 collegato originariamente al 32, nel mio al 93. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 26FPP_11S.txt
@@ -244,6 +309,8 @@
     WARNING: l'utente 2 collegato originariamente al 3, nel mio al 28. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 3 collegato originariamente al 3, nel mio al 100. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 4 collegato originariamente al 5, nel mio al 16. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 5 collegato originariamente al 5, nel mio al 17. Costo collegamento UGUALE 
+    WARNING: l'utente 6 collegato originariamente al 51, nel mio al 10. Costo collegamento UGUALE 
     WARNING: l'utente 7 collegato originariamente al 33, nel mio al 28. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 8 collegato originariamente al 107, nel mio al 20. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 9 collegato originariamente al 3, nel mio al 10. Costo collegamento DIVERSO: orig: 0, nuov: 1
@@ -253,12 +320,14 @@
     WARNING: l'utente 13 collegato originariamente al 39, nel mio al 17. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 14 collegato originariamente al 40, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 15 collegato originariamente al 60, nel mio al 16. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 17 collegato originariamente al 43, nel mio al 17. Costo collegamento UGUALE 
     WARNING: l'utente 18 collegato originariamente al 39, nel mio al 115. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 19 collegato originariamente al 40, nel mio al 20. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 20 collegato originariamente al 65, nel mio al 20. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 21 collegato originariamente al 33, nel mio al 42. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 22 collegato originariamente al 43, nel mio al 16. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 23 collegato originariamente al 107, nel mio al 17. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 24 collegato originariamente al 123, nel mio al 28. Costo collegamento UGUALE 
     WARNING: l'utente 25 collegato originariamente al 51, nel mio al 37. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 26 collegato originariamente al 123, nel mio al 20. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 27 collegato originariamente al 39, nel mio al 28. Costo collegamento DIVERSO: orig: 0, nuov: 1
@@ -278,6 +347,7 @@
     WARNING: l'utente 41 collegato originariamente al 5, nel mio al 42. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 42 collegato originariamente al 43, nel mio al 42. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 43 collegato originariamente al 43, nel mio al 37. Costo collegamento DIVERSO: orig: 2, nuov: 4
+    WARNING: l'utente 44 collegato originariamente al 65, nel mio al 10. Costo collegamento UGUALE 
     WARNING: l'utente 45 collegato originariamente al 39, nel mio al 113. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 46 collegato originariamente al 40, nel mio al 10. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 47 collegato originariamente al 51, nel mio al 115. Costo collegamento DIVERSO: orig: 3, nuov: 0
@@ -287,6 +357,7 @@
     WARNING: l'utente 51 collegato originariamente al 51, nel mio al 17. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 52 collegato originariamente al 3, nel mio al 16. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 53 collegato originariamente al 65, nel mio al 17. Costo collegamento DIVERSO: orig: 3, nuov: 2
+    WARNING: l'utente 54 collegato originariamente al 5, nel mio al 20. Costo collegamento UGUALE 
     WARNING: l'utente 55 collegato originariamente al 123, nel mio al 100. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 56 collegato originariamente al 60, nel mio al 20. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 57 collegato originariamente al 51, nel mio al 61. Costo collegamento DIVERSO: orig: 1, nuov: 2
@@ -297,6 +368,7 @@
     WARNING: l'utente 64 collegato originariamente al 65, nel mio al 28. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 65 collegato originariamente al 65, nel mio al 16. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 66 collegato originariamente al 60, nel mio al 17. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 67 collegato originariamente al 33, nel mio al 61. Costo collegamento UGUALE 
     WARNING: l'utente 68 collegato originariamente al 3, nel mio al 113. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 69 collegato originariamente al 33, nel mio al 20. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 70 collegato originariamente al 5, nel mio al 115. Costo collegamento DIVERSO: orig: 2, nuov: 4
@@ -305,10 +377,13 @@
     WARNING: l'utente 74 collegato originariamente al 40, nel mio al 100. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 75 collegato originariamente al 39, nel mio al 10. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 76 collegato originariamente al 40, nel mio al 42. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 77 collegato originariamente al 43, nel mio al 28. Costo collegamento UGUALE 
     WARNING: l'utente 78 collegato originariamente al 123, nel mio al 42. Costo collegamento DIVERSO: orig: 4, nuov: 2
+    WARNING: l'utente 79 collegato originariamente al 43, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 81 collegato originariamente al 107, nel mio al 16. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 82 collegato originariamente al 33, nel mio al 17. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 85 collegato originariamente al 51, nel mio al 20. Costo collegamento DIVERSO: orig: 2, nuov: 0
+    WARNING: l'utente 86 collegato originariamente al 107, nel mio al 37. Costo collegamento UGUALE 
     WARNING: l'utente 87 collegato originariamente al 51, nel mio al 113. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 88 collegato originariamente al 39, nel mio al 100. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 89 collegato originariamente al 40, nel mio al 115. Costo collegamento DIVERSO: orig: 1, nuov: 2
@@ -316,43 +391,61 @@
     WARNING: l'utente 92 collegato originariamente al 43, nel mio al 113. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 93 collegato originariamente al 5, nel mio al 28. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 94 collegato originariamente al 60, nel mio al 115. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 95 collegato originariamente al 107, nel mio al 61. Costo collegamento UGUALE 
+    WARNING: l'utente 96 collegato originariamente al 60, nel mio al 100. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 123, nel mio al 61. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 98 collegato originariamente al 33, nel mio al 10. Costo collegamento DIVERSO: orig: 2, nuov: 1
     WARNING: l'utente 99 collegato originariamente al 65, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 100 collegato originariamente al 51, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 101 collegato originariamente al 65, nel mio al 113. Costo collegamento DIVERSO: orig: 3, nuov: 1
+    WARNING: l'utente 102 collegato originariamente al 123, nel mio al 37. Costo collegamento UGUALE 
     WARNING: l'utente 103 collegato originariamente al 107, nel mio al 115. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 104 collegato originariamente al 39, nel mio al 16. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    WARNING: l'utente 105 collegato originariamente al 40, nel mio al 17. Costo collegamento UGUALE 
     WARNING: l'utente 106 collegato originariamente al 107, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 107 collegato originariamente al 107, nel mio al 42. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 108 collegato originariamente al 43, nel mio al 20. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 109 collegato originariamente al 60, nel mio al 113. Costo collegamento UGUALE 
     WARNING: l'utente 110 collegato originariamente al 3, nel mio al 61. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 111 collegato originariamente al 123, nel mio al 115. Costo collegamento UGUALE 
+    WARNING: l'utente 112 collegato originariamente al 5, nel mio al 113. Costo collegamento UGUALE 
     WARNING: l'utente 113 collegato originariamente al 107, nel mio al 113. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 114 collegato originariamente al 65, nel mio al 115. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 115 collegato originariamente al 3, nel mio al 115. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 116 collegato originariamente al 51, nel mio al 28. Costo collegamento UGUALE 
+    WARNING: l'utente 117 collegato originariamente al 5, nel mio al 10. Costo collegamento UGUALE 
     WARNING: l'utente 119 collegato originariamente al 123, nel mio al 113. Costo collegamento DIVERSO: orig: 3, nuov: 4
     WARNING: l'utente 121 collegato originariamente al 33, nel mio al 115. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 122 collegato originariamente al 123, nel mio al 10. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 123 collegato originariamente al 123, nel mio al 16. Costo collegamento UGUALE 
+    WARNING: l'utente 124 collegato originariamente al 3, nel mio al 17. Costo collegamento UGUALE 
+    WARNING: l'utente 125 collegato originariamente al 60, nel mio al 37. Costo collegamento UGUALE 
     WARNING: l'utente 126 collegato originariamente al 5, nel mio al 61. Costo collegamento DIVERSO: orig: 3, nuov: 0
+    WARNING: l'utente 127 collegato originariamente al 39, nel mio al 20. Costo collegamento UGUALE 
     WARNING: l'utente 128 collegato originariamente al 40, nel mio al 16. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 129 collegato originariamente al 123, nel mio al 17. Costo collegamento UGUALE 
     WARNING: l'utente 130 collegato originariamente al 65, nel mio al 42. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 131 collegato originariamente al 43, nel mio al 10. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 132 collegato originariamente al 3, nel mio al 20. Costo collegamento DIVERSO: orig: 2, nuov: 0
     f.o. ottimale uguale
 
 27FPP_11S.txt
+    WARNING: l'utente 79 collegato originariamente al 124, nel mio al 43. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 28FPP_11S.txt
+    WARNING: l'utente 100 collegato originariamente al 12, nel mio al 101. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 29FPP_11S.txt
+    WARNING: l'utente 97 collegato originariamente al 9, nel mio al 98. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2FPP_11S.txt
     f.o. ottimale uguale
 
 30FPP_11S.txt
+    WARNING: l'utente 21 collegato originariamente al 15, nel mio al 118. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 3FPP_11S.txt
@@ -362,6 +455,7 @@
     f.o. ottimale uguale
 
 5FPP_11S.txt
+    WARNING: l'utente 90 collegato originariamente al 111, nel mio al 116. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 6FPP_11S.txt

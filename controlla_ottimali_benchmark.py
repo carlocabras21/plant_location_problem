@@ -1,15 +1,26 @@
 # su windows, quindi python 3
 
+'''
+Questo script confronta i risultati ottimali ottenuti da me con quelli forniti dal benchmark.
+I file ottimali contengono una lista di numeri dove dal primo al penultimo indicano a quale locazione è collegato 
+l'i-esimo utente; l'ultimo numero contiene il valore ottimale della funzione obiettivo.
+Nel caso l'i-esimo utente sia collegato ad una locazione diversa, cerco nel file originale di benchmark il costo 
+di collegamento e stampo a video se i collegamenti hanno costo uguale o diverso.
+'''
+
+
 import os
 from utils import *
-
+count = 0
 j = 0
-for cartelle in get_folders_list():
-
+f_log = open("log.txt", "w")
+for array_cartelle in get_folders_list():
+	# la struttura delle liste di array di cartelle è la stessa spiegata in crea_istanze_benchmark
+	
 	# file dove salvo i risultati
 	f = open("risultati/confronto_risultati_" + get_tests_list()[j] + ".txt", "w")
 	
-	for cartella in cartelle:
+	for cartella in array_cartelle:
 		files = os.listdir(cartella)
 		
 		# filtro i file che mi servono, scegliendo solo quelli dei dati grezzi
@@ -19,8 +30,10 @@ for cartelle in get_folders_list():
 												and "new" not in item]
 		
 		for file in filtered_files:
+			count +=1 
 			print (file)
 			f.write(file + "\n")
+			f_log.write(file + "\n")
 			
 			# apro i file relativi alle soluzioni ottimali
 			f_orig = open(cartella + "/" + file + ".opt", 'r') 		# soluzioni fornite 
@@ -64,6 +77,7 @@ for cartelle in get_folders_list():
 								# stampo a video e su file
 								print (s)
 								f.write(s + "\n")
+								f_log.write(s + "\n")
 						else:
 							# collegamenti diversi e dal costo diverso
 						
@@ -76,6 +90,7 @@ for cartelle in get_folders_list():
 								# stampo a video e su file
 								print (s)
 								f.write(s + "\n")
+								f_log.write(s + "\n")
 						
 			if controlla_fo_diverse:			
 				if riga_file_opt_orig[-1] != riga_file_opt_nuov[-1]: # la f.o. si trova alla fine della riga
@@ -83,18 +98,22 @@ for cartelle in get_folders_list():
 					s = "    ERRORE diversa f.o. ottimale" + ". orig: " + riga_file_opt_orig[-1] + ", nuov: " + riga_file_opt_nuov[-1]
 					print (s)
 					f.write(s + "\n\n")
+					f_log.write(s + "\n\n")
 					
 				else:
 					# stessa f.o. ottimale
 					s = "    f.o. ottimale uguale"
 					print (s)
 					f.write(s + "\n\n")
+					f_log.write(s + "\n\n")
 
 			print("")
 	f.close()
 	j += 1
-	
-	
+
+s = str(count) + " istanze analizzate"
+print (s)
+f_log.write(s + "\n")
 	
 	
 	

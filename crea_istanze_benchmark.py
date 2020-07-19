@@ -1,23 +1,31 @@
 # su windows, quindi python 3
 # ATTENZIONE: sovrascrive plant_location_problem.dat
 
+'''
+Questo script converte i file di benchmark in file adatti per il mio progetto.
+Legge i file e crea i diversi vettori salvandoli nel file plant_location_problem.dat che sarà letto dal programma cplex
+'''
+
 import os
 from utils import *
 
-# lista delle cartelli contenenti i file di benchmark 
-lista_cartelle = get_folders_list()
+# lista di array di delle cartelle contenenti i file di benchmark,
+# ogni array contiene le cartelle relative ad i diversi test, 
+# in modo da essere separati
+lista_array_cartelle = get_folders_list()
 
 # inizializzazione vettore di stringhe contenente i file dei dati
 datFiles= "datFiles = [{"
 
-# lista_cartelle = ["BildeKrarup/B"] # per testing
+# lista_array_cartelle = ["BildeKrarup/B"] # per testing
 
-for cartelle in lista_cartelle:
-	for cartella in cartelle:
+for array_cartelle in lista_array_cartelle:	# per ogni array di cartelle nella lista 
+	
+	for cartella in array_cartelle: # per ogni cartella dell'array relativo al singolo test
 		files = os.listdir(cartella)
 		
 		# filtro i file che mi servono, scegliendo solo quelli dei dati grezzi:
-		# è un modo comodo per prendere il file una sola volta senza avere il
+		# e' un modo comodo per prendere il file una sola volta senza avere il
 		# disturbo dell'estensione.
 		filtered_files = [item for item in files if "opt" not in item \
 												and "bub" not in item \
@@ -28,7 +36,7 @@ for cartelle in lista_cartelle:
 		for file in filtered_files:
 			
 			if file + "_new" not in files:
-			# crea il file solo se non esiste
+			# crea il file solo se non esiste; il file _new è quello per il mio progetto
 			
 				f = open(cartella + "/" + file, 'r') 
 				# inizializzaione vettori dei dati

@@ -8,6 +8,7 @@ B1.2
     f.o. ottimale uguale
 
 B1.3
+    WARNING: l'utente 14 collegato originariamente al 40, nel mio al 17. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 B1.4
@@ -53,6 +54,7 @@ C1.7
     f.o. ottimale uguale
 
 C1.8
+    WARNING: l'utente 35 collegato originariamente al 4, nel mio al 38. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 C1.9
@@ -104,6 +106,7 @@ D2.4
     f.o. ottimale uguale
 
 D2.5
+    WARNING: l'utente 66 collegato originariamente al 8, nel mio al 25. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D2.6
@@ -116,6 +119,7 @@ D2.8
     f.o. ottimale uguale
 
 D2.9
+    WARNING: l'utente 15 collegato originariamente al 28, nel mio al 24. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D3.1
@@ -143,6 +147,7 @@ D3.7
     f.o. ottimale uguale
 
 D3.8
+    WARNING: l'utente 13 collegato originariamente al 29, nel mio al 0. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D3.9
@@ -161,6 +166,7 @@ D4.3
     f.o. ottimale uguale
 
 D4.4
+    WARNING: l'utente 74 collegato originariamente al 3, nel mio al 2. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D4.5
@@ -206,6 +212,7 @@ D5.8
     f.o. ottimale uguale
 
 D5.9
+    WARNING: l'utente 79 collegato originariamente al 29, nel mio al 12. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D6.1
@@ -266,6 +273,7 @@ D7.8
     f.o. ottimale uguale
 
 D7.9
+    WARNING: l'utente 26 collegato originariamente al 19, nel mio al 27. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D8.1
@@ -332,6 +340,7 @@ D10.1
     f.o. ottimale uguale
 
 D10.10
+    WARNING: l'utente 13 collegato originariamente al 29, nel mio al 2. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 D10.2
@@ -359,6 +368,7 @@ D10.9
     f.o. ottimale uguale
 
 E1.1
+    WARNING: l'utente 59 collegato originariamente al 13, nel mio al 40. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 E1.10
@@ -551,6 +561,7 @@ E7.3
     f.o. ottimale uguale
 
 E7.4
+    WARNING: l'utente 68 collegato originariamente al 43, nel mio al 25. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 E7.5

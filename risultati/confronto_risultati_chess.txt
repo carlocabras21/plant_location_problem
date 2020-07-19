@@ -12,8 +12,10 @@
     WARNING: l'utente 106 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 1
     WARNING: l'utente 107 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 108 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 109 collegato originariamente al 108, nel mio al 110. Costo collegamento UGUALE 
     WARNING: l'utente 110 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 111 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 112 collegato originariamente al 111, nel mio al 113. Costo collegamento UGUALE 
     WARNING: l'utente 113 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 114 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 115 collegato originariamente al 114, nel mio al 116. Costo collegamento DIVERSO: orig: 0, nuov: 4
@@ -24,6 +26,7 @@
     WARNING: l'utente 120 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 121 collegato originariamente al 108, nel mio al 110. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 122 collegato originariamente al 111, nel mio al 110. Costo collegamento DIVERSO: orig: 1, nuov: 3
+    WARNING: l'utente 123 collegato originariamente al 111, nel mio al 110. Costo collegamento UGUALE 
     WARNING: l'utente 124 collegato originariamente al 111, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 125 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 126 collegato originariamente al 114, nel mio al 113. Costo collegamento DIVERSO: orig: 0, nuov: 3

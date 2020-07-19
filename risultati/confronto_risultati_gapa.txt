@@ -1,77 +1,188 @@
 1032GapAS.txt
+    WARNING: l'utente 32 collegato originariamente al 66, nel mio al 63. Costo collegamento UGUALE 
+    WARNING: l'utente 36 collegato originariamente al 40, nel mio al 35. Costo collegamento UGUALE 
+    WARNING: l'utente 46 collegato originariamente al 11, nel mio al 20. Costo collegamento UGUALE 
+    WARNING: l'utente 51 collegato originariamente al 35, nel mio al 47. Costo collegamento UGUALE 
+    WARNING: l'utente 52 collegato originariamente al 22, nel mio al 47. Costo collegamento UGUALE 
+    WARNING: l'utente 89 collegato originariamente al 22, nel mio al 66. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1132GapAS.txt
+    WARNING: l'utente 10 collegato originariamente al 74, nel mio al 9. Costo collegamento UGUALE 
+    WARNING: l'utente 35 collegato originariamente al 57, nel mio al 67. Costo collegamento UGUALE 
+    WARNING: l'utente 39 collegato originariamente al 68, nel mio al 99. Costo collegamento UGUALE 
+    WARNING: l'utente 73 collegato originariamente al 22, nel mio al 81. Costo collegamento UGUALE 
+    WARNING: l'utente 80 collegato originariamente al 67, nel mio al 99. Costo collegamento UGUALE 
+    WARNING: l'utente 81 collegato originariamente al 22, nel mio al 57. Costo collegamento UGUALE 
+    WARNING: l'utente 92 collegato originariamente al 9, nel mio al 73. Costo collegamento UGUALE 
+    WARNING: l'utente 98 collegato originariamente al 93, nel mio al 22. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1232GapAS.txt
     WARNING: l'utente 12 collegato originariamente al 34, nel mio al 74. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 20 collegato originariamente al 68, nel mio al 74. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 24 collegato originariamente al 56, nel mio al 2. Costo collegamento UGUALE 
+    WARNING: l'utente 30 collegato originariamente al 17, nel mio al 74. Costo collegamento UGUALE 
+    WARNING: l'utente 57 collegato originariamente al 91, nel mio al 34. Costo collegamento UGUALE 
     WARNING: l'utente 59 collegato originariamente al 56, nel mio al 74. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 83 collegato originariamente al 56, nel mio al 9. Costo collegamento DIVERSO: orig: 1, nuov: 4
+    WARNING: l'utente 84 collegato originariamente al 21, nel mio al 68. Costo collegamento UGUALE 
+    WARNING: l'utente 88 collegato originariamente al 56, nel mio al 17. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 91, nel mio al 74. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 95 collegato originariamente al 56, nel mio al 74. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 98 collegato originariamente al 56, nel mio al 20. Costo collegamento DIVERSO: orig: 0, nuov: 3
     f.o. ottimale uguale
 
 1332GapAS.txt
+    WARNING: l'utente 20 collegato originariamente al 16, nel mio al 90. Costo collegamento UGUALE 
+    WARNING: l'utente 71 collegato originariamente al 96, nel mio al 90. Costo collegamento UGUALE 
+    WARNING: l'utente 81 collegato originariamente al 27, nel mio al 58. Costo collegamento UGUALE 
+    WARNING: l'utente 97 collegato originariamente al 78, nel mio al 3. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1432GapAS.txt
+    WARNING: l'utente 12 collegato originariamente al 24, nel mio al 21. Costo collegamento UGUALE 
+    WARNING: l'utente 92 collegato originariamente al 40, nel mio al 54. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1532GapAS.txt
+    WARNING: l'utente 81 collegato originariamente al 30, nel mio al 31. Costo collegamento UGUALE 
+    WARNING: l'utente 83 collegato originariamente al 22, nel mio al 44. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1632GapAS.txt
+    WARNING: l'utente 4 collegato originariamente al 8, nel mio al 66. Costo collegamento UGUALE 
+    WARNING: l'utente 12 collegato originariamente al 47, nel mio al 66. Costo collegamento UGUALE 
+    WARNING: l'utente 37 collegato originariamente al 38, nel mio al 85. Costo collegamento UGUALE 
+    WARNING: l'utente 60 collegato originariamente al 47, nel mio al 79. Costo collegamento UGUALE 
+    WARNING: l'utente 68 collegato originariamente al 9, nel mio al 85. Costo collegamento UGUALE 
+    WARNING: l'utente 69 collegato originariamente al 38, nel mio al 44. Costo collegamento UGUALE 
+    WARNING: l'utente 74 collegato originariamente al 34, nel mio al 79. Costo collegamento UGUALE 
+    WARNING: l'utente 90 collegato originariamente al 38, nel mio al 40. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1732GapAS.txt
+    WARNING: l'utente 0 collegato originariamente al 89, nel mio al 95. Costo collegamento UGUALE 
+    WARNING: l'utente 11 collegato originariamente al 89, nel mio al 37. Costo collegamento UGUALE 
+    WARNING: l'utente 20 collegato originariamente al 3, nel mio al 84. Costo collegamento UGUALE 
+    WARNING: l'utente 40 collegato originariamente al 90, nel mio al 37. Costo collegamento UGUALE 
+    WARNING: l'utente 42 collegato originariamente al 12, nel mio al 84. Costo collegamento UGUALE 
+    WARNING: l'utente 69 collegato originariamente al 32, nel mio al 72. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1832GapAS.txt
+    WARNING: l'utente 15 collegato originariamente al 29, nel mio al 46. Costo collegamento UGUALE 
+    WARNING: l'utente 40 collegato originariamente al 10, nel mio al 45. Costo collegamento UGUALE 
+    WARNING: l'utente 60 collegato originariamente al 10, nel mio al 45. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 1932GapAS.txt
+    WARNING: l'utente 16 collegato originariamente al 60, nel mio al 61. Costo collegamento UGUALE 
+    WARNING: l'utente 54 collegato originariamente al 61, nel mio al 69. Costo collegamento UGUALE 
+    WARNING: l'utente 65 collegato originariamente al 44, nel mio al 55. Costo collegamento UGUALE 
+    WARNING: l'utente 89 collegato originariamente al 71, nel mio al 38. Costo collegamento UGUALE 
+    WARNING: l'utente 94 collegato originariamente al 31, nel mio al 89. Costo collegamento UGUALE 
+    WARNING: l'utente 96 collegato originariamente al 31, nel mio al 38. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2032GapAS.txt
+    WARNING: l'utente 7 collegato originariamente al 27, nel mio al 40. Costo collegamento UGUALE 
+    WARNING: l'utente 25 collegato originariamente al 92, nel mio al 66. Costo collegamento UGUALE 
+    WARNING: l'utente 66 collegato originariamente al 27, nel mio al 96. Costo collegamento UGUALE 
+    WARNING: l'utente 79 collegato originariamente al 60, nel mio al 79. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2132GapAS.txt
+    WARNING: l'utente 4 collegato originariamente al 35, nel mio al 63. Costo collegamento UGUALE 
+    WARNING: l'utente 62 collegato originariamente al 1, nel mio al 90. Costo collegamento UGUALE 
+    WARNING: l'utente 86 collegato originariamente al 42, nel mio al 76. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2232GapAS.txt
+    WARNING: l'utente 72 collegato originariamente al 33, nel mio al 9. Costo collegamento UGUALE 
+    WARNING: l'utente 98 collegato originariamente al 93, nel mio al 9. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2332GapAS.txt
+    WARNING: l'utente 20 collegato originariamente al 12, nel mio al 70. Costo collegamento UGUALE 
+    WARNING: l'utente 26 collegato originariamente al 31, nel mio al 37. Costo collegamento UGUALE 
+    WARNING: l'utente 36 collegato originariamente al 31, nel mio al 43. Costo collegamento UGUALE 
+    WARNING: l'utente 41 collegato originariamente al 12, nel mio al 35. Costo collegamento UGUALE 
+    WARNING: l'utente 46 collegato originariamente al 12, nel mio al 87. Costo collegamento UGUALE 
+    WARNING: l'utente 48 collegato originariamente al 70, nel mio al 31. Costo collegamento UGUALE 
+    WARNING: l'utente 92 collegato originariamente al 31, nel mio al 56. Costo collegamento UGUALE 
+    WARNING: l'utente 98 collegato originariamente al 31, nel mio al 50. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2432GapAS.txt
+    WARNING: l'utente 26 collegato originariamente al 2, nel mio al 73. Costo collegamento UGUALE 
+    WARNING: l'utente 30 collegato originariamente al 27, nel mio al 89. Costo collegamento UGUALE 
+    WARNING: l'utente 74 collegato originariamente al 10, nel mio al 30. Costo collegamento UGUALE 
+    WARNING: l'utente 77 collegato originariamente al 20, nel mio al 67. Costo collegamento UGUALE 
+    WARNING: l'utente 88 collegato originariamente al 10, nel mio al 67. Costo collegamento UGUALE 
+    WARNING: l'utente 98 collegato originariamente al 6, nel mio al 27. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2532GapAS.txt
+    WARNING: l'utente 3 collegato originariamente al 46, nel mio al 42. Costo collegamento UGUALE 
+    WARNING: l'utente 39 collegato originariamente al 94, nel mio al 51. Costo collegamento UGUALE 
+    WARNING: l'utente 53 collegato originariamente al 46, nel mio al 51. Costo collegamento UGUALE 
+    WARNING: l'utente 56 collegato originariamente al 98, nel mio al 32. Costo collegamento UGUALE 
+    WARNING: l'utente 63 collegato originariamente al 78, nel mio al 32. Costo collegamento UGUALE 
+    WARNING: l'utente 97 collegato originariamente al 46, nel mio al 63. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2632GapAS.txt
+    WARNING: l'utente 3 collegato originariamente al 78, nel mio al 90. Costo collegamento UGUALE 
+    WARNING: l'utente 35 collegato originariamente al 43, nel mio al 65. Costo collegamento UGUALE 
+    WARNING: l'utente 68 collegato originariamente al 25, nel mio al 98. Costo collegamento UGUALE 
+    WARNING: l'utente 75 collegato originariamente al 15, nel mio al 24. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2732GapAS.txt
+    WARNING: l'utente 58 collegato originariamente al 5, nel mio al 62. Costo collegamento UGUALE 
+    WARNING: l'utente 80 collegato originariamente al 1, nel mio al 62. Costo collegamento UGUALE 
+    WARNING: l'utente 83 collegato originariamente al 89, nel mio al 11. Costo collegamento UGUALE 
+    WARNING: l'utente 84 collegato originariamente al 63, nel mio al 89. Costo collegamento UGUALE 
+    WARNING: l'utente 97 collegato originariamente al 89, nel mio al 11. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2832GapAS.txt
+    WARNING: l'utente 1 collegato originariamente al 8, nel mio al 25. Costo collegamento UGUALE 
+    WARNING: l'utente 21 collegato originariamente al 82, nel mio al 64. Costo collegamento UGUALE 
+    WARNING: l'utente 23 collegato originariamente al 89, nel mio al 66. Costo collegamento UGUALE 
+    WARNING: l'utente 40 collegato originariamente al 66, nel mio al 82. Costo collegamento UGUALE 
+    WARNING: l'utente 45 collegato originariamente al 33, nel mio al 89. Costo collegamento UGUALE 
+    WARNING: l'utente 66 collegato originariamente al 33, nel mio al 82. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 2932GapAS.txt
+    WARNING: l'utente 7 collegato originariamente al 1, nel mio al 15. Costo collegamento UGUALE 
+    WARNING: l'utente 24 collegato originariamente al 15, nel mio al 83. Costo collegamento UGUALE 
+    WARNING: l'utente 61 collegato originariamente al 15, nel mio al 80. Costo collegamento UGUALE 
+    WARNING: l'utente 66 collegato originariamente al 54, nel mio al 76. Costo collegamento UGUALE 
+    WARNING: l'utente 75 collegato originariamente al 1, nel mio al 51. Costo collegamento UGUALE 
+    WARNING: l'utente 84 collegato originariamente al 1, nel mio al 70. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 3032GapAS.txt
+    WARNING: l'utente 18 collegato originariamente al 38, nel mio al 65. Costo collegamento UGUALE 
+    WARNING: l'utente 34 collegato originariamente al 26, nel mio al 71. Costo collegamento UGUALE 
+    WARNING: l'utente 49 collegato originariamente al 26, nel mio al 71. Costo collegamento UGUALE 
+    WARNING: l'utente 58 collegato originariamente al 8, nel mio al 52. Costo collegamento UGUALE 
+    WARNING: l'utente 66 collegato originariamente al 34, nel mio al 66. Costo collegamento UGUALE 
+    WARNING: l'utente 95 collegato originariamente al 42, nel mio al 72. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 3132GapAS.txt
+    WARNING: l'utente 1 collegato originariamente al 43, nel mio al 82. Costo collegamento UGUALE 
+    WARNING: l'utente 2 collegato originariamente al 43, nel mio al 0. Costo collegamento UGUALE 
     WARNING: l'utente 7 collegato originariamente al 36, nel mio al 53. Costo collegamento DIVERSO: orig: 0, nuov: 4
+    WARNING: l'utente 10 collegato originariamente al 76, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 11 collegato originariamente al 63, nel mio al 98. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 12 collegato originariamente al 97, nel mio al 98. Costo collegamento UGUALE 
     WARNING: l'utente 15 collegato originariamente al 76, nel mio al 95. Costo collegamento DIVERSO: orig: 2, nuov: 4
+    WARNING: l'utente 16 collegato originariamente al 53, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 17 collegato originariamente al 63, nel mio al 29. Costo collegamento DIVERSO: orig: 2, nuov: 1
     WARNING: l'utente 20 collegato originariamente al 97, nel mio al 98. Costo collegamento DIVERSO: orig: 1, nuov: 3
     WARNING: l'utente 23 collegato originariamente al 62, nel mio al 25. Costo collegamento DIVERSO: orig: 4, nuov: 2
@@ -81,34 +192,48 @@
     WARNING: l'utente 35 collegato originariamente al 84, nel mio al 98. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 38 collegato originariamente al 63, nel mio al 61. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 39 collegato originariamente al 76, nel mio al 62. Costo collegamento DIVERSO: orig: 2, nuov: 4
+    WARNING: l'utente 40 collegato originariamente al 36, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 46 collegato originariamente al 43, nel mio al 29. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 47 collegato originariamente al 43, nel mio al 98. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 50 collegato originariamente al 43, nel mio al 98. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 52 collegato originariamente al 76, nel mio al 84. Costo collegamento UGUALE 
     WARNING: l'utente 55 collegato originariamente al 0, nel mio al 29. Costo collegamento DIVERSO: orig: 1, nuov: 0
+    WARNING: l'utente 56 collegato originariamente al 63, nel mio al 95. Costo collegamento UGUALE 
+    WARNING: l'utente 64 collegato originariamente al 36, nel mio al 29. Costo collegamento UGUALE 
     WARNING: l'utente 65 collegato originariamente al 53, nel mio al 29. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 68 collegato originariamente al 82, nel mio al 23. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 72 collegato originariamente al 43, nel mio al 23. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 73 collegato originariamente al 63, nel mio al 25. Costo collegamento DIVERSO: orig: 0, nuov: 1
+    WARNING: l'utente 76 collegato originariamente al 97, nel mio al 30. Costo collegamento UGUALE 
     WARNING: l'utente 77 collegato originariamente al 61, nel mio al 98. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 78 collegato originariamente al 97, nel mio al 23. Costo collegamento DIVERSO: orig: 4, nuov: 1
+    WARNING: l'utente 79 collegato originariamente al 36, nel mio al 25. Costo collegamento UGUALE 
     WARNING: l'utente 80 collegato originariamente al 0, nel mio al 23. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 82 collegato originariamente al 97, nel mio al 95. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 84 collegato originariamente al 97, nel mio al 59. Costo collegamento DIVERSO: orig: 0, nuov: 1
     WARNING: l'utente 86 collegato originariamente al 43, nel mio al 98. Costo collegamento DIVERSO: orig: 2, nuov: 1
+    WARNING: l'utente 87 collegato originariamente al 43, nel mio al 53. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 97, nel mio al 25. Costo collegamento DIVERSO: orig: 0, nuov: 2
+    WARNING: l'utente 94 collegato originariamente al 30, nel mio al 98. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 3232GapAS.txt
+    WARNING: l'utente 98 collegato originariamente al 37, nel mio al 16. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 332GapAS.txt
+    WARNING: l'utente 1 collegato originariamente al 39, nel mio al 77. Costo collegamento UGUALE 
     WARNING: l'utente 11 collegato originariamente al 46, nel mio al 43. Costo collegamento DIVERSO: orig: 0, nuov: 4
     WARNING: l'utente 12 collegato originariamente al 77, nel mio al 13. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 18 collegato originariamente al 49, nel mio al 9. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 21 collegato originariamente al 62, nel mio al 9. Costo collegamento DIVERSO: orig: 4, nuov: 3
     WARNING: l'utente 29 collegato originariamente al 46, nel mio al 13. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 34 collegato originariamente al 37, nel mio al 58. Costo collegamento DIVERSO: orig: 3, nuov: 4
+    WARNING: l'utente 36 collegato originariamente al 46, nel mio al 9. Costo collegamento UGUALE 
+    WARNING: l'utente 40 collegato originariamente al 46, nel mio al 13. Costo collegamento UGUALE 
     WARNING: l'utente 47 collegato originariamente al 37, nel mio al 9. Costo collegamento DIVERSO: orig: 0, nuov: 3
+    WARNING: l'utente 49 collegato originariamente al 16, nel mio al 62. Costo collegamento UGUALE 
+    WARNING: l'utente 59 collegato originariamente al 62, nel mio al 77. Costo collegamento UGUALE 
     WARNING: l'utente 67 collegato originariamente al 37, nel mio al 32. Costo collegamento DIVERSO: orig: 1, nuov: 2
     WARNING: l'utente 70 collegato originariamente al 46, nel mio al 13. Costo collegamento DIVERSO: orig: 2, nuov: 1
     WARNING: l'utente 72 collegato originariamente al 37, nel mio al 9. Costo collegamento DIVERSO: orig: 3, nuov: 4
@@ -120,20 +245,42 @@
     f.o. ottimale uguale
 
 432GapAS.txt
+    WARNING: l'utente 12 collegato originariamente al 34, nel mio al 60. Costo collegamento UGUALE 
+    WARNING: l'utente 49 collegato originariamente al 20, nel mio al 74. Costo collegamento UGUALE 
+    WARNING: l'utente 60 collegato originariamente al 90, nel mio al 74. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 532GapAS.txt
+    WARNING: l'utente 8 collegato originariamente al 31, nel mio al 79. Costo collegamento UGUALE 
+    WARNING: l'utente 36 collegato originariamente al 72, nel mio al 30. Costo collegamento UGUALE 
+    WARNING: l'utente 37 collegato originariamente al 79, nel mio al 76. Costo collegamento UGUALE 
+    WARNING: l'utente 76 collegato originariamente al 3, nel mio al 30. Costo collegamento UGUALE 
+    WARNING: l'utente 86 collegato originariamente al 3, nel mio al 39. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 632GapAS.txt
+    WARNING: l'utente 15 collegato originariamente al 62, nel mio al 92. Costo collegamento UGUALE 
+    WARNING: l'utente 23 collegato originariamente al 51, nel mio al 9. Costo collegamento UGUALE 
+    WARNING: l'utente 87 collegato originariamente al 84, nel mio al 66. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 732GapAS.txt
     f.o. ottimale uguale
 
 832GapAS.txt
+    WARNING: l'utente 75 collegato originariamente al 12, nel mio al 59. Costo collegamento UGUALE 
+    WARNING: l'utente 79 collegato originariamente al 18, nel mio al 21. Costo collegamento UGUALE 
+    WARNING: l'utente 82 collegato originariamente al 61, nel mio al 97. Costo collegamento UGUALE 
+    WARNING: l'utente 85 collegato originariamente al 12, nel mio al 20. Costo collegamento UGUALE 
     f.o. ottimale uguale
 
 932GapAS.txt
+    WARNING: l'utente 0 collegato originariamente al 36, nel mio al 45. Costo collegamento UGUALE 
+    WARNING: l'utente 19 collegato originariamente al 40, nel mio al 57. Costo collegamento UGUALE 
+    WARNING: l'utente 56 collegato originariamente al 66, nel mio al 86. Costo collegamento UGUALE 
+    WARNING: l'utente 57 collegato originariamente al 15, nel mio al 62. Costo collegamento UGUALE 
+    WARNING: l'utente 86 collegato originariamente al 62, nel mio al 86. Costo collegamento UGUALE 
+    WARNING: l'utente 87 collegato originariamente al 36, nel mio al 62. Costo collegamento UGUALE 
+    WARNING: l'utente 93 collegato originariamente al 36, nel mio al 54. Costo collegamento UGUALE 
     f.o. ottimale uguale
 

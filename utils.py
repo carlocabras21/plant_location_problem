@@ -3,12 +3,6 @@ from setup import *
 def get_folders_list():
 	cartelle = []
 	
-	if test1:
-		cartelle.append(["benchmark_data/test/test1","benchmark_data/test/test3"])
-	
-	if test2:
-		cartelle.append(["benchmark_data/test/test2"])
-
 	if bilde:
 		cartelle.append(['benchmark_data/BildeKrarup/B', 'benchmark_data/BildeKrarup/C', 'benchmark_data/BildeKrarup/Dq/1', 
 					'benchmark_data/BildeKrarup/Dq/2', 'benchmark_data/BildeKrarup/Dq/3', 'benchmark_data/BildeKrarup/Dq/4', 
@@ -36,22 +30,12 @@ def get_folders_list():
 	
 	if gapb:
 		cartelle.append(["benchmark_data/GapB"])
-		
-	if gapc:
-		cartelle.append(["benchmark_data/GapC"])
-		
 	
 	return cartelle
 	
 def get_tests_list():
 	tests = []
-	
-	if test1:
-		tests.append("test1")
-	
-	if test2:
-		tests.append("test2")
-	
+
 	if bilde:
 		tests.append("bilde")
 		
@@ -72,8 +56,5 @@ def get_tests_list():
 		
 	if gapb:
 		tests.append("gapb")
-		
-	if gapc:
-		tests.append("gapc")
 		
 	return tests
