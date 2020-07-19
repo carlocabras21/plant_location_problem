@@ -1,0 +1,155 @@
+euclid
+
+tempo totale di calcolo nel caso discreto: 8.859 s
+tempo totale di calcolo nel caso continuo: 1.344 s
+
+1011EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.266 s
+	tempo di calcolo nel caso continuo: 0.046 s
+
+1111EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.266 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+111EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.297 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1211EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1311EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1411EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.266 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1511EuclS.txt
+    DIVERSA f.o. ottimale. disc: 99239, cont: 99213
+	tempo di calcolo nel caso discreto: 0.484 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1611EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.046 s
+
+1711EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+1811EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.281 s
+	tempo di calcolo nel caso continuo: 0.031 s
+
+1911EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2011EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.328 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2111EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.234 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+211EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.375 s
+	tempo di calcolo nel caso continuo: 0.031 s
+
+2211EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.375 s
+	tempo di calcolo nel caso continuo: 0.031 s
+
+2311EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.406 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2411EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.219 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2511EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.235 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2611EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.219 s
+	tempo di calcolo nel caso continuo: 0.032 s
+
+2711EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.359 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+2811EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.375 s
+	tempo di calcolo nel caso continuo: 0.063 s
+
+2911EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+3011EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.234 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+311EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.219 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+411EuclS.txt
+    DIVERSA f.o. ottimale. disc: 102157, cont: 102134.666666667
+	tempo di calcolo nel caso discreto: 0.453 s
+	tempo di calcolo nel caso continuo: 0.063 s
+
+511EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.453 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+611EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.297 s
+	tempo di calcolo nel caso continuo: 0.046 s
+
+711EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.234 s
+	tempo di calcolo nel caso continuo: 0.031 s
+
+811EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.25 s
+	tempo di calcolo nel caso continuo: 0.047 s
+
+911EuclS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.234 s
+	tempo di calcolo nel caso continuo: 0.031 s
+
