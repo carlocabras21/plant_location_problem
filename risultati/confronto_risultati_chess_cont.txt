@@ -1,0 +1,155 @@
+chess
+
+tempo totale di calcolo nel caso discreto: 25.576 s
+tempo totale di calcolo nel caso continuo: 11.126 s
+
+1034ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.891 s
+	tempo di calcolo nel caso continuo: 0.438 s
+
+1134ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.875 s
+	tempo di calcolo nel caso continuo: 0.25 s
+
+1234ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.922 s
+	tempo di calcolo nel caso continuo: 0.312 s
+
+1334ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.921 s
+	tempo di calcolo nel caso continuo: 0.438 s
+
+1434ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.859 s
+	tempo di calcolo nel caso continuo: 0.328 s
+
+1534ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.937 s
+	tempo di calcolo nel caso continuo: 0.359 s
+
+1634ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.86 s
+	tempo di calcolo nel caso continuo: 0.407 s
+
+1734ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.875 s
+	tempo di calcolo nel caso continuo: 0.375 s
+
+1834ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.765 s
+	tempo di calcolo nel caso continuo: 0.282 s
+
+1934ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.922 s
+	tempo di calcolo nel caso continuo: 0.391 s
+
+2034ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 1.14 s
+	tempo di calcolo nel caso continuo: 0.407 s
+
+2134ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.734 s
+	tempo di calcolo nel caso continuo: 0.359 s
+
+2234ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.719 s
+	tempo di calcolo nel caso continuo: 0.297 s
+
+2334ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.875 s
+	tempo di calcolo nel caso continuo: 0.312 s
+
+2434ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.891 s
+	tempo di calcolo nel caso continuo: 0.531 s
+
+2534ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.859 s
+	tempo di calcolo nel caso continuo: 0.359 s
+
+2634ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.781 s
+	tempo di calcolo nel caso continuo: 0.563 s
+
+2734ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.671 s
+	tempo di calcolo nel caso continuo: 0.297 s
+
+2834ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.89 s
+	tempo di calcolo nel caso continuo: 0.281 s
+
+2934ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.844 s
+	tempo di calcolo nel caso continuo: 0.422 s
+
+3034ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.812 s
+	tempo di calcolo nel caso continuo: 0.375 s
+
+3134ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.687 s
+	tempo di calcolo nel caso continuo: 0.359 s
+
+3234ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.844 s
+	tempo di calcolo nel caso continuo: 0.531 s
+
+334ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.985 s
+	tempo di calcolo nel caso continuo: 0.328 s
+
+434ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.75 s
+	tempo di calcolo nel caso continuo: 0.25 s
+
+534ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.813 s
+	tempo di calcolo nel caso continuo: 0.344 s
+
+634ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 1.063 s
+	tempo di calcolo nel caso continuo: 0.375 s
+
+734ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.891 s
+	tempo di calcolo nel caso continuo: 0.516 s
+
+834ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.75 s
+	tempo di calcolo nel caso continuo: 0.296 s
+
+934ChessS.txt
+    f.o. ottimale uguale
+	tempo di calcolo nel caso discreto: 0.75 s
+	tempo di calcolo nel caso continuo: 0.344 s
+

@@ -1,0 +1,32 @@
+benchmark_data/Chess/1034ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.438 s
+benchmark_data/Chess/1134ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/Chess/1234ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.312 s
+benchmark_data/Chess/1334ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.438 s
+benchmark_data/Chess/1434ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.328 s
+benchmark_data/Chess/1534ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.359 s
+benchmark_data/Chess/1634ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.407 s
+benchmark_data/Chess/1734ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.375 s
+benchmark_data/Chess/1834ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.282 s
+benchmark_data/Chess/1934ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.391 s
+benchmark_data/Chess/2034ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.407 s
+benchmark_data/Chess/2134ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.359 s
+benchmark_data/Chess/2234ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.297 s
+benchmark_data/Chess/2334ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.312 s
+benchmark_data/Chess/2434ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.531 s
+benchmark_data/Chess/2534ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.359 s
+benchmark_data/Chess/2634ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.563 s
+benchmark_data/Chess/2734ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.297 s
+benchmark_data/Chess/2834ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.281 s
+benchmark_data/Chess/2934ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.422 s
+benchmark_data/Chess/3034ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.375 s
+benchmark_data/Chess/3134ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.359 s
+benchmark_data/Chess/3234ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.531 s
+benchmark_data/Chess/334ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.328 s
+benchmark_data/Chess/434ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/Chess/534ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.344 s
+benchmark_data/Chess/634ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.375 s
+benchmark_data/Chess/734ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.516 s
+benchmark_data/Chess/834ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.296 s
+benchmark_data/Chess/934ChessS.txt_new, 144 utenti e 144 locazioni. Tempo di risoluzione: 0.344 s
+
+Tempo complessivo: 11.126 s
