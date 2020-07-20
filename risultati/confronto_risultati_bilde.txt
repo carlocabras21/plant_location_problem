@@ -1,671 +1,671 @@
 B1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23468
 
 B1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21864
 
 B1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22119
 
 B1.3
     WARNING: l'utente 14 collegato originariamente al 40, nel mio al 17. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23549
 
 B1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20747
 
 B1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23976
 
 B1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21014
 
 B1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22103
 
 B1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20338
 
 B1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25038
 
 C1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 16781
 
 C1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17994
 
 C1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15842
 
 C1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17668
 
 C1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 16799
 
 C1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17491
 
 C1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17911
 
 C1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17268
 
 C1.8
     WARNING: l'utente 35 collegato originariamente al 4, nel mio al 38. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17677
 
 C1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17565
 
 D1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14190
 
 D1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14634
 
 D1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14293
 
 D1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14252
 
 D1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13209
 
 D1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 12166
 
 D1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13893
 
 D1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13844
 
 D1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13350
 
 D1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14055
 
 D2.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18312
 
 D2.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18759
 
 D2.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19208
 
 D2.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19590
 
 D2.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18901
 
 D2.5
     WARNING: l'utente 66 collegato originariamente al 8, nel mio al 25. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19443
 
 D2.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19891
 
 D2.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19253
 
 D2.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19331
 
 D2.9
     WARNING: l'utente 15 collegato originariamente al 28, nel mio al 24. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18151
 
 D3.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23729
 
 D3.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22341
 
 D3.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23915
 
 D3.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23416
 
 D3.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22636
 
 D3.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23571
 
 D3.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22773
 
 D3.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23019
 
 D3.8
     WARNING: l'utente 13 collegato originariamente al 29, nel mio al 0. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23385
 
 D3.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 24304
 
 D4.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27412
 
 D4.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25261
 
 D4.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26652
 
 D4.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27091
 
 D4.4
     WARNING: l'utente 74 collegato originariamente al 3, nel mio al 2. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28150
 
 D4.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26014
 
 D4.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26576
 
 D4.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25724
 
 D4.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27658
 
 D4.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26151
 
 D5.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30338
 
 D5.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29233
 
 D5.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30428
 
 D5.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30082
 
 D5.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29505
 
 D5.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30518
 
 D5.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27784
 
 D5.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30674
 
 D5.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29708
 
 D5.9
     WARNING: l'utente 79 collegato originariamente al 29, nel mio al 12. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30147
 
 D6.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 31823
 
 D6.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34466
 
 D6.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33520
 
 D6.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32119
 
 D6.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32896
 
 D6.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32999
 
 D6.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33084
 
 D6.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32222
 
 D6.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33449
 
 D6.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32876
 
 D7.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34183
 
 D7.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34227
 
 D7.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35534
 
 D7.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34937
 
 D7.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36580
 
 D7.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32942
 
 D7.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36235
 
 D7.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35007
 
 D7.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33132
 
 D7.9
     WARNING: l'utente 26 collegato originariamente al 19, nel mio al 27. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34966
 
 D8.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36710
 
 D8.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37043
 
 D8.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37050
 
 D8.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37384
 
 D8.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36968
 
 D8.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38294
 
 D8.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37606
 
 D8.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37361
 
 D8.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36208
 
 D8.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37446
 
 D9.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40917
 
 D9.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39310
 
 D9.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38258
 
 D9.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39293
 
 D9.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39939
 
 D9.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39360
 
 D9.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39457
 
 D9.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38540
 
 D9.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40725
 
 D9.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38191
 
 D10.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40980
 
 D10.10
     WARNING: l'utente 13 collegato originariamente al 29, nel mio al 2. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40809
 
 D10.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40995
 
 D10.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37698
 
 D10.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40783
 
 D10.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39898
 
 D10.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40908
 
 D10.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41372
 
 D10.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41595
 
 D10.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42781
 
 E1.1
     WARNING: l'utente 59 collegato originariamente al 13, nel mio al 40. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15042
 
 E1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14630
 
 E1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14459
 
 E1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15159
 
 E1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14074
 
 E1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14457
 
 E1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14426
 
 E1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14242
 
 E1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14181
 
 E1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14537
 
 E2.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21410
 
 E2.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21667
 
 E2.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20740
 
 E2.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20696
 
 E2.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21544
 
 E2.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20796
 
 E2.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21310
 
 E2.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20975
 
 E2.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21480
 
 E2.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21287
 
 E3.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25486
 
 E3.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25390
 
 E3.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25947
 
 E3.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25739
 
 E3.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26286
 
 E3.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25984
 
 E3.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25337
 
 E3.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26055
 
 E3.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25490
 
 E3.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25558
 
 E4.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30417
 
 E4.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28481
 
 E4.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28047
 
 E4.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28650
 
 E4.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29372
 
 E4.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29850
 
 E4.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29941
 
 E4.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30329
 
 E4.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29952
 
 E4.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29542
 
 E5.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32377
 
 E5.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34086
 
 E5.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32208
 
 E5.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33874
 
 E5.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32571
 
 E5.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33625
 
 E5.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33194
 
 E5.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 31629
 
 E5.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33251
 
 E5.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33796
 
 E6.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36033
 
 E6.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37144
 
 E6.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36441
 
 E6.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36554
 
 E6.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36868
 
 E6.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35591
 
 E6.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36404
 
 E6.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37872
 
 E6.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35751
 
 E6.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36235
 
 E7.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39901
 
 E7.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40013
 
 E7.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39737
 
 E7.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38669
 
 E7.4
     WARNING: l'utente 68 collegato originariamente al 43, nel mio al 25. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39919
 
 E7.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40706
 
 E7.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39121
 
 E7.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38845
 
 E7.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38636
 
 E7.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39092
 
 E8.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41421
 
 E8.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41308
 
 E8.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42640
 
 E8.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41027
 
 E8.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41841
 
 E8.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42487
 
 E8.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41994
 
 E8.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42574
 
 E8.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41415
 
 E8.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 43772
 
 E9.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45048
 
 E9.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44162
 
 E9.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45152
 
 E9.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44688
 
 E9.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 43775
 
 E9.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44333
 
 E9.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42443
 
 E9.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44245
 
 E9.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45684
 
 E9.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44634
 
 E10.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46832
 
 E10.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47449
 
 E10.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47612
 
 E10.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45658
 
 E10.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45852
 
 E10.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47652
 
 E10.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45955
 
 E10.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46391
 
 E10.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46678
 
 E10.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47415
 

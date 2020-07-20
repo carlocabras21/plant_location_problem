@@ -1,10 +1,10 @@
 10FPP_17S.txt
     WARNING: l'utente 149 collegato originariamente al 112, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54549
 
 11FPP_17S.txt
     WARNING: l'utente 250 collegato originariamente al 86, nel mio al 243. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54528
 
 12FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 89, nel mio al 205. Costo collegamento UGUALE 
@@ -298,29 +298,29 @@
     WARNING: l'utente 304 collegato originariamente al 120, nel mio al 149. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 305 collegato originariamente al 227, nel mio al 121. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 306 collegato originariamente al 88, nel mio al 204. Costo collegamento DIVERSO: orig: 3, nuov: 2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54551
 
 13FPP_17S.txt
     WARNING: l'utente 81 collegato originariamente al 220, nel mio al 224. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 14FPP_17S.txt
     WARNING: l'utente 259 collegato originariamente al 252, nel mio al 274. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 15FPP_17S.txt
     WARNING: l'utente 87 collegato originariamente al 4, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54555
 
 16FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54549
 
 17FPP_17S.txt
     WARNING: l'utente 257 collegato originariamente al 93, nel mio al 289. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54556
 
 18FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54540
 
 19FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 203, nel mio al 252. Costo collegamento DIVERSO: orig: 0, nuov: 2
@@ -614,39 +614,39 @@
     WARNING: l'utente 304 collegato originariamente al 86, nel mio al 202. Costo collegamento UGUALE 
     WARNING: l'utente 305 collegato originariamente al 203, nel mio al 30. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 306 collegato originariamente al 151, nel mio al 202. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54544
 
 1FPP_17S.txt
     WARNING: l'utente 212 collegato originariamente al 48, nel mio al 213. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 20FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54538
 
 21FPP_17S.txt
     WARNING: l'utente 34 collegato originariamente al 34, nel mio al 49. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54557
 
 22FPP_17S.txt
     WARNING: l'utente 86 collegato originariamente al 43, nel mio al 291. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54551
 
 23FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54557
 
 24FPP_17S.txt
     WARNING: l'utente 176 collegato originariamente al 139, nel mio al 191. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54531
 
 25FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54536
 
 26FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 27FPP_17S.txt
     WARNING: l'utente 142 collegato originariamente al 59, nel mio al 281. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54543
 
 28FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 224, nel mio al 205. Costo collegamento DIVERSO: orig: 3, nuov: 0
@@ -940,13 +940,13 @@
     WARNING: l'utente 304 collegato originariamente al 136, nel mio al 261. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 305 collegato originariamente al 150, nel mio al 250. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 306 collegato originariamente al 31, nel mio al 223. Costo collegamento DIVERSO: orig: 2, nuov: 0
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 29FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54547
 
 2FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54531
 
 30FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 89, nel mio al 15. Costo collegamento UGUALE 
@@ -1241,31 +1241,30 @@
     WARNING: l'utente 305 collegato originariamente al 268, nel mio al 298. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 306 collegato originariamente al 151, nel mio al 296. Costo collegamento UGUALE 
     ERRORE diversa f.o. ottimale. orig: 54541, nuov: 54542
-
 3FPP_17S.txt
     WARNING: l'utente 89 collegato originariamente al 34, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54554
 
 4FPP_17S.txt
     WARNING: l'utente 194 collegato originariamente al 30, nel mio al 283. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54544
 
 5FPP_17S.txt
     WARNING: l'utente 33 collegato originariamente al 23, nel mio al 303. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54541
 
 6FPP_17S.txt
     WARNING: l'utente 55 collegato originariamente al 18, nel mio al 284. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 7FPP_17S.txt
     WARNING: l'utente 298 collegato originariamente al 194, nel mio al 288. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54526
 
 8FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54546
 
 9FPP_17S.txt
     WARNING: l'utente 118 collegato originariamente al 40, nel mio al 261. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54541
 

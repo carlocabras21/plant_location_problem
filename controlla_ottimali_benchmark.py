@@ -31,9 +31,7 @@ for array_cartelle in get_folders_list():
 		
 		for file in filtered_files:
 			count +=1 
-			print (file)
-			f.write(file + "\n")
-			f_log.write(file + "\n")
+			stampa_video_file(file, f, f_log, 1)
 			
 			# apro i file relativi alle soluzioni ottimali
 			f_orig = open(cartella + "/" + file + ".opt", 'r') 		# soluzioni fornite 
@@ -75,9 +73,8 @@ for array_cartelle in get_folders_list():
 								s = "    WARNING: l'utente " + str(i) + " collegato originariamente al " + riga_file_opt_orig[i] + \
 											", nel mio al " + riga_file_opt_nuov[i] + ". Costo collegamento UGUALE "
 								# stampo a video e su file
-								print (s)
-								f.write(s + "\n")
-								f_log.write(s + "\n")
+								stampa_video_file(s, f, f_log, 1)
+								
 						else:
 							# collegamenti diversi e dal costo diverso
 						
@@ -88,26 +85,19 @@ for array_cartelle in get_folders_list():
 											"orig: " + costo_orig + ", nuov: " + costo_nuov
 						
 								# stampo a video e su file
-								print (s)
-								f.write(s + "\n")
-								f_log.write(s + "\n")
+								stampa_video_file(s, f, f_log, 1)
 						
 			if controlla_fo_diverse:			
 				if riga_file_opt_orig[-1] != riga_file_opt_nuov[-1]: # la f.o. si trova alla fine della riga
 					# diversa f.o. ottimale
 					s = "    ERRORE diversa f.o. ottimale" + ". orig: " + riga_file_opt_orig[-1] + ", nuov: " + riga_file_opt_nuov[-1]
-					print (s)
-					f.write(s + "\n\n")
-					f_log.write(s + "\n\n")
+					stampa_video_file(s, f, f_log, 1)
 					
 				else:
 					# stessa f.o. ottimale
-					s = "    f.o. ottimale uguale"
-					print (s)
-					f.write(s + "\n\n")
-					f_log.write(s + "\n\n")
+					s = "    f.o. ottimale uguale: " + str(riga_file_opt_orig[-1])
+					stampa_video_file(s, f, f_log, 2)
 
-			print("")
 	f.close()
 	j += 1
 

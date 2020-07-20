@@ -1,673 +1,673 @@
 B1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23468
 
 B1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21864
 
 B1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22119
 
 B1.3
     WARNING: l'utente 14 collegato originariamente al 40, nel mio al 17. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23549
 
 B1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20747
 
 B1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23976
 
 B1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21014
 
 B1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22103
 
 B1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20338
 
 B1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25038
 
 C1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 16781
 
 C1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17994
 
 C1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15842
 
 C1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17668
 
 C1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 16799
 
 C1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17491
 
 C1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17911
 
 C1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17268
 
 C1.8
     WARNING: l'utente 35 collegato originariamente al 4, nel mio al 38. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17677
 
 C1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 17565
 
 D1.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14190
 
 D1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14634
 
 D1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14293
 
 D1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14252
 
 D1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13209
 
 D1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 12166
 
 D1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13893
 
 D1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13844
 
 D1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 13350
 
 D1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14055
 
 D2.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18312
 
 D2.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18759
 
 D2.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19208
 
 D2.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19590
 
 D2.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18901
 
 D2.5
     WARNING: l'utente 66 collegato originariamente al 8, nel mio al 25. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19443
 
 D2.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19891
 
 D2.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19253
 
 D2.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 19331
 
 D2.9
     WARNING: l'utente 15 collegato originariamente al 28, nel mio al 24. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 18151
 
 D3.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23729
 
 D3.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22341
 
 D3.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23915
 
 D3.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23416
 
 D3.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22636
 
 D3.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23571
 
 D3.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 22773
 
 D3.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23019
 
 D3.8
     WARNING: l'utente 13 collegato originariamente al 29, nel mio al 0. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 23385
 
 D3.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 24304
 
 D4.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27412
 
 D4.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25261
 
 D4.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26652
 
 D4.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27091
 
 D4.4
     WARNING: l'utente 74 collegato originariamente al 3, nel mio al 2. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28150
 
 D4.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26014
 
 D4.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26576
 
 D4.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25724
 
 D4.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27658
 
 D4.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26151
 
 D5.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30338
 
 D5.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29233
 
 D5.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30428
 
 D5.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30082
 
 D5.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29505
 
 D5.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30518
 
 D5.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 27784
 
 D5.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30674
 
 D5.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29708
 
 D5.9
     WARNING: l'utente 79 collegato originariamente al 29, nel mio al 12. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30147
 
 D6.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 31823
 
 D6.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34466
 
 D6.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33520
 
 D6.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32119
 
 D6.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32896
 
 D6.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32999
 
 D6.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33084
 
 D6.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32222
 
 D6.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33449
 
 D6.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32876
 
 D7.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34183
 
 D7.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34227
 
 D7.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35534
 
 D7.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34937
 
 D7.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36580
 
 D7.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32942
 
 D7.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36235
 
 D7.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35007
 
 D7.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33132
 
 D7.9
     WARNING: l'utente 26 collegato originariamente al 19, nel mio al 27. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34966
 
 D8.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36710
 
 D8.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37043
 
 D8.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37050
 
 D8.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37384
 
 D8.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36968
 
 D8.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38294
 
 D8.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37606
 
 D8.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37361
 
 D8.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36208
 
 D8.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37446
 
 D9.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40917
 
 D9.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39310
 
 D9.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38258
 
 D9.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39293
 
 D9.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39939
 
 D9.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39360
 
 D9.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39457
 
 D9.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38540
 
 D9.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40725
 
 D9.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38191
 
 D10.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40980
 
 D10.10
     WARNING: l'utente 13 collegato originariamente al 29, nel mio al 2. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40809
 
 D10.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40995
 
 D10.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37698
 
 D10.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40783
 
 D10.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39898
 
 D10.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40908
 
 D10.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41372
 
 D10.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41595
 
 D10.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42781
 
 E1.1
     WARNING: l'utente 59 collegato originariamente al 13, nel mio al 40. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15042
 
 E1.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14630
 
 E1.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14459
 
 E1.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 15159
 
 E1.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14074
 
 E1.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14457
 
 E1.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14426
 
 E1.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14242
 
 E1.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14181
 
 E1.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 14537
 
 E2.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21410
 
 E2.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21667
 
 E2.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20740
 
 E2.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20696
 
 E2.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21544
 
 E2.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20796
 
 E2.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21310
 
 E2.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 20975
 
 E2.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21480
 
 E2.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 21287
 
 E3.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25486
 
 E3.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25390
 
 E3.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25947
 
 E3.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25739
 
 E3.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26286
 
 E3.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25984
 
 E3.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25337
 
 E3.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 26055
 
 E3.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25490
 
 E3.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 25558
 
 E4.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30417
 
 E4.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28481
 
 E4.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28047
 
 E4.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 28650
 
 E4.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29372
 
 E4.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29850
 
 E4.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29941
 
 E4.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 30329
 
 E4.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29952
 
 E4.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 29542
 
 E5.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32377
 
 E5.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 34086
 
 E5.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32208
 
 E5.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33874
 
 E5.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 32571
 
 E5.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33625
 
 E5.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33194
 
 E5.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 31629
 
 E5.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33251
 
 E5.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33796
 
 E6.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36033
 
 E6.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37144
 
 E6.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36441
 
 E6.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36554
 
 E6.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36868
 
 E6.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35591
 
 E6.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36404
 
 E6.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 37872
 
 E6.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 35751
 
 E6.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36235
 
 E7.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39901
 
 E7.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40013
 
 E7.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39737
 
 E7.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38669
 
 E7.4
     WARNING: l'utente 68 collegato originariamente al 43, nel mio al 25. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39919
 
 E7.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 40706
 
 E7.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39121
 
 E7.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38845
 
 E7.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 38636
 
 E7.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39092
 
 E8.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41421
 
 E8.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41308
 
 E8.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42640
 
 E8.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41027
 
 E8.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41841
 
 E8.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42487
 
 E8.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41994
 
 E8.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42574
 
 E8.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 41415
 
 E8.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 43772
 
 E9.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45048
 
 E9.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44162
 
 E9.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45152
 
 E9.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44688
 
 E9.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 43775
 
 E9.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44333
 
 E9.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42443
 
 E9.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44245
 
 E9.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45684
 
 E9.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 44634
 
 E10.1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46832
 
 E10.10
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47449
 
 E10.2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47612
 
 E10.3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45658
 
 E10.4
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45852
 
 E10.5
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47652
 
 E10.6
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45955
 
 E10.7
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46391
 
 E10.8
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 46678
 
 E10.9
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 47415
 
 1034ChessS.txt
     WARNING: l'utente 96 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 0, nuov: 2
@@ -706,195 +706,195 @@ E10.9
     WARNING: l'utente 129 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 130 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 131 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 0, nuov: 1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 1134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48232
 
 1234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48244
 
 1334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 1434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48250
 
 1734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48253
 
 1934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48251
 
 2034ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48243
 
 2134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48242
 
 2234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 2334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48250
 
 2434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 2534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48256
 
 2634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 2734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48248
 
 2834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48232
 
 2934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 3034ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 3134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 3234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48226
 
 334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48258
 
 434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48246
 
 634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48235
 
 734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48257
 
 834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48236
 
 934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 1011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 95868
 
 1111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97181
 
 111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96116
 
 1211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98528
 
 1311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99880
 
 1411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96460
 
 1511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99239
 
 1611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98486
 
 1711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97578
 
 1811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100189
 
 1911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98617
 
 2011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96938
 
 2111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 94611
 
 211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98091
 
 2211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98238
 
 2311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97419
 
 2411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96715
 
 2511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99195
 
 2611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96088
 
 2711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 93845
 
 2811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100651
 
 2911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98699
 
 3011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98846
 
 311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96212
 
 411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 102157
 
 511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98527
 
 611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98374
 
 711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99331
 
 811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100277
 
 911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100335
 
 10FPP_11S.txt
     WARNING: l'utente 50 collegato originariamente al 44, nel mio al 118. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36228
 
 11FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36219
 
 12FPP_11S.txt
     WARNING: l'utente 81 collegato originariamente al 16, nel mio al 102. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36239
 
 13FPP_11S.txt
     WARNING: l'utente 0 collegato originariamente al 127, nel mio al 45. Costo collegamento DIVERSO: orig: 1, nuov: 4
@@ -1019,22 +1019,22 @@ E10.9
     WARNING: l'utente 130 collegato originariamente al 65, nel mio al 124. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 131 collegato originariamente al 95, nel mio al 43. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 132 collegato originariamente al 67, nel mio al 83. Costo collegamento DIVERSO: orig: 3, nuov: 1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36226
 
 14FPP_11S.txt
     WARNING: l'utente 73 collegato originariamente al 24, nel mio al 99. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36224
 
 15FPP_11S.txt
     WARNING: l'utente 9 collegato originariamente al 10, nel mio al 106. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36236
 
 16FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36219
 
 17FPP_11S.txt
     WARNING: l'utente 6 collegato originariamente al 6, nel mio al 103. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36234
 
 18FPP_11S.txt
     WARNING: l'utente 0 collegato originariamente al 1, nel mio al 84. Costo collegamento UGUALE 
@@ -1160,36 +1160,36 @@ E10.9
     WARNING: l'utente 130 collegato originariamente al 1, nel mio al 96. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 131 collegato originariamente al 24, nel mio al 19. Costo collegamento UGUALE 
     WARNING: l'utente 132 collegato originariamente al 83, nel mio al 96. Costo collegamento DIVERSO: orig: 3, nuov: 0
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36224
 
 19FPP_11S.txt
     WARNING: l'utente 37 collegato originariamente al 38, nel mio al 82. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36234
 
 1FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36230
 
 20FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36228
 
 21FPP_11S.txt
     WARNING: l'utente 73 collegato originariamente al 67, nel mio al 77. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36221
 
 22FPP_11S.txt
     WARNING: l'utente 74 collegato originariamente al 9, nel mio al 86. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36223
 
 23FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36223
 
 24FPP_11S.txt
     WARNING: l'utente 25 collegato originariamente al 19, nel mio al 122. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36216
 
 25FPP_11S.txt
     WARNING: l'utente 81 collegato originariamente al 32, nel mio al 93. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36216
 
 26FPP_11S.txt
     WARNING: l'utente 1 collegato originariamente al 5, nel mio al 100. Costo collegamento DIVERSO: orig: 3, nuov: 0
@@ -1314,56 +1314,56 @@ E10.9
     WARNING: l'utente 130 collegato originariamente al 65, nel mio al 42. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 131 collegato originariamente al 43, nel mio al 10. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 132 collegato originariamente al 3, nel mio al 20. Costo collegamento DIVERSO: orig: 2, nuov: 0
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36232
 
 27FPP_11S.txt
     WARNING: l'utente 79 collegato originariamente al 124, nel mio al 43. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36222
 
 28FPP_11S.txt
     WARNING: l'utente 100 collegato originariamente al 12, nel mio al 101. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36227
 
 29FPP_11S.txt
     WARNING: l'utente 97 collegato originariamente al 9, nel mio al 98. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36213
 
 2FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36220
 
 30FPP_11S.txt
     WARNING: l'utente 21 collegato originariamente al 15, nel mio al 118. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36231
 
 3FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36233
 
 4FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36221
 
 5FPP_11S.txt
     WARNING: l'utente 90 collegato originariamente al 111, nel mio al 116. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36226
 
 6FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36236
 
 7FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36211
 
 8FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36220
 
 9FPP_11S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36225
 
 10FPP_17S.txt
     WARNING: l'utente 149 collegato originariamente al 112, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54549
 
 11FPP_17S.txt
     WARNING: l'utente 250 collegato originariamente al 86, nel mio al 243. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54528
 
 12FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 89, nel mio al 205. Costo collegamento UGUALE 
@@ -1657,29 +1657,29 @@ E10.9
     WARNING: l'utente 304 collegato originariamente al 120, nel mio al 149. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 305 collegato originariamente al 227, nel mio al 121. Costo collegamento DIVERSO: orig: 2, nuov: 0
     WARNING: l'utente 306 collegato originariamente al 88, nel mio al 204. Costo collegamento DIVERSO: orig: 3, nuov: 2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54551
 
 13FPP_17S.txt
     WARNING: l'utente 81 collegato originariamente al 220, nel mio al 224. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 14FPP_17S.txt
     WARNING: l'utente 259 collegato originariamente al 252, nel mio al 274. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 15FPP_17S.txt
     WARNING: l'utente 87 collegato originariamente al 4, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54555
 
 16FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54549
 
 17FPP_17S.txt
     WARNING: l'utente 257 collegato originariamente al 93, nel mio al 289. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54556
 
 18FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54540
 
 19FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 203, nel mio al 252. Costo collegamento DIVERSO: orig: 0, nuov: 2
@@ -1973,39 +1973,39 @@ E10.9
     WARNING: l'utente 304 collegato originariamente al 86, nel mio al 202. Costo collegamento UGUALE 
     WARNING: l'utente 305 collegato originariamente al 203, nel mio al 30. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 306 collegato originariamente al 151, nel mio al 202. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54544
 
 1FPP_17S.txt
     WARNING: l'utente 212 collegato originariamente al 48, nel mio al 213. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54548
 
 20FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54538
 
 21FPP_17S.txt
     WARNING: l'utente 34 collegato originariamente al 34, nel mio al 49. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54557
 
 22FPP_17S.txt
     WARNING: l'utente 86 collegato originariamente al 43, nel mio al 291. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54551
 
 23FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54557
 
 24FPP_17S.txt
     WARNING: l'utente 176 collegato originariamente al 139, nel mio al 191. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54531
 
 25FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54536
 
 26FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 27FPP_17S.txt
     WARNING: l'utente 142 collegato originariamente al 59, nel mio al 281. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54543
 
 28FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 224, nel mio al 205. Costo collegamento DIVERSO: orig: 3, nuov: 0
@@ -2299,13 +2299,13 @@ E10.9
     WARNING: l'utente 304 collegato originariamente al 136, nel mio al 261. Costo collegamento DIVERSO: orig: 4, nuov: 1
     WARNING: l'utente 305 collegato originariamente al 150, nel mio al 250. Costo collegamento DIVERSO: orig: 1, nuov: 0
     WARNING: l'utente 306 collegato originariamente al 31, nel mio al 223. Costo collegamento DIVERSO: orig: 2, nuov: 0
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 29FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54547
 
 2FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54531
 
 30FPP_17S.txt
     WARNING: l'utente 0 collegato originariamente al 89, nel mio al 15. Costo collegamento UGUALE 
@@ -2600,33 +2600,32 @@ E10.9
     WARNING: l'utente 305 collegato originariamente al 268, nel mio al 298. Costo collegamento DIVERSO: orig: 1, nuov: 4
     WARNING: l'utente 306 collegato originariamente al 151, nel mio al 296. Costo collegamento UGUALE 
     ERRORE diversa f.o. ottimale. orig: 54541, nuov: 54542
-
 3FPP_17S.txt
     WARNING: l'utente 89 collegato originariamente al 34, nel mio al 292. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54554
 
 4FPP_17S.txt
     WARNING: l'utente 194 collegato originariamente al 30, nel mio al 283. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54544
 
 5FPP_17S.txt
     WARNING: l'utente 33 collegato originariamente al 23, nel mio al 303. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54541
 
 6FPP_17S.txt
     WARNING: l'utente 55 collegato originariamente al 18, nel mio al 284. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54552
 
 7FPP_17S.txt
     WARNING: l'utente 298 collegato originariamente al 194, nel mio al 288. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54526
 
 8FPP_17S.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54546
 
 9FPP_17S.txt
     WARNING: l'utente 118 collegato originariamente al 40, nel mio al 261. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 54541
 
 1032GapAS.txt
     WARNING: l'utente 32 collegato originariamente al 66, nel mio al 63. Costo collegamento UGUALE 
@@ -2635,7 +2634,7 @@ E10.9
     WARNING: l'utente 51 collegato originariamente al 35, nel mio al 47. Costo collegamento UGUALE 
     WARNING: l'utente 52 collegato originariamente al 22, nel mio al 47. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 22, nel mio al 66. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36127
 
 1132GapAS.txt
     WARNING: l'utente 10 collegato originariamente al 74, nel mio al 9. Costo collegamento UGUALE 
@@ -2646,7 +2645,7 @@ E10.9
     WARNING: l'utente 81 collegato originariamente al 22, nel mio al 57. Costo collegamento UGUALE 
     WARNING: l'utente 92 collegato originariamente al 9, nel mio al 73. Costo collegamento UGUALE 
     WARNING: l'utente 98 collegato originariamente al 93, nel mio al 22. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36163
 
 1232GapAS.txt
     WARNING: l'utente 12 collegato originariamente al 34, nel mio al 74. Costo collegamento DIVERSO: orig: 2, nuov: 0
@@ -2661,24 +2660,24 @@ E10.9
     WARNING: l'utente 89 collegato originariamente al 91, nel mio al 74. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 95 collegato originariamente al 56, nel mio al 74. Costo collegamento DIVERSO: orig: 3, nuov: 0
     WARNING: l'utente 98 collegato originariamente al 56, nel mio al 20. Costo collegamento DIVERSO: orig: 0, nuov: 3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39123
 
 1332GapAS.txt
     WARNING: l'utente 20 collegato originariamente al 16, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 71 collegato originariamente al 96, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 81 collegato originariamente al 27, nel mio al 58. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 78, nel mio al 3. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36164
 
 1432GapAS.txt
     WARNING: l'utente 12 collegato originariamente al 24, nel mio al 21. Costo collegamento UGUALE 
     WARNING: l'utente 92 collegato originariamente al 40, nel mio al 54. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36150
 
 1532GapAS.txt
     WARNING: l'utente 81 collegato originariamente al 30, nel mio al 31. Costo collegamento UGUALE 
     WARNING: l'utente 83 collegato originariamente al 22, nel mio al 44. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36158
 
 1632GapAS.txt
     WARNING: l'utente 4 collegato originariamente al 8, nel mio al 66. Costo collegamento UGUALE 
@@ -2689,7 +2688,7 @@ E10.9
     WARNING: l'utente 69 collegato originariamente al 38, nel mio al 44. Costo collegamento UGUALE 
     WARNING: l'utente 74 collegato originariamente al 34, nel mio al 79. Costo collegamento UGUALE 
     WARNING: l'utente 90 collegato originariamente al 38, nel mio al 40. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36141
 
 1732GapAS.txt
     WARNING: l'utente 0 collegato originariamente al 89, nel mio al 95. Costo collegamento UGUALE 
@@ -2698,13 +2697,13 @@ E10.9
     WARNING: l'utente 40 collegato originariamente al 90, nel mio al 37. Costo collegamento UGUALE 
     WARNING: l'utente 42 collegato originariamente al 12, nel mio al 84. Costo collegamento UGUALE 
     WARNING: l'utente 69 collegato originariamente al 32, nel mio al 72. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36157
 
 1832GapAS.txt
     WARNING: l'utente 15 collegato originariamente al 29, nel mio al 46. Costo collegamento UGUALE 
     WARNING: l'utente 40 collegato originariamente al 10, nel mio al 45. Costo collegamento UGUALE 
     WARNING: l'utente 60 collegato originariamente al 10, nel mio al 45. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36135
 
 1932GapAS.txt
     WARNING: l'utente 16 collegato originariamente al 60, nel mio al 61. Costo collegamento UGUALE 
@@ -2713,25 +2712,25 @@ E10.9
     WARNING: l'utente 89 collegato originariamente al 71, nel mio al 38. Costo collegamento UGUALE 
     WARNING: l'utente 94 collegato originariamente al 31, nel mio al 89. Costo collegamento UGUALE 
     WARNING: l'utente 96 collegato originariamente al 31, nel mio al 38. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36146
 
 2032GapAS.txt
     WARNING: l'utente 7 collegato originariamente al 27, nel mio al 40. Costo collegamento UGUALE 
     WARNING: l'utente 25 collegato originariamente al 92, nel mio al 66. Costo collegamento UGUALE 
     WARNING: l'utente 66 collegato originariamente al 27, nel mio al 96. Costo collegamento UGUALE 
     WARNING: l'utente 79 collegato originariamente al 60, nel mio al 79. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36150
 
 2132GapAS.txt
     WARNING: l'utente 4 collegato originariamente al 35, nel mio al 63. Costo collegamento UGUALE 
     WARNING: l'utente 62 collegato originariamente al 1, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 86 collegato originariamente al 42, nel mio al 76. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36140
 
 2232GapAS.txt
     WARNING: l'utente 72 collegato originariamente al 33, nel mio al 9. Costo collegamento UGUALE 
     WARNING: l'utente 98 collegato originariamente al 93, nel mio al 9. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36145
 
 2332GapAS.txt
     WARNING: l'utente 20 collegato originariamente al 12, nel mio al 70. Costo collegamento UGUALE 
@@ -2742,7 +2741,7 @@ E10.9
     WARNING: l'utente 48 collegato originariamente al 70, nel mio al 31. Costo collegamento UGUALE 
     WARNING: l'utente 92 collegato originariamente al 31, nel mio al 56. Costo collegamento UGUALE 
     WARNING: l'utente 98 collegato originariamente al 31, nel mio al 50. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36172
 
 2432GapAS.txt
     WARNING: l'utente 26 collegato originariamente al 2, nel mio al 73. Costo collegamento UGUALE 
@@ -2751,7 +2750,7 @@ E10.9
     WARNING: l'utente 77 collegato originariamente al 20, nel mio al 67. Costo collegamento UGUALE 
     WARNING: l'utente 88 collegato originariamente al 10, nel mio al 67. Costo collegamento UGUALE 
     WARNING: l'utente 98 collegato originariamente al 6, nel mio al 27. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36137
 
 2532GapAS.txt
     WARNING: l'utente 3 collegato originariamente al 46, nel mio al 42. Costo collegamento UGUALE 
@@ -2760,14 +2759,14 @@ E10.9
     WARNING: l'utente 56 collegato originariamente al 98, nel mio al 32. Costo collegamento UGUALE 
     WARNING: l'utente 63 collegato originariamente al 78, nel mio al 32. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 46, nel mio al 63. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36153
 
 2632GapAS.txt
     WARNING: l'utente 3 collegato originariamente al 78, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 35 collegato originariamente al 43, nel mio al 65. Costo collegamento UGUALE 
     WARNING: l'utente 68 collegato originariamente al 25, nel mio al 98. Costo collegamento UGUALE 
     WARNING: l'utente 75 collegato originariamente al 15, nel mio al 24. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36164
 
 2732GapAS.txt
     WARNING: l'utente 58 collegato originariamente al 5, nel mio al 62. Costo collegamento UGUALE 
@@ -2775,7 +2774,7 @@ E10.9
     WARNING: l'utente 83 collegato originariamente al 89, nel mio al 11. Costo collegamento UGUALE 
     WARNING: l'utente 84 collegato originariamente al 63, nel mio al 89. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 89, nel mio al 11. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39123
 
 2832GapAS.txt
     WARNING: l'utente 1 collegato originariamente al 8, nel mio al 25. Costo collegamento UGUALE 
@@ -2784,7 +2783,7 @@ E10.9
     WARNING: l'utente 40 collegato originariamente al 66, nel mio al 82. Costo collegamento UGUALE 
     WARNING: l'utente 45 collegato originariamente al 33, nel mio al 89. Costo collegamento UGUALE 
     WARNING: l'utente 66 collegato originariamente al 33, nel mio al 82. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36145
 
 2932GapAS.txt
     WARNING: l'utente 7 collegato originariamente al 1, nel mio al 15. Costo collegamento UGUALE 
@@ -2793,7 +2792,7 @@ E10.9
     WARNING: l'utente 66 collegato originariamente al 54, nel mio al 76. Costo collegamento UGUALE 
     WARNING: l'utente 75 collegato originariamente al 1, nel mio al 51. Costo collegamento UGUALE 
     WARNING: l'utente 84 collegato originariamente al 1, nel mio al 70. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36155
 
 3032GapAS.txt
     WARNING: l'utente 18 collegato originariamente al 38, nel mio al 65. Costo collegamento UGUALE 
@@ -2802,7 +2801,7 @@ E10.9
     WARNING: l'utente 58 collegato originariamente al 8, nel mio al 52. Costo collegamento UGUALE 
     WARNING: l'utente 66 collegato originariamente al 34, nel mio al 66. Costo collegamento UGUALE 
     WARNING: l'utente 95 collegato originariamente al 42, nel mio al 72. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36113
 
 3132GapAS.txt
     WARNING: l'utente 1 collegato originariamente al 43, nel mio al 82. Costo collegamento UGUALE 
@@ -2845,11 +2844,11 @@ E10.9
     WARNING: l'utente 87 collegato originariamente al 43, nel mio al 53. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 97, nel mio al 25. Costo collegamento DIVERSO: orig: 0, nuov: 2
     WARNING: l'utente 94 collegato originariamente al 30, nel mio al 98. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 39130
 
 3232GapAS.txt
     WARNING: l'utente 98 collegato originariamente al 37, nel mio al 16. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36157
 
 332GapAS.txt
     WARNING: l'utente 1 collegato originariamente al 39, nel mio al 77. Costo collegamento UGUALE 
@@ -2872,13 +2871,13 @@ E10.9
     WARNING: l'utente 79 collegato originariamente al 33, nel mio al 13. Costo collegamento DIVERSO: orig: 4, nuov: 0
     WARNING: l'utente 80 collegato originariamente al 58, nel mio al 9. Costo collegamento DIVERSO: orig: 3, nuov: 1
     WARNING: l'utente 88 collegato originariamente al 37, nel mio al 63. Costo collegamento DIVERSO: orig: 2, nuov: 3
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36154
 
 432GapAS.txt
     WARNING: l'utente 12 collegato originariamente al 34, nel mio al 60. Costo collegamento UGUALE 
     WARNING: l'utente 49 collegato originariamente al 20, nel mio al 74. Costo collegamento UGUALE 
     WARNING: l'utente 60 collegato originariamente al 90, nel mio al 74. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36155
 
 532GapAS.txt
     WARNING: l'utente 8 collegato originariamente al 31, nel mio al 79. Costo collegamento UGUALE 
@@ -2886,23 +2885,23 @@ E10.9
     WARNING: l'utente 37 collegato originariamente al 79, nel mio al 76. Costo collegamento UGUALE 
     WARNING: l'utente 76 collegato originariamente al 3, nel mio al 30. Costo collegamento UGUALE 
     WARNING: l'utente 86 collegato originariamente al 3, nel mio al 39. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36150
 
 632GapAS.txt
     WARNING: l'utente 15 collegato originariamente al 62, nel mio al 92. Costo collegamento UGUALE 
     WARNING: l'utente 23 collegato originariamente al 51, nel mio al 9. Costo collegamento UGUALE 
     WARNING: l'utente 87 collegato originariamente al 84, nel mio al 66. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36162
 
 732GapAS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 33157
 
 832GapAS.txt
     WARNING: l'utente 75 collegato originariamente al 12, nel mio al 59. Costo collegamento UGUALE 
     WARNING: l'utente 79 collegato originariamente al 18, nel mio al 21. Costo collegamento UGUALE 
     WARNING: l'utente 82 collegato originariamente al 61, nel mio al 97. Costo collegamento UGUALE 
     WARNING: l'utente 85 collegato originariamente al 12, nel mio al 20. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36136
 
 932GapAS.txt
     WARNING: l'utente 0 collegato originariamente al 36, nel mio al 45. Costo collegamento UGUALE 
@@ -2912,30 +2911,30 @@ E10.9
     WARNING: l'utente 86 collegato originariamente al 62, nel mio al 86. Costo collegamento UGUALE 
     WARNING: l'utente 87 collegato originariamente al 36, nel mio al 62. Costo collegamento UGUALE 
     WARNING: l'utente 93 collegato originariamente al 36, nel mio al 54. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 36133
 
 1031GapBS.txt
     WARNING: l'utente 14 collegato originariamente al 20, nel mio al 99. Costo collegamento UGUALE 
     WARNING: l'utente 25 collegato originariamente al 83, nel mio al 69. Costo collegamento UGUALE 
     WARNING: l'utente 55 collegato originariamente al 18, nel mio al 35. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42165
 
 1131GapBS.txt
     WARNING: l'utente 14 collegato originariamente al 85, nel mio al 43. Costo collegamento UGUALE 
     WARNING: l'utente 94 collegato originariamente al 90, nel mio al 85. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42162
 
 1231GapBS.txt
     WARNING: l'utente 62 collegato originariamente al 58, nel mio al 86. Costo collegamento UGUALE 
     WARNING: l'utente 72 collegato originariamente al 60, nel mio al 72. Costo collegamento UGUALE 
     WARNING: l'utente 75 collegato originariamente al 9, nel mio al 86. Costo collegamento UGUALE 
     WARNING: l'utente 94 collegato originariamente al 0, nel mio al 36. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45136
 
 1331GapBS.txt
     WARNING: l'utente 60 collegato originariamente al 82, nel mio al 25. Costo collegamento UGUALE 
     WARNING: l'utente 72 collegato originariamente al 66, nel mio al 16. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42169
 
 1431GapBS.txt
     WARNING: l'utente 37 collegato originariamente al 40, nel mio al 72. Costo collegamento UGUALE 
@@ -2943,74 +2942,74 @@ E10.9
     WARNING: l'utente 46 collegato originariamente al 90, nel mio al 33. Costo collegamento UGUALE 
     WARNING: l'utente 54 collegato originariamente al 53, nel mio al 64. Costo collegamento UGUALE 
     WARNING: l'utente 63 collegato originariamente al 31, nel mio al 40. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42157
 
 1531GapBS.txt
     WARNING: l'utente 0 collegato originariamente al 6, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 22 collegato originariamente al 96, nel mio al 25. Costo collegamento UGUALE 
     WARNING: l'utente 39 collegato originariamente al 44, nel mio al 62. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 77, nel mio al 25. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42160
 
 1631GapBS.txt
     WARNING: l'utente 92 collegato originariamente al 59, nel mio al 3. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45140
 
 1731GapBS.txt
     WARNING: l'utente 20 collegato originariamente al 44, nel mio al 93. Costo collegamento UGUALE 
     WARNING: l'utente 27 collegato originariamente al 27, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 95 collegato originariamente al 27, nel mio al 41. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42174
 
 1831GapBS.txt
     WARNING: l'utente 26 collegato originariamente al 89, nel mio al 93. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 4, nel mio al 89. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45134
 
 1931GapBS.txt
     WARNING: l'utente 11 collegato originariamente al 31, nel mio al 83. Costo collegamento UGUALE 
     WARNING: l'utente 32 collegato originariamente al 38, nel mio al 97. Costo collegamento UGUALE 
     WARNING: l'utente 40 collegato originariamente al 16, nel mio al 38. Costo collegamento UGUALE 
     WARNING: l'utente 91 collegato originariamente al 19, nel mio al 91. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45136
 
 2031GapBS.txt
     WARNING: l'utente 50 collegato originariamente al 6, nel mio al 41. Costo collegamento UGUALE 
     WARNING: l'utente 55 collegato originariamente al 41, nel mio al 61. Costo collegamento UGUALE 
     WARNING: l'utente 86 collegato originariamente al 66, nel mio al 70. Costo collegamento UGUALE 
     WARNING: l'utente 92 collegato originariamente al 57, nel mio al 61. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45131
 
 2131GapBS.txt
     WARNING: l'utente 56 collegato originariamente al 16, nel mio al 91. Costo collegamento UGUALE 
     WARNING: l'utente 67 collegato originariamente al 9, nel mio al 24. Costo collegamento UGUALE 
     WARNING: l'utente 82 collegato originariamente al 54, nel mio al 73. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45126
 
 2231GapBS.txt
     WARNING: l'utente 14 collegato originariamente al 7, nel mio al 54. Costo collegamento UGUALE 
     WARNING: l'utente 29 collegato originariamente al 6, nel mio al 54. Costo collegamento UGUALE 
     WARNING: l'utente 47 collegato originariamente al 89, nel mio al 61. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42179
 
 2331GapBS.txt
     WARNING: l'utente 20 collegato originariamente al 22, nel mio al 51. Costo collegamento UGUALE 
     WARNING: l'utente 49 collegato originariamente al 7, nel mio al 14. Costo collegamento UGUALE 
     WARNING: l'utente 57 collegato originariamente al 51, nel mio al 20. Costo collegamento UGUALE 
     WARNING: l'utente 83 collegato originariamente al 6, nel mio al 73. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45134
 
 2431GapBS.txt
     WARNING: l'utente 73 collegato originariamente al 51, nel mio al 71. Costo collegamento UGUALE 
     WARNING: l'utente 99 collegato originariamente al 29, nel mio al 41. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45137
 
 2531GapBS.txt
     WARNING: l'utente 5 collegato originariamente al 47, nel mio al 9. Costo collegamento UGUALE 
     WARNING: l'utente 7 collegato originariamente al 73, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 34 collegato originariamente al 2, nel mio al 22. Costo collegamento UGUALE 
     WARNING: l'utente 35 collegato originariamente al 22, nel mio al 75. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45124
 
 2631GapBS.txt
     WARNING: l'utente 2 collegato originariamente al 16, nel mio al 39. Costo collegamento UGUALE 
@@ -3019,23 +3018,23 @@ E10.9
     WARNING: l'utente 38 collegato originariamente al 9, nel mio al 58. Costo collegamento UGUALE 
     WARNING: l'utente 53 collegato originariamente al 62, nel mio al 39. Costo collegamento UGUALE 
     WARNING: l'utente 65 collegato originariamente al 92, nel mio al 94. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45131
 
 2731GapBS.txt
     WARNING: l'utente 50 collegato originariamente al 19, nel mio al 37. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42159
 
 2831GapBS.txt
     WARNING: l'utente 36 collegato originariamente al 33, nel mio al 6. Costo collegamento UGUALE 
     WARNING: l'utente 52 collegato originariamente al 27, nel mio al 71. Costo collegamento UGUALE 
     WARNING: l'utente 63 collegato originariamente al 71, nel mio al 25. Costo collegamento UGUALE 
     WARNING: l'utente 75 collegato originariamente al 6, nel mio al 27. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42151
 
 2931GapBS.txt
     WARNING: l'utente 3 collegato originariamente al 32, nel mio al 49. Costo collegamento UGUALE 
     WARNING: l'utente 50 collegato originariamente al 32, nel mio al 38. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45132
 
 3031GapBS.txt
     WARNING: l'utente 0 collegato originariamente al 53, nel mio al 70. Costo collegamento DIVERSO: orig: 0, nuov: 1
@@ -3116,12 +3115,12 @@ E10.9
     WARNING: l'utente 97 collegato originariamente al 71, nel mio al 27. Costo collegamento DIVERSO: orig: 3, nuov: 2
     WARNING: l'utente 98 collegato originariamente al 53, nel mio al 27. Costo collegamento DIVERSO: orig: 0, nuov: 3
     WARNING: l'utente 99 collegato originariamente al 48, nel mio al 50. Costo collegamento DIVERSO: orig: 0, nuov: 2
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45144
 
 3131GapBS.txt
     WARNING: l'utente 9 collegato originariamente al 94, nel mio al 95. Costo collegamento UGUALE 
     WARNING: l'utente 45 collegato originariamente al 11, nel mio al 81. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42158
 
 3231GapBS.txt
     WARNING: l'utente 10 collegato originariamente al 90, nel mio al 91. Costo collegamento UGUALE 
@@ -3132,24 +3131,24 @@ E10.9
     WARNING: l'utente 90 collegato originariamente al 19, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 98 collegato originariamente al 78, nel mio al 17. Costo collegamento UGUALE 
     WARNING: l'utente 99 collegato originariamente al 4, nel mio al 66. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45125
 
 331GapBS.txt
     WARNING: l'utente 1 collegato originariamente al 24, nel mio al 20. Costo collegamento UGUALE 
     WARNING: l'utente 12 collegato originariamente al 50, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 33 collegato originariamente al 22, nel mio al 15. Costo collegamento UGUALE 
     WARNING: l'utente 52 collegato originariamente al 3, nel mio al 78. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45123
 
 431GapBS.txt
     WARNING: l'utente 55 collegato originariamente al 19, nel mio al 87. Costo collegamento UGUALE 
     WARNING: l'utente 79 collegato originariamente al 48, nel mio al 79. Costo collegamento UGUALE 
     WARNING: l'utente 91 collegato originariamente al 73, nel mio al 86. Costo collegamento UGUALE 
     WARNING: l'utente 97 collegato originariamente al 54, nel mio al 91. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45132
 
 531GapBS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45135
 
 631GapBS.txt
     WARNING: l'utente 33 collegato originariamente al 19, nel mio al 84. Costo collegamento UGUALE 
@@ -3157,13 +3156,13 @@ E10.9
     WARNING: l'utente 63 collegato originariamente al 23, nel mio al 0. Costo collegamento UGUALE 
     WARNING: l'utente 69 collegato originariamente al 99, nel mio al 0. Costo collegamento UGUALE 
     WARNING: l'utente 89 collegato originariamente al 16, nel mio al 82. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45140
 
 731GapBS.txt
     WARNING: l'utente 28 collegato originariamente al 90, nel mio al 44. Costo collegamento UGUALE 
     WARNING: l'utente 48 collegato originariamente al 37, nel mio al 68. Costo collegamento UGUALE 
     WARNING: l'utente 58 collegato originariamente al 36, nel mio al 75. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45130
 
 831GapBS.txt
     WARNING: l'utente 3 collegato originariamente al 26, nel mio al 46. Costo collegamento UGUALE 
@@ -3171,13 +3170,13 @@ E10.9
     WARNING: l'utente 29 collegato originariamente al 3, nel mio al 62. Costo collegamento UGUALE 
     WARNING: l'utente 35 collegato originariamente al 24, nel mio al 90. Costo collegamento UGUALE 
     WARNING: l'utente 36 collegato originariamente al 3, nel mio al 16. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 45138
 
 931GapBS.txt
     WARNING: l'utente 30 collegato originariamente al 93, nel mio al 18. Costo collegamento UGUALE 
     WARNING: l'utente 35 collegato originariamente al 17, nel mio al 36. Costo collegamento UGUALE 
     WARNING: l'utente 66 collegato originariamente al 99, nel mio al 60. Costo collegamento UGUALE 
     WARNING: l'utente 70 collegato originariamente al 17, nel mio al 11. Costo collegamento UGUALE 
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 42172
 
 400 istanze analizzate

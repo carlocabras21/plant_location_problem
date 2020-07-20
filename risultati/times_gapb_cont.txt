@@ -1,0 +1,32 @@
+benchmark_data/GapB/1031GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/1131GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.203 s
+benchmark_data/GapB/1231GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.188 s
+benchmark_data/GapB/1331GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.281 s
+benchmark_data/GapB/1431GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/1531GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.235 s
+benchmark_data/GapB/1631GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/1731GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/1831GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/1931GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.203 s
+benchmark_data/GapB/2031GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/GapB/2131GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.265 s
+benchmark_data/GapB/2231GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/GapB/2331GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.204 s
+benchmark_data/GapB/2431GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/GapB/2531GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/2631GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.235 s
+benchmark_data/GapB/2731GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.218 s
+benchmark_data/GapB/2831GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.204 s
+benchmark_data/GapB/2931GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.265 s
+benchmark_data/GapB/3031GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.219 s
+benchmark_data/GapB/3131GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/GapB/3231GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.25 s
+benchmark_data/GapB/331GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.203 s
+benchmark_data/GapB/431GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.235 s
+benchmark_data/GapB/531GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.234 s
+benchmark_data/GapB/631GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.156 s
+benchmark_data/GapB/731GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.203 s
+benchmark_data/GapB/831GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.187 s
+benchmark_data/GapB/931GapBS.txt_new, 100 utenti e 100 locazioni. Tempo di risoluzione: 0.234 s
+
+Tempo complessivo: 6.736 s

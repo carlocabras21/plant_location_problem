@@ -1,0 +1,185 @@
+gapa
+
+tempo totale di calcolo nel caso discreto: 1545.847 s
+tempo totale di calcolo nel caso continuo: 6.814 s
+
+1032GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36127, cont: 26676.949079036
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 34.922 s
+ tempo di calcolo nel caso continuo: 0.266 s
+
+1132GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36163, cont: 26882.487697184
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 50.157 s
+ tempo di calcolo nel caso continuo: 0.188 s
+
+1232GapAS.txt
+    DIVERSA f.o. ottimale. disc: 39123, cont: 27509.331330822
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 192.609 s
+ tempo di calcolo nel caso continuo: 0.218 s
+
+1332GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36164, cont: 27306.129882517
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 30.218 s
+ tempo di calcolo nel caso continuo: 0.235 s
+
+1432GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36150, cont: 26322.264704634
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 37.219 s
+ tempo di calcolo nel caso continuo: 0.172 s
+
+1532GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36158, cont: 27644.316034026
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 47.922 s
+ tempo di calcolo nel caso continuo: 0.203 s
+
+1632GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36141, cont: 26625.058491214
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 60.281 s
+ tempo di calcolo nel caso continuo: 0.157 s
+
+1732GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36157, cont: 27382.660850123
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 30.672 s
+ tempo di calcolo nel caso continuo: 0.281 s
+
+1832GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36135, cont: 26816.852867376
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 48.235 s
+ tempo di calcolo nel caso continuo: 0.265 s
+
+1932GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36146, cont: 27348.844629524
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 28.453 s
+ tempo di calcolo nel caso continuo: 0.188 s
+
+2032GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36150, cont: 26887.900642976
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 34.625 s
+ tempo di calcolo nel caso continuo: 0.188 s
+
+2132GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36140, cont: 27574.582192652
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 28.313 s
+ tempo di calcolo nel caso continuo: 0.266 s
+
+2232GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36145, cont: 27646.072325713
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 29.39 s
+ tempo di calcolo nel caso continuo: 0.25 s
+
+2332GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36172, cont: 27361.902786429
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 31.969 s
+ tempo di calcolo nel caso continuo: 0.156 s
+
+2432GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36137, cont: 26247.789970392
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 39.391 s
+ tempo di calcolo nel caso continuo: 0.219 s
+
+2532GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36153, cont: 27081.611540409
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 34.234 s
+ tempo di calcolo nel caso continuo: 0.281 s
+
+2632GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36164, cont: 27672.583036011
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 45.812 s
+ tempo di calcolo nel caso continuo: 0.188 s
+
+2732GapAS.txt
+    DIVERSA f.o. ottimale. disc: 39123, cont: 27942.312790694
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 189.032 s
+ tempo di calcolo nel caso continuo: 0.203 s
+
+2832GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36145, cont: 27032.936312832
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 29.453 s
+ tempo di calcolo nel caso continuo: 0.172 s
+
+2932GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36155, cont: 27296.244172875
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 29.641 s
+ tempo di calcolo nel caso continuo: 0.297 s
+
+3032GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36113, cont: 26358.51430257
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 51.61 s
+ tempo di calcolo nel caso continuo: 0.266 s
+
+3132GapAS.txt
+    DIVERSA f.o. ottimale. disc: 39130, cont: 27201.768368398
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 166.172 s
+ tempo di calcolo nel caso continuo: 0.25 s
+
+3232GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36157, cont: 26822.014087407
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 26.266 s
+ tempo di calcolo nel caso continuo: 0.203 s
+
+332GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36154, cont: 26959.450639984
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 34.781 s
+ tempo di calcolo nel caso continuo: 0.171 s
+
+432GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36155, cont: 27223.166937031
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 63.297 s
+ tempo di calcolo nel caso continuo: 0.281 s
+
+532GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36150, cont: 26143.145684366
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 48.922 s
+ tempo di calcolo nel caso continuo: 0.25 s
+
+632GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36162, cont: 27339.024921917
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 26.922 s
+ tempo di calcolo nel caso continuo: 0.266 s
+
+732GapAS.txt
+    DIVERSA f.o. ottimale. disc: 33157, cont: 25953.541089925
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 7.891 s
+ tempo di calcolo nel caso continuo: 0.25 s
+
+832GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36136, cont: 26661.502061644
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 32.719 s
+ tempo di calcolo nel caso continuo: 0.297 s
+
+932GapAS.txt
+    DIVERSA f.o. ottimale. disc: 36133, cont: 26539.379509708
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 34.719 s
+ tempo di calcolo nel caso continuo: 0.187 s
+

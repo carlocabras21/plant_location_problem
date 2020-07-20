@@ -1,4 +1,4 @@
-from setup import *
+from settings import *
 
 def get_folders_list():
 	cartelle = []
@@ -12,7 +12,7 @@ def get_folders_list():
 					'benchmark_data/BildeKrarup/Eq/4', 'benchmark_data/BildeKrarup/Eq/5', 'benchmark_data/BildeKrarup/Eq/6', 
 					'benchmark_data/BildeKrarup/Eq/7', 'benchmark_data/BildeKrarup/Eq/8', 'benchmark_data/BildeKrarup/Eq/9', 
 					'benchmark_data/BildeKrarup/Eq/10'])
-	
+					
 	if chess:
 		cartelle.append(["benchmark_data/Chess"])
 		
@@ -72,3 +72,70 @@ def stampa_video_file(s, f, f_log, newlines):
 	print (s + "\n" * (newlines - 1))
 	f.write(s + "\n" * newlines)
 	f_log.write(s + "\n" * newlines)
+	
+def get_x_from_cont_opt(filename):
+	with open(filename, "r") as f:
+		f.readline()
+		lines = f.readlines()
+		
+		# processo di pulizia delle righe
+		s = "".join(lines).replace("\n         ", " ").replace("] [", "],[")
+
+		x = s.split("]\n ")[0][2:].replace("[","").replace("]","") # lista separata da virgole
+		
+		x_list_string = [item.split(" ") for item in x.split(",")] 	# lista di liste di stringhe
+		x_list = [[float(j) for j in i] for i in x_list_string]		# lista di liste di float
+		
+		return x_list
+		
+def get_y_from_cont_opt(filename):
+	with open(filename, "r") as f:
+		f.readline()
+		lines = f.readlines()
+		s = "".join(lines).replace("\n         ", " ").replace("] [", "],[")
+
+		y = s.split("]\n ")[1].strip().replace("\n     ", " ")[1:-1]
+		y_list = [float(i) for i in y.split(" ")]
+		
+		return y_list
+
+def get_x_y_from_cont_opt(filename):
+	return get_x_from_cont_opt(filename), get_y_from_cont_opt(filename)
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

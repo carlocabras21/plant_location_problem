@@ -1,0 +1,185 @@
+fpp11
+
+tempo totale di calcolo nel caso discreto: 258.128 s
+tempo totale di calcolo nel caso continuo: 18.596 s
+
+10FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36228, cont: 33525.166666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.234 s
+ tempo di calcolo nel caso continuo: 0.641 s
+
+11FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36219, cont: 33506.333333334
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.609 s
+ tempo di calcolo nel caso continuo: 0.61 s
+
+12FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36239, cont: 33526.333333333
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.312 s
+ tempo di calcolo nel caso continuo: 0.61 s
+
+13FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36226, cont: 33511.416666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.656 s
+ tempo di calcolo nel caso continuo: 0.609 s
+
+14FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36224, cont: 33513.916666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.0 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+15FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36236, cont: 33518.5
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.531 s
+ tempo di calcolo nel caso continuo: 0.594 s
+
+16FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36219, cont: 33521.166666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.485 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+17FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36234, cont: 33519.000000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.36 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+18FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36224, cont: 33508.166666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.735 s
+ tempo di calcolo nel caso continuo: 0.61 s
+
+19FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36234, cont: 33521.916666668
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.484 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+1FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36230, cont: 33515.166666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 9.328 s
+ tempo di calcolo nel caso continuo: 0.594 s
+
+20FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36228, cont: 33517.666666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 9.641 s
+ tempo di calcolo nel caso continuo: 0.61 s
+
+21FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36221, cont: 33516.666666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.422 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+22FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36223, cont: 33514.583333334
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.813 s
+ tempo di calcolo nel caso continuo: 0.609 s
+
+23FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36223, cont: 33524.083333334
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.297 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+24FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36216, cont: 33508.750000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.282 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+25FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36216, cont: 33510.750000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 7.532 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+26FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36232, cont: 33526.000000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.375 s
+ tempo di calcolo nel caso continuo: 0.672 s
+
+27FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36222, cont: 33515.000000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 9.672 s
+ tempo di calcolo nel caso continuo: 0.641 s
+
+28FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36227, cont: 33518.416666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.516 s
+ tempo di calcolo nel caso continuo: 0.609 s
+
+29FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36213, cont: 33509.916666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.485 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+2FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36220, cont: 33515.083333333
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.812 s
+ tempo di calcolo nel caso continuo: 0.594 s
+
+30FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36231, cont: 33521.916666668
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.61 s
+ tempo di calcolo nel caso continuo: 0.641 s
+
+3FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36233, cont: 33521.416666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 9.328 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+4FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36221, cont: 33510.750000001
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.734 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+5FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36226, cont: 33514.416666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 7.672 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+6FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36236, cont: 33520.666666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 7.859 s
+ tempo di calcolo nel caso continuo: 0.593 s
+
+7FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36211, cont: 33513.083333334
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 10.078 s
+ tempo di calcolo nel caso continuo: 0.625 s
+
+8FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36220, cont: 33515.333333334
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.657 s
+ tempo di calcolo nel caso continuo: 0.609 s
+
+9FPP_11S.txt
+    DIVERSA f.o. ottimale. disc: 36225, cont: 33511.916666667
+    DIVERSA soluzione
+ tempo di calcolo nel caso discreto: 8.609 s
+ tempo di calcolo nel caso continuo: 0.625 s
+

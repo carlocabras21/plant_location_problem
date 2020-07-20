@@ -1,90 +1,90 @@
 1011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 95868
 
 1111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97181
 
 111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96116
 
 1211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98528
 
 1311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99880
 
 1411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96460
 
 1511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99239
 
 1611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98486
 
 1711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97578
 
 1811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100189
 
 1911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98617
 
 2011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96938
 
 2111EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 94611
 
 211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98091
 
 2211EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98238
 
 2311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 97419
 
 2411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96715
 
 2511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99195
 
 2611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96088
 
 2711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 93845
 
 2811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100651
 
 2911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98699
 
 3011EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98846
 
 311EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 96212
 
 411EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 102157
 
 511EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98527
 
 611EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 98374
 
 711EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 99331
 
 811EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100277
 
 911EuclS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 100335
 

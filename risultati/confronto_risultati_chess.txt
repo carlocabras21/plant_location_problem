@@ -35,92 +35,92 @@
     WARNING: l'utente 129 collegato originariamente al 117, nel mio al 116. Costo collegamento DIVERSO: orig: 4, nuov: 2
     WARNING: l'utente 130 collegato originariamente al 117, nel mio al 119. Costo collegamento DIVERSO: orig: 2, nuov: 4
     WARNING: l'utente 131 collegato originariamente al 108, nel mio al 119. Costo collegamento DIVERSO: orig: 0, nuov: 1
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 1134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48232
 
 1234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48244
 
 1334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 1434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48250
 
 1734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 1834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48253
 
 1934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48251
 
 2034ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48243
 
 2134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48242
 
 2234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 2334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48250
 
 2434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
 2534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48256
 
 2634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 2734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48248
 
 2834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48232
 
 2934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 3034ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 3134ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48239
 
 3234ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48226
 
 334ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48258
 
 434ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48247
 
 534ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48246
 
 634ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48235
 
 734ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48257
 
 834ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48236
 
 934ChessS.txt
-    f.o. ottimale uguale
+    f.o. ottimale uguale: 48249
 
