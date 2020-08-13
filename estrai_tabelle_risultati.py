@@ -82,8 +82,7 @@ for array_cartelle in get_folders_list():
 	
 	s = "\\caption{Tabella dei risultati ottenuti dalle istanze " + current_test + ".}" + "\n" + \
 		"\\label{tab:" + current_test + "}" + "\n" + \
-		"\\end{longtable}" + "\n" + \
-		"\\newpage" + "\n"
+		"\\end{longtable}" + "\n" 
 	stampa_video_file(s, False, f_log, 1)
 	
 	

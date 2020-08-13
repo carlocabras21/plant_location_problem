@@ -237,7 +237,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze bilde.}
 \label{tab:bilde}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -288,7 +287,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze chess.}
 \label{tab:chess}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -339,7 +337,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze euclid.}
 \label{tab:euclid}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -390,7 +387,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze fpp11.}
 \label{tab:fpp11}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -441,7 +437,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze fpp17.}
 \label{tab:fpp17}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -492,7 +487,6 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze gapa.}
 \label{tab:gapa}
 \end{longtable}
-\newpage
 
 \begin{longtable}{|l|l|l|l|l|l|}
 \multicolumn{6}{c}
@@ -543,5 +537,4 @@ E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
 \caption{Tabella dei risultati ottenuti dalle istanze gapb.}
 \label{tab:gapb}
 \end{longtable}
-\newpage
 
