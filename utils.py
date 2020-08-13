@@ -68,10 +68,23 @@ def get_time_cont(test, i):
 	with open("risultati/times_" + test + "_cont.txt", "r") as f:
 		return float(f.readlines()[i].split(" ")[-2])
 
+def get_time(test, file, is_cont):
+	if is_cont:
+		times_file_name = "risultati/times_" + test + "_cont.txt"
+	else:
+		times_file_name = "risultati/times_" + test + ".txt"
+		
+	with open(times_file_name, "r") as f:
+		for line in f.readlines():
+			if file in line:
+				return float(line.split()[-2])
+	
 def stampa_video_file(s, f, f_log, newlines):
 	print (s + "\n" * (newlines - 1))
-	f.write(s + "\n" * newlines)
-	f_log.write(s + "\n" * newlines)
+	if (f):
+		f.write(s + "\n" * newlines)
+	if (f_log):
+		f_log.write(s + "\n" * newlines)
 	
 def get_x_from_cont_opt(filename):
 	with open(filename, "r") as f:

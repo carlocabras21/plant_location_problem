@@ -1,0 +1,547 @@
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ bilde}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ bilde}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+B1.1 & 50 & 100 & 0.39 s & 0.14 s & 0.004244 \\ \hline
+B1.10 & 50 & 100 & 0.797 s & 0.14 s & 0.030727 \\ \hline
+B1.2 & 50 & 100 & 0.188 s & 0.094 s & 0.000000 \\ \hline
+B1.3 & 50 & 100 & 0.172 s & 0.063 s & 0.000000 \\ \hline
+B1.4 & 50 & 100 & 0.343 s & 0.062 s & 0.000101 \\ \hline
+B1.5 & 50 & 100 & 0.593 s & 0.109 s & 0.030583 \\ \hline
+B1.6 & 50 & 100 & 0.297 s & 0.078 s & 0.004283 \\ \hline
+B1.7 & 50 & 100 & 0.484 s & 0.078 s & 0.040311 \\ \hline
+B1.8 & 50 & 100 & 0.421 s & 0.047 s & 0.030354 \\ \hline
+B1.9 & 50 & 100 & 2.75 s & 0.078 s & 0.046142 \\ \hline
+C1.1 & 50 & 100 & 2.375 s & 0.109 s & 0.044348 \\ \hline
+C1.10 & 50 & 100 & 3.016 s & 0.14 s & 0.046930 \\ \hline
+C1.2 & 50 & 100 & 1.906 s & 0.11 s & 0.023714 \\ \hline
+C1.3 & 50 & 100 & 3.578 s & 0.109 s & 0.056687 \\ \hline
+C1.4 & 50 & 100 & 2.969 s & 0.109 s & 0.055241 \\ \hline
+C1.5 & 50 & 100 & 6.829 s & 0.094 s & 0.079608 \\ \hline
+C1.6 & 50 & 100 & 5.938 s & 0.109 s & 0.080700 \\ \hline
+C1.7 & 50 & 100 & 10.032 s & 0.094 s & 0.084020 \\ \hline
+C1.8 & 50 & 100 & 4.359 s & 0.125 s & 0.068185 \\ \hline
+C1.9 & 50 & 100 & 4.656 s & 0.11 s & 0.069028 \\ \hline
+D1.1 & 30 & 80 & 2.406 s & 0.015 s & 0.051354 \\ \hline
+D1.10 & 30 & 80 & 3.094 s & 0.032 s & 0.074286 \\ \hline
+D1.2 & 30 & 80 & 2.469 s & 0.031 s & 0.060127 \\ \hline
+D1.3 & 30 & 80 & 2.313 s & 0.031 s & 0.031458 \\ \hline
+D1.4 & 30 & 80 & 1.797 s & 0.031 s & 0.053927 \\ \hline
+D1.5 & 30 & 80 & 0.313 s & 0.015 s & 0.010859 \\ \hline
+D1.6 & 30 & 80 & 2.266 s & 0.031 s & 0.055643 \\ \hline
+D1.7 & 30 & 80 & 2.359 s & 0.031 s & 0.057118 \\ \hline
+D1.8 & 30 & 80 & 3.734 s & 0.016 s & 0.055311 \\ \hline
+D1.9 & 30 & 80 & 2.344 s & 0.031 s & 0.069578 \\ \hline
+D2.1 & 30 & 80 & 1.968 s & 0.031 s & 0.055255 \\ \hline
+D2.10 & 30 & 80 & 1.906 s & 0.031 s & 0.078120 \\ \hline
+D2.2 & 30 & 80 & 1.922 s & 0.031 s & 0.084759 \\ \hline
+D2.3 & 30 & 80 & 2.25 s & 0.031 s & 0.081356 \\ \hline
+D2.4 & 30 & 80 & 2.532 s & 0.031 s & 0.094422 \\ \hline
+D2.5 & 30 & 80 & 2.171 s & 0.094 s & 0.076754 \\ \hline
+D2.6 & 30 & 80 & 2.36 s & 0.031 s & 0.080400 \\ \hline
+D2.7 & 30 & 80 & 2.281 s & 0.031 s & 0.067598 \\ \hline
+D2.8 & 30 & 80 & 2.172 s & 0.047 s & 0.087026 \\ \hline
+D2.9 & 30 & 80 & 2.015 s & 0.031 s & 0.070420 \\ \hline
+D3.1 & 30 & 80 & 1.984 s & 0.047 s & 0.086052 \\ \hline
+D3.10 & 30 & 80 & 1.907 s & 0.031 s & 0.076246 \\ \hline
+D3.2 & 30 & 80 & 1.843 s & 0.015 s & 0.087789 \\ \hline
+D3.3 & 30 & 80 & 2.328 s & 0.031 s & 0.092683 \\ \hline
+D3.4 & 30 & 80 & 1.797 s & 0.015 s & 0.070289 \\ \hline
+D3.5 & 30 & 80 & 1.563 s & 0.031 s & 0.078163 \\ \hline
+D3.6 & 30 & 80 & 2.157 s & 0.047 s & 0.091798 \\ \hline
+D3.7 & 30 & 80 & 0.953 s & 0.032 s & 0.079850 \\ \hline
+D3.8 & 30 & 80 & 0.968 s & 0.031 s & 0.066701 \\ \hline
+D3.9 & 30 & 80 & 2.75 s & 0.031 s & 0.103254 \\ \hline
+D4.1 & 30 & 80 & 2.062 s & 0.032 s & 0.107330 \\ \hline
+D4.10 & 30 & 80 & 0.344 s & 0.031 s & 0.037377 \\ \hline
+D4.2 & 30 & 80 & 2.0 s & 0.031 s & 0.083613 \\ \hline
+D4.3 & 30 & 80 & 1.875 s & 0.031 s & 0.072516 \\ \hline
+D4.4 & 30 & 80 & 2.172 s & 0.032 s & 0.105700 \\ \hline
+D4.5 & 30 & 80 & 0.86 s & 0.031 s & 0.071065 \\ \hline
+D4.6 & 30 & 80 & 1.063 s & 0.016 s & 0.083699 \\ \hline
+D4.7 & 30 & 80 & 1.828 s & 0.031 s & 0.075861 \\ \hline
+D4.8 & 30 & 80 & 2.531 s & 0.063 s & 0.093748 \\ \hline
+D4.9 & 30 & 80 & 1.031 s & 0.031 s & 0.061710 \\ \hline
+D5.1 & 30 & 80 & 1.282 s & 0.031 s & 0.069326 \\ \hline
+D5.10 & 30 & 80 & 0.766 s & 0.032 s & 0.059428 \\ \hline
+D5.2 & 30 & 80 & 1.578 s & 0.047 s & 0.072011 \\ \hline
+D5.3 & 30 & 80 & 2.047 s & 0.031 s & 0.097266 \\ \hline
+D5.4 & 30 & 80 & 0.765 s & 0.031 s & 0.075749 \\ \hline
+D5.5 & 30 & 80 & 2.313 s & 0.047 s & 0.090244 \\ \hline
+D5.6 & 30 & 80 & 1.328 s & 0.109 s & 0.072217 \\ \hline
+D5.7 & 30 & 80 & 1.797 s & 0.031 s & 0.068703 \\ \hline
+D5.8 & 30 & 80 & 1.672 s & 0.031 s & 0.081813 \\ \hline
+D5.9 & 30 & 80 & 2.172 s & 0.078 s & 0.082339 \\ \hline
+D6.1 & 30 & 80 & 1.265 s & 0.031 s & 0.080847 \\ \hline
+D6.10 & 30 & 80 & 1.797 s & 0.063 s & 0.087287 \\ \hline
+D6.2 & 30 & 80 & 0.938 s & 0.031 s & 0.088800 \\ \hline
+D6.3 & 30 & 80 & 0.844 s & 0.031 s & 0.076677 \\ \hline
+D6.4 & 30 & 80 & 2.437 s & 0.032 s & 0.086641 \\ \hline
+D6.5 & 30 & 80 & 1.203 s & 0.047 s & 0.085837 \\ \hline
+D6.6 & 30 & 80 & 1.719 s & 0.046 s & 0.083883 \\ \hline
+D6.7 & 30 & 80 & 1.172 s & 0.032 s & 0.070564 \\ \hline
+D6.8 & 30 & 80 & 2.672 s & 0.031 s & 0.105352 \\ \hline
+D6.9 & 30 & 80 & 1.781 s & 0.031 s & 0.089528 \\ \hline
+D7.1 & 30 & 80 & 1.031 s & 0.032 s & 0.083706 \\ \hline
+D7.10 & 30 & 80 & 0.891 s & 0.031 s & 0.081504 \\ \hline
+D7.2 & 30 & 80 & 1.406 s & 0.047 s & 0.085877 \\ \hline
+D7.3 & 30 & 80 & 0.984 s & 0.031 s & 0.061064 \\ \hline
+D7.4 & 30 & 80 & 1.157 s & 0.031 s & 0.086694 \\ \hline
+D7.5 & 30 & 80 & 0.578 s & 0.047 s & 0.039522 \\ \hline
+D7.6 & 30 & 80 & 2.031 s & 0.062 s & 0.092793 \\ \hline
+D7.7 & 30 & 80 & 0.86 s & 0.063 s & 0.062463 \\ \hline
+D7.8 & 30 & 80 & 0.844 s & 0.032 s & 0.029087 \\ \hline
+D7.9 & 30 & 80 & 1.906 s & 0.032 s & 0.094613 \\ \hline
+D8.1 & 30 & 80 & 1.156 s & 0.047 s & 0.061343 \\ \hline
+D8.10 & 30 & 80 & 0.938 s & 0.031 s & 0.067115 \\ \hline
+D8.2 & 30 & 80 & 1.297 s & 0.031 s & 0.070018 \\ \hline
+D8.3 & 30 & 80 & 0.813 s & 0.031 s & 0.070585 \\ \hline
+D8.4 & 30 & 80 & 0.922 s & 0.031 s & 0.050892 \\ \hline
+D8.5 & 30 & 80 & 0.969 s & 0.032 s & 0.060207 \\ \hline
+D8.6 & 30 & 80 & 2.156 s & 0.063 s & 0.086763 \\ \hline
+D8.7 & 30 & 80 & 0.797 s & 0.032 s & 0.072896 \\ \hline
+D8.8 & 30 & 80 & 0.75 s & 0.031 s & 0.057478 \\ \hline
+D8.9 & 30 & 80 & 1.953 s & 0.063 s & 0.066038 \\ \hline
+D9.1 & 30 & 80 & 0.797 s & 0.078 s & 0.069917 \\ \hline
+D9.10 & 30 & 80 & 0.921 s & 0.031 s & 0.068966 \\ \hline
+D9.2 & 30 & 80 & 1.297 s & 0.031 s & 0.062896 \\ \hline
+D9.3 & 30 & 80 & 1.359 s & 0.047 s & 0.067949 \\ \hline
+D9.4 & 30 & 80 & 1.015 s & 0.031 s & 0.061404 \\ \hline
+D9.5 & 30 & 80 & 1.094 s & 0.046 s & 0.068238 \\ \hline
+D9.6 & 30 & 80 & 1.078 s & 0.078 s & 0.060987 \\ \hline
+D9.7 & 30 & 80 & 1.516 s & 0.094 s & 0.065197 \\ \hline
+D9.8 & 30 & 80 & 1.094 s & 0.047 s & 0.091155 \\ \hline
+D9.9 & 30 & 80 & 0.703 s & 0.031 s & 0.037118 \\ \hline
+D10.1 & 30 & 80 & 0.875 s & 0.032 s & 0.065635 \\ \hline
+D10.10 & 30 & 80 & 0.766 s & 0.031 s & 0.060077 \\ \hline
+D10.2 & 30 & 80 & 0.859 s & 0.047 s & 0.068690 \\ \hline
+D10.3 & 30 & 80 & 0.328 s & 0.031 s & 0.018209 \\ \hline
+D10.4 & 30 & 80 & 0.61 s & 0.047 s & 0.056484 \\ \hline
+D10.5 & 30 & 80 & 0.657 s & 0.047 s & 0.039675 \\ \hline
+D10.6 & 30 & 80 & 1.125 s & 0.032 s & 0.055013 \\ \hline
+D10.7 & 30 & 80 & 1.016 s & 0.047 s & 0.071633 \\ \hline
+D10.8 & 30 & 80 & 0.953 s & 0.047 s & 0.061497 \\ \hline
+D10.9 & 30 & 80 & 1.797 s & 0.047 s & 0.079668 \\ \hline
+E1.1 & 50 & 100 & 7.531 s & 0.094 s & 0.077482 \\ \hline
+E1.10 & 50 & 100 & 10.516 s & 0.094 s & 0.089233 \\ \hline
+E1.2 & 50 & 100 & 3.516 s & 0.078 s & 0.058265 \\ \hline
+E1.3 & 50 & 100 & 6.828 s & 0.078 s & 0.078874 \\ \hline
+E1.4 & 50 & 100 & 4.641 s & 0.094 s & 0.065378 \\ \hline
+E1.5 & 50 & 100 & 5.828 s & 0.093 s & 0.076527 \\ \hline
+E1.6 & 50 & 100 & 5.266 s & 0.078 s & 0.072179 \\ \hline
+E1.7 & 50 & 100 & 3.438 s & 0.094 s & 0.051150 \\ \hline
+E1.8 & 50 & 100 & 4.5 s & 0.078 s & 0.070265 \\ \hline
+E1.9 & 50 & 100 & 4.109 s & 0.078 s & 0.050797 \\ \hline
+E2.1 & 50 & 100 & 7.109 s & 0.093 s & 0.084286 \\ \hline
+E2.10 & 50 & 100 & 6.515 s & 0.125 s & 0.092248 \\ \hline
+E2.2 & 50 & 100 & 5.313 s & 0.094 s & 0.083745 \\ \hline
+E2.3 & 50 & 100 & 7.219 s & 0.109 s & 0.096184 \\ \hline
+E2.4 & 50 & 100 & 6.89 s & 0.094 s & 0.102588 \\ \hline
+E2.5 & 50 & 100 & 9.469 s & 0.109 s & 0.096835 \\ \hline
+E2.6 & 50 & 100 & 6.812 s & 0.172 s & 0.085746 \\ \hline
+E2.7 & 50 & 100 & 5.297 s & 0.11 s & 0.078281 \\ \hline
+E2.8 & 50 & 100 & 9.453 s & 0.11 s & 0.098330 \\ \hline
+E2.9 & 50 & 100 & 9.485 s & 0.109 s & 0.101384 \\ \hline
+E3.1 & 50 & 100 & 7.328 s & 0.14 s & 0.086171 \\ \hline
+E3.10 & 50 & 100 & 5.907 s & 0.156 s & 0.093423 \\ \hline
+E3.2 & 50 & 100 & 5.859 s & 0.11 s & 0.088050 \\ \hline
+E3.3 & 50 & 100 & 6.516 s & 0.125 s & 0.092557 \\ \hline
+E3.4 & 50 & 100 & 7.86 s & 0.157 s & 0.097611 \\ \hline
+E3.5 & 50 & 100 & 10.047 s & 0.218 s & 0.098804 \\ \hline
+E3.6 & 50 & 100 & 11.781 s & 0.171 s & 0.111529 \\ \hline
+E3.7 & 50 & 100 & 8.25 s & 0.125 s & 0.111547 \\ \hline
+E3.8 & 50 & 100 & 6.484 s & 0.125 s & 0.092491 \\ \hline
+E3.9 & 50 & 100 & 7.125 s & 0.141 s & 0.096839 \\ \hline
+E4.1 & 50 & 100 & 8.625 s & 0.141 s & 0.099630 \\ \hline
+E4.10 & 50 & 100 & 6.109 s & 0.11 s & 0.091918 \\ \hline
+E4.2 & 50 & 100 & 4.641 s & 0.141 s & 0.083900 \\ \hline
+E4.3 & 50 & 100 & 5.422 s & 0.125 s & 0.092334 \\ \hline
+E4.4 & 50 & 100 & 6.984 s & 0.141 s & 0.091118 \\ \hline
+E4.5 & 50 & 100 & 7.406 s & 0.109 s & 0.099832 \\ \hline
+E4.6 & 50 & 100 & 5.203 s & 0.172 s & 0.083631 \\ \hline
+E4.7 & 50 & 100 & 11.125 s & 0.125 s & 0.117832 \\ \hline
+E4.8 & 50 & 100 & 7.984 s & 0.125 s & 0.112444 \\ \hline
+E4.9 & 50 & 100 & 6.969 s & 0.125 s & 0.103809 \\ \hline
+E5.1 & 50 & 100 & 5.75 s & 0.14 s & 0.095377 \\ \hline
+E5.10 & 50 & 100 & 8.906 s & 0.125 s & 0.116275 \\ \hline
+E5.2 & 50 & 100 & 5.797 s & 0.172 s & 0.089326 \\ \hline
+E5.3 & 50 & 100 & 7.078 s & 0.172 s & 0.091480 \\ \hline
+E5.4 & 50 & 100 & 4.953 s & 0.109 s & 0.079054 \\ \hline
+E5.5 & 50 & 100 & 7.063 s & 0.125 s & 0.104646 \\ \hline
+E5.6 & 50 & 100 & 6.813 s & 0.11 s & 0.097951 \\ \hline
+E5.7 & 50 & 100 & 3.641 s & 0.109 s & 0.066119 \\ \hline
+E5.8 & 50 & 100 & 5.485 s & 0.141 s & 0.081465 \\ \hline
+E5.9 & 50 & 100 & 6.297 s & 0.125 s & 0.091059 \\ \hline
+E6.1 & 50 & 100 & 6.078 s & 0.109 s & 0.103635 \\ \hline
+E6.10 & 50 & 100 & 6.797 s & 0.157 s & 0.104724 \\ \hline
+E6.2 & 50 & 100 & 5.391 s & 0.125 s & 0.083509 \\ \hline
+E6.3 & 50 & 100 & 5.547 s & 0.11 s & 0.080587 \\ \hline
+E6.4 & 50 & 100 & 7.531 s & 0.141 s & 0.112148 \\ \hline
+E6.5 & 50 & 100 & 5.079 s & 0.093 s & 0.087883 \\ \hline
+E6.6 & 50 & 100 & 7.265 s & 0.141 s & 0.093468 \\ \hline
+E6.7 & 50 & 100 & 8.5 s & 0.125 s & 0.102911 \\ \hline
+E6.8 & 50 & 100 & 5.375 s & 0.125 s & 0.092098 \\ \hline
+E6.9 & 50 & 100 & 7.203 s & 0.204 s & 0.104995 \\ \hline
+E7.1 & 50 & 100 & 6.453 s & 0.125 s & 0.098364 \\ \hline
+E7.10 & 50 & 100 & 7.047 s & 0.11 s & 0.104446 \\ \hline
+E7.2 & 50 & 100 & 7.125 s & 0.14 s & 0.103320 \\ \hline
+E7.3 & 50 & 100 & 7.094 s & 0.171 s & 0.105356 \\ \hline
+E7.4 & 50 & 100 & 5.406 s & 0.141 s & 0.101411 \\ \hline
+E7.5 & 50 & 100 & 6.984 s & 0.141 s & 0.099772 \\ \hline
+E7.6 & 50 & 100 & 6.968 s & 0.14 s & 0.115751 \\ \hline
+E7.7 & 50 & 100 & 5.078 s & 0.156 s & 0.079761 \\ \hline
+E7.8 & 50 & 100 & 5.219 s & 0.14 s & 0.086912 \\ \hline
+E7.9 & 50 & 100 & 6.015 s & 0.141 s & 0.091341 \\ \hline
+E8.1 & 50 & 100 & 6.782 s & 0.141 s & 0.102315 \\ \hline
+E8.10 & 50 & 100 & 6.0 s & 0.125 s & 0.086389 \\ \hline
+E8.2 & 50 & 100 & 6.563 s & 0.14 s & 0.104348 \\ \hline
+E8.3 & 50 & 100 & 5.156 s & 0.14 s & 0.089517 \\ \hline
+E8.4 & 50 & 100 & 5.281 s & 0.125 s & 0.088837 \\ \hline
+E8.5 & 50 & 100 & 6.063 s & 0.156 s & 0.109459 \\ \hline
+E8.6 & 50 & 100 & 6.297 s & 0.125 s & 0.102614 \\ \hline
+E8.7 & 50 & 100 & 6.984 s & 0.171 s & 0.092727 \\ \hline
+E8.8 & 50 & 100 & 4.953 s & 0.218 s & 0.089694 \\ \hline
+E8.9 & 50 & 100 & 7.687 s & 0.141 s & 0.107781 \\ \hline
+E9.1 & 50 & 100 & 7.281 s & 0.141 s & 0.109536 \\ \hline
+E9.10 & 50 & 100 & 4.969 s & 0.14 s & 0.086172 \\ \hline
+E9.2 & 50 & 100 & 5.485 s & 0.218 s & 0.094515 \\ \hline
+E9.3 & 50 & 100 & 5.5 s & 0.125 s & 0.101708 \\ \hline
+E9.4 & 50 & 100 & 5.859 s & 0.14 s & 0.082945 \\ \hline
+E9.5 & 50 & 100 & 5.547 s & 0.172 s & 0.084643 \\ \hline
+E9.6 & 50 & 100 & 5.015 s & 0.125 s & 0.082121 \\ \hline
+E9.7 & 50 & 100 & 6.157 s & 0.125 s & 0.103685 \\ \hline
+E9.8 & 50 & 100 & 7.156 s & 0.156 s & 0.104199 \\ \hline
+E9.9 & 50 & 100 & 5.453 s & 0.157 s & 0.097608 \\ \hline
+E10.1 & 50 & 100 & 6.125 s & 0.172 s & 0.092593 \\ \hline
+E10.10 & 50 & 100 & 5.797 s & 0.156 s & 0.089982 \\ \hline
+E10.2 & 50 & 100 & 5.765 s & 0.141 s & 0.092542 \\ \hline
+E10.3 & 50 & 100 & 4.312 s & 0.156 s & 0.084860 \\ \hline
+E10.4 & 50 & 100 & 4.125 s & 0.157 s & 0.077574 \\ \hline
+E10.5 & 50 & 100 & 5.125 s & 0.188 s & 0.080087 \\ \hline
+E10.6 & 50 & 100 & 3.89 s & 0.141 s & 0.071132 \\ \hline
+E10.7 & 50 & 100 & 4.688 s & 0.156 s & 0.080389 \\ \hline
+E10.8 & 50 & 100 & 6.312 s & 0.14 s & 0.093440 \\ \hline
+E10.9 & 50 & 100 & 5.906 s & 0.156 s & 0.087525 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze bilde.}
+\label{tab:bilde}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ chess}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ chess}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+1034ChessS.txt & 144 & 144 & 0.891 s & 0.438 s & 0.000000 \\ \hline
+1134ChessS.txt & 144 & 144 & 0.875 s & 0.25 s & 0.000000 \\ \hline
+1234ChessS.txt & 144 & 144 & 0.922 s & 0.312 s & 0.000000 \\ \hline
+1334ChessS.txt & 144 & 144 & 0.921 s & 0.438 s & 0.000000 \\ \hline
+1434ChessS.txt & 144 & 144 & 0.859 s & 0.328 s & 0.000000 \\ \hline
+1534ChessS.txt & 144 & 144 & 0.937 s & 0.359 s & 0.000000 \\ \hline
+1634ChessS.txt & 144 & 144 & 0.86 s & 0.407 s & 0.000000 \\ \hline
+1734ChessS.txt & 144 & 144 & 0.875 s & 0.375 s & 0.000000 \\ \hline
+1834ChessS.txt & 144 & 144 & 0.765 s & 0.282 s & 0.000000 \\ \hline
+1934ChessS.txt & 144 & 144 & 0.922 s & 0.391 s & 0.000000 \\ \hline
+2034ChessS.txt & 144 & 144 & 1.14 s & 0.407 s & 0.000000 \\ \hline
+2134ChessS.txt & 144 & 144 & 0.734 s & 0.359 s & 0.000000 \\ \hline
+2234ChessS.txt & 144 & 144 & 0.719 s & 0.297 s & 0.000000 \\ \hline
+2334ChessS.txt & 144 & 144 & 0.875 s & 0.312 s & 0.000000 \\ \hline
+2434ChessS.txt & 144 & 144 & 0.891 s & 0.531 s & 0.000000 \\ \hline
+2534ChessS.txt & 144 & 144 & 0.859 s & 0.359 s & 0.000000 \\ \hline
+2634ChessS.txt & 144 & 144 & 0.781 s & 0.563 s & 0.000000 \\ \hline
+2734ChessS.txt & 144 & 144 & 0.671 s & 0.297 s & 0.000000 \\ \hline
+2834ChessS.txt & 144 & 144 & 0.89 s & 0.281 s & 0.000000 \\ \hline
+2934ChessS.txt & 144 & 144 & 0.844 s & 0.422 s & 0.000000 \\ \hline
+3034ChessS.txt & 144 & 144 & 0.812 s & 0.375 s & 0.000000 \\ \hline
+3134ChessS.txt & 144 & 144 & 0.687 s & 0.359 s & 0.000000 \\ \hline
+3234ChessS.txt & 144 & 144 & 0.844 s & 0.531 s & 0.000000 \\ \hline
+334ChessS.txt & 144 & 144 & 0.921 s & 0.438 s & 0.000000 \\ \hline
+434ChessS.txt & 144 & 144 & 0.859 s & 0.328 s & 0.000000 \\ \hline
+534ChessS.txt & 144 & 144 & 0.937 s & 0.359 s & 0.000000 \\ \hline
+634ChessS.txt & 144 & 144 & 0.86 s & 0.407 s & 0.000000 \\ \hline
+734ChessS.txt & 144 & 144 & 0.875 s & 0.375 s & 0.000000 \\ \hline
+834ChessS.txt & 144 & 144 & 0.765 s & 0.282 s & 0.000000 \\ \hline
+934ChessS.txt & 144 & 144 & 0.922 s & 0.391 s & 0.000000 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze chess.}
+\label{tab:chess}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ euclid}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ euclid}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+1011EuclS.txt & 100 & 100 & 0.266 s & 0.046 s & 0.000000 \\ \hline
+1111EuclS.txt & 100 & 100 & 0.266 s & 0.047 s & 0.000000 \\ \hline
+111EuclS.txt & 100 & 100 & 0.266 s & 0.047 s & 0.000000 \\ \hline
+1211EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+1311EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+1411EuclS.txt & 100 & 100 & 0.266 s & 0.047 s & 0.000000 \\ \hline
+1511EuclS.txt & 100 & 100 & 0.484 s & 0.047 s & 0.000262 \\ \hline
+1611EuclS.txt & 100 & 100 & 0.25 s & 0.046 s & 0.000000 \\ \hline
+1711EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+1811EuclS.txt & 100 & 100 & 0.281 s & 0.031 s & 0.000000 \\ \hline
+1911EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+2011EuclS.txt & 100 & 100 & 0.328 s & 0.047 s & 0.000000 \\ \hline
+2111EuclS.txt & 100 & 100 & 0.234 s & 0.047 s & 0.000000 \\ \hline
+211EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+2211EuclS.txt & 100 & 100 & 0.375 s & 0.031 s & 0.000000 \\ \hline
+2311EuclS.txt & 100 & 100 & 0.406 s & 0.047 s & 0.000000 \\ \hline
+2411EuclS.txt & 100 & 100 & 0.219 s & 0.047 s & 0.000000 \\ \hline
+2511EuclS.txt & 100 & 100 & 0.235 s & 0.047 s & 0.000000 \\ \hline
+2611EuclS.txt & 100 & 100 & 0.219 s & 0.032 s & 0.000000 \\ \hline
+2711EuclS.txt & 100 & 100 & 0.359 s & 0.047 s & 0.000000 \\ \hline
+2811EuclS.txt & 100 & 100 & 0.375 s & 0.063 s & 0.000000 \\ \hline
+2911EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+3011EuclS.txt & 100 & 100 & 0.234 s & 0.047 s & 0.000000 \\ \hline
+311EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+411EuclS.txt & 100 & 100 & 0.266 s & 0.047 s & 0.000219 \\ \hline
+511EuclS.txt & 100 & 100 & 0.484 s & 0.047 s & 0.000000 \\ \hline
+611EuclS.txt & 100 & 100 & 0.25 s & 0.046 s & 0.000000 \\ \hline
+711EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+811EuclS.txt & 100 & 100 & 0.281 s & 0.031 s & 0.000000 \\ \hline
+911EuclS.txt & 100 & 100 & 0.25 s & 0.047 s & 0.000000 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze euclid.}
+\label{tab:euclid}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ fpp11}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ fpp11}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+10FPP\_11S.txt & 133 & 133 & 8.234 s & 0.641 s & 0.074606 \\ \hline
+11FPP\_11S.txt & 133 & 133 & 8.609 s & 0.61 s & 0.074896 \\ \hline
+12FPP\_11S.txt & 133 & 133 & 8.312 s & 0.61 s & 0.074855 \\ \hline
+13FPP\_11S.txt & 133 & 133 & 8.656 s & 0.609 s & 0.074935 \\ \hline
+14FPP\_11S.txt & 133 & 133 & 8.0 s & 0.625 s & 0.074815 \\ \hline
+15FPP\_11S.txt & 133 & 133 & 8.531 s & 0.594 s & 0.074994 \\ \hline
+16FPP\_11S.txt & 133 & 133 & 8.485 s & 0.625 s & 0.074487 \\ \hline
+17FPP\_11S.txt & 133 & 133 & 8.36 s & 0.625 s & 0.074930 \\ \hline
+18FPP\_11S.txt & 133 & 133 & 8.735 s & 0.61 s & 0.074973 \\ \hline
+19FPP\_11S.txt & 133 & 133 & 8.484 s & 0.625 s & 0.074849 \\ \hline
+1FPP\_11S.txt & 133 & 133 & 8.609 s & 0.61 s & 0.074933 \\ \hline
+20FPP\_11S.txt & 133 & 133 & 9.641 s & 0.61 s & 0.074813 \\ \hline
+21FPP\_11S.txt & 133 & 133 & 8.422 s & 0.625 s & 0.074662 \\ \hline
+22FPP\_11S.txt & 133 & 133 & 8.813 s & 0.609 s & 0.074771 \\ \hline
+23FPP\_11S.txt & 133 & 133 & 8.297 s & 0.625 s & 0.074508 \\ \hline
+24FPP\_11S.txt & 133 & 133 & 8.282 s & 0.625 s & 0.074753 \\ \hline
+25FPP\_11S.txt & 133 & 133 & 7.532 s & 0.625 s & 0.074698 \\ \hline
+26FPP\_11S.txt & 133 & 133 & 8.375 s & 0.672 s & 0.074685 \\ \hline
+27FPP\_11S.txt & 133 & 133 & 9.672 s & 0.641 s & 0.074734 \\ \hline
+28FPP\_11S.txt & 133 & 133 & 8.516 s & 0.609 s & 0.074767 \\ \hline
+29FPP\_11S.txt & 133 & 133 & 8.485 s & 0.625 s & 0.074644 \\ \hline
+2FPP\_11S.txt & 133 & 133 & 8.312 s & 0.61 s & 0.074680 \\ \hline
+30FPP\_11S.txt & 133 & 133 & 8.61 s & 0.641 s & 0.074773 \\ \hline
+3FPP\_11S.txt & 133 & 133 & 8.656 s & 0.609 s & 0.074837 \\ \hline
+4FPP\_11S.txt & 133 & 133 & 8.0 s & 0.625 s & 0.074825 \\ \hline
+5FPP\_11S.txt & 133 & 133 & 8.531 s & 0.594 s & 0.074852 \\ \hline
+6FPP\_11S.txt & 133 & 133 & 8.485 s & 0.625 s & 0.074935 \\ \hline
+7FPP\_11S.txt & 133 & 133 & 8.36 s & 0.625 s & 0.074505 \\ \hline
+8FPP\_11S.txt & 133 & 133 & 8.735 s & 0.61 s & 0.074673 \\ \hline
+9FPP\_11S.txt & 133 & 133 & 8.484 s & 0.625 s & 0.074895 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze fpp11.}
+\label{tab:fpp11}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ fpp17}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ fpp17}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+10FPP\_17S.txt & 307 & 307 & 617.531 s & 4.891 s & 0.050639 \\ \hline
+11FPP\_17S.txt & 307 & 307 & 655.016 s & 4.938 s & 0.050430 \\ \hline
+12FPP\_17S.txt & 307 & 307 & 673.375 s & 4.969 s & 0.050791 \\ \hline
+13FPP\_17S.txt & 307 & 307 & 596.984 s & 4.907 s & 0.050726 \\ \hline
+14FPP\_17S.txt & 307 & 307 & 539.36 s & 5.125 s & 0.050661 \\ \hline
+15FPP\_17S.txt & 307 & 307 & 541.485 s & 4.796 s & 0.050765 \\ \hline
+16FPP\_17S.txt & 307 & 307 & 595.969 s & 5.234 s & 0.050648 \\ \hline
+17FPP\_17S.txt & 307 & 307 & 670.547 s & 5.062 s & 0.050660 \\ \hline
+18FPP\_17S.txt & 307 & 307 & 589.578 s & 4.89 s & 0.050468 \\ \hline
+19FPP\_17S.txt & 307 & 307 & 540.421 s & 4.938 s & 0.050490 \\ \hline
+1FPP\_17S.txt & 307 & 307 & 655.016 s & 4.938 s & 0.050745 \\ \hline
+20FPP\_17S.txt & 307 & 307 & 541.546 s & 4.781 s & 0.050725 \\ \hline
+21FPP\_17S.txt & 307 & 307 & 530.578 s & 4.937 s & 0.050695 \\ \hline
+22FPP\_17S.txt & 307 & 307 & 536.688 s & 4.844 s & 0.050635 \\ \hline
+23FPP\_17S.txt & 307 & 307 & 537.797 s & 5.0 s & 0.050676 \\ \hline
+24FPP\_17S.txt & 307 & 307 & 568.703 s & 4.953 s & 0.050512 \\ \hline
+25FPP\_17S.txt & 307 & 307 & 614.969 s & 5.0 s & 0.050593 \\ \hline
+26FPP\_17S.txt & 307 & 307 & 659.219 s & 5.062 s & 0.050727 \\ \hline
+27FPP\_17S.txt & 307 & 307 & 587.328 s & 5.859 s & 0.050607 \\ \hline
+28FPP\_17S.txt & 307 & 307 & 548.562 s & 4.875 s & 0.050844 \\ \hline
+29FPP\_17S.txt & 307 & 307 & 537.39 s & 5.156 s & 0.050662 \\ \hline
+2FPP\_17S.txt & 307 & 307 & 673.375 s & 4.969 s & 0.050525 \\ \hline
+30FPP\_17S.txt & 307 & 307 & 538.657 s & 4.922 s & 0.050727 \\ \hline
+3FPP\_17S.txt & 307 & 307 & 596.984 s & 4.907 s & 0.050567 \\ \hline
+4FPP\_17S.txt & 307 & 307 & 539.36 s & 5.125 s & 0.050643 \\ \hline
+5FPP\_17S.txt & 307 & 307 & 541.485 s & 4.796 s & 0.050634 \\ \hline
+6FPP\_17S.txt & 307 & 307 & 595.969 s & 5.234 s & 0.050739 \\ \hline
+7FPP\_17S.txt & 307 & 307 & 670.547 s & 5.062 s & 0.050393 \\ \hline
+8FPP\_17S.txt & 307 & 307 & 589.578 s & 4.89 s & 0.050536 \\ \hline
+9FPP\_17S.txt & 307 & 307 & 540.421 s & 4.938 s & 0.050736 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze fpp17.}
+\label{tab:fpp17}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ gapa}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ gapa}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+1032GapAS.txt & 100 & 100 & 34.922 s & 0.266 s & 0.261579 \\ \hline
+1132GapAS.txt & 100 & 100 & 50.157 s & 0.188 s & 0.256630 \\ \hline
+1232GapAS.txt & 100 & 100 & 192.609 s & 0.218 s & 0.296850 \\ \hline
+1332GapAS.txt & 100 & 100 & 30.218 s & 0.235 s & 0.244936 \\ \hline
+1432GapAS.txt & 100 & 100 & 37.219 s & 0.172 s & 0.271860 \\ \hline
+1532GapAS.txt & 100 & 100 & 47.922 s & 0.203 s & 0.235458 \\ \hline
+1632GapAS.txt & 100 & 100 & 60.281 s & 0.157 s & 0.263300 \\ \hline
+1732GapAS.txt & 100 & 100 & 30.672 s & 0.281 s & 0.242673 \\ \hline
+1832GapAS.txt & 100 & 100 & 48.235 s & 0.265 s & 0.257870 \\ \hline
+1932GapAS.txt & 100 & 100 & 28.453 s & 0.188 s & 0.243378 \\ \hline
+2032GapAS.txt & 100 & 100 & 34.625 s & 0.188 s & 0.256213 \\ \hline
+2132GapAS.txt & 100 & 100 & 28.313 s & 0.266 s & 0.237007 \\ \hline
+2232GapAS.txt & 100 & 100 & 29.39 s & 0.25 s & 0.235134 \\ \hline
+2332GapAS.txt & 100 & 100 & 31.969 s & 0.156 s & 0.243561 \\ \hline
+2432GapAS.txt & 100 & 100 & 39.391 s & 0.219 s & 0.273659 \\ \hline
+2532GapAS.txt & 100 & 100 & 34.234 s & 0.281 s & 0.250917 \\ \hline
+2632GapAS.txt & 100 & 100 & 45.812 s & 0.188 s & 0.234803 \\ \hline
+2732GapAS.txt & 100 & 100 & 189.032 s & 0.203 s & 0.285783 \\ \hline
+2832GapAS.txt & 100 & 100 & 29.453 s & 0.172 s & 0.252097 \\ \hline
+2932GapAS.txt & 100 & 100 & 29.641 s & 0.297 s & 0.245022 \\ \hline
+3032GapAS.txt & 100 & 100 & 51.61 s & 0.266 s & 0.270110 \\ \hline
+3132GapAS.txt & 100 & 100 & 166.172 s & 0.25 s & 0.304836 \\ \hline
+3232GapAS.txt & 100 & 100 & 26.266 s & 0.203 s & 0.258179 \\ \hline
+332GapAS.txt & 100 & 100 & 30.218 s & 0.235 s & 0.254316 \\ \hline
+432GapAS.txt & 100 & 100 & 37.219 s & 0.172 s & 0.247043 \\ \hline
+532GapAS.txt & 100 & 100 & 47.922 s & 0.203 s & 0.276815 \\ \hline
+632GapAS.txt & 100 & 100 & 60.281 s & 0.157 s & 0.243985 \\ \hline
+732GapAS.txt & 100 & 100 & 30.672 s & 0.281 s & 0.217253 \\ \hline
+832GapAS.txt & 100 & 100 & 48.235 s & 0.265 s & 0.262190 \\ \hline
+932GapAS.txt & 100 & 100 & 28.453 s & 0.188 s & 0.265509 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze gapa.}
+\label{tab:gapa}
+\end{longtable}
+\newpage
+
+\begin{longtable}{|l|l|l|l|l|l|}
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} }} \\
+\hline
+\multicolumn{6}{|c|}{\textbf{ gapb}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endfirsthead
+\multicolumn{6}{c}
+{{ \tablename \hspace{1pt} \thetable{} -- continuo della pagina precedente}} \\ \hline
+\multicolumn{6}{|c|}{\textbf{ gapb}} \\
+\hline
+\textbf{Istanza} & \textbf{n locazioni} & \textbf{n utenti} & \textbf{t. discreto} & \textbf{t. continuo} & \textbf{gap} \\
+\endhead
+\hline
+
+1031GapBS.txt & 100 & 100 & 33.953 s & 0.219 s & 0.168058 \\ \hline
+1131GapBS.txt & 100 & 100 & 12.984 s & 0.203 s & 0.176471 \\ \hline
+1231GapBS.txt & 100 & 100 & 169.797 s & 0.188 s & 0.196062 \\ \hline
+1331GapBS.txt & 100 & 100 & 12.797 s & 0.281 s & 0.179691 \\ \hline
+1431GapBS.txt & 100 & 100 & 29.359 s & 0.219 s & 0.185639 \\ \hline
+1531GapBS.txt & 100 & 100 & 41.063 s & 0.235 s & 0.175926 \\ \hline
+1631GapBS.txt & 100 & 100 & 118.141 s & 0.219 s & 0.217827 \\ \hline
+1731GapBS.txt & 100 & 100 & 52.734 s & 0.219 s & 0.191309 \\ \hline
+1831GapBS.txt & 100 & 100 & 191.844 s & 0.219 s & 0.226091 \\ \hline
+1931GapBS.txt & 100 & 100 & 85.438 s & 0.203 s & 0.226522 \\ \hline
+2031GapBS.txt & 100 & 100 & 66.297 s & 0.25 s & 0.224464 \\ \hline
+2131GapBS.txt & 100 & 100 & 236.688 s & 0.265 s & 0.239822 \\ \hline
+2231GapBS.txt & 100 & 100 & 47.328 s & 0.25 s & 0.196381 \\ \hline
+2331GapBS.txt & 100 & 100 & 117.734 s & 0.204 s & 0.217207 \\ \hline
+2431GapBS.txt & 100 & 100 & 198.484 s & 0.25 s & 0.241807 \\ \hline
+2531GapBS.txt & 100 & 100 & 332.562 s & 0.219 s & 0.261280 \\ \hline
+2631GapBS.txt & 100 & 100 & 195.469 s & 0.235 s & 0.237458 \\ \hline
+2731GapBS.txt & 100 & 100 & 47.922 s & 0.218 s & 0.168773 \\ \hline
+2831GapBS.txt & 100 & 100 & 42.016 s & 0.204 s & 0.174536 \\ \hline
+2931GapBS.txt & 100 & 100 & 391.922 s & 0.265 s & 0.244786 \\ \hline
+3031GapBS.txt & 100 & 100 & 106.985 s & 0.219 s & 0.208256 \\ \hline
+3131GapBS.txt & 100 & 100 & 45.484 s & 0.25 s & 0.215414 \\ \hline
+3231GapBS.txt & 100 & 100 & 258.859 s & 0.25 s & 0.234601 \\ \hline
+331GapBS.txt & 100 & 100 & 12.797 s & 0.281 s & 0.241493 \\ \hline
+431GapBS.txt & 100 & 100 & 29.359 s & 0.219 s & 0.223791 \\ \hline
+531GapBS.txt & 100 & 100 & 41.063 s & 0.235 s & 0.191579 \\ \hline
+631GapBS.txt & 100 & 100 & 118.141 s & 0.219 s & 0.191325 \\ \hline
+731GapBS.txt & 100 & 100 & 52.734 s & 0.219 s & 0.238625 \\ \hline
+831GapBS.txt & 100 & 100 & 191.844 s & 0.219 s & 0.227572 \\ \hline
+931GapBS.txt & 100 & 100 & 85.438 s & 0.203 s & 0.205873 \\ \hline
+\caption{Tabella dei risultati ottenuti dalle istanze gapb.}
+\label{tab:gapb}
+\end{longtable}
+\newpage
+

@@ -1,12 +1,12 @@
 # 1. impostare qua i tipo di test che si vogliono fare
 
-bilde 	= False		
-chess	= False		
+bilde 	= True		
+chess	= True		
 euclid 	= True		
-fpp11 	= False		
-fpp17 	= False		
-gapa 	= False	 	
-gapb 	= False		
+fpp11 	= True		
+fpp17 	= True		
+gapa 	= True	 	
+gapb 	= True		
 
 
 # scegliere se lanciare la versione discreta (0) o continua (1)
