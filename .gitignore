@@ -1,4 +1,3 @@
-benchmark_data/*
 __pycache__/*
 *.pyc
 risultati/confronto_risultati_test1.txt
